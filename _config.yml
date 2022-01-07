@@ -4,6 +4,7 @@ show_excerpts: true
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
 author: "Uri Yanover"
+linkedin_username: uri_yanover
 
 minima:
   date_format: "%Y-%m-%d"

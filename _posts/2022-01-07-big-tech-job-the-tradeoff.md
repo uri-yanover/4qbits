@@ -40,18 +40,17 @@ bonus factor, allumni networks are real and are fantastic assets for career grow
 # Points against Big Tech jobs
 ## Hyper-specialization
 A lot of Big Tech is about running products and lines business that are years to decades old. This practically means the price of mistakes is extremely high,
-and this breeds a culture that's extremely technologically risk-averse. One very common pattern resulting from tht is relying on grossly over-qualified 
-specialists who are very carefully coaxed into regressive jobs maintaining such products. Over time, the organization bleeds too many people to even be capable
-of considering transformative changes; this is especially true for the leadership.
+and this breeds a culture that's technologically risk-averse; indeed, I consider many leaders in the field to be simply incapable of leading deep technological change.
 
-Although Big Tech likes to brag about super advanced technology, the truth is that most employees are doing mostly "meh" engineering. For the reason
-stated above, the technological "backbone" of most companies is almost always a few years behind of what's considered state of the art in its field; it has 
-been most likely maintained by fairly inexperienced people under a lot of stress to demonstrate some achievement in their periodic reviews -- all of that means 
-that a typical employee spends most of their time fighting the consequences of other people's bad choices, instead of learning how to make good choices of their own.
-
-While figuring out how to meet business objectives given a specific technical stack while minimizing risk is an important skill, it is only one of many
-required to turn aspiring professionals into good ones; and for those of us who have been blessed by a professional flame, overindulging
-in this line of work definitely quenches this flame.
+Although Big Tech likes to brag about super advanced technology, the truth is that most employees are doing mostly "meh" engineering. There are two core reasons for that:
+1. Most work is application work in any case, and application work is much more about knowing and understanding a single set of APIs than anything else. Beyond a 
+   certain point, such knowledge hindreds learning new approahces or technologies, which in turn causes career drag.
+2. Business continuity discourages dramatic changes in the code base. Indeed, the typical case is that most code is maintained incrementally. When changes happen,
+   they are often made by fairly inexperienced people who are under a lot of stress to demonstrate achievements in their periodic reviews.
+   This pattern causes very bad code quality, which causes new employees spends most of their time fighting the consequences of other people's bad choices,
+   instead of learning how to make good choices of their own. 
+   
+From the employee growth perspective, while the above two modes are important, they are only a small part of what it takes to turn aspiring professionals into good ones; and for those of us who have have a passion for engineering, overindulging such work definitely quenches this passion.
 
 ## Impacted well-being
 Big Tech employs a lot of people who already have a decent salary. This is a great recipe for projects not getting anywhere, especially because big organizations 

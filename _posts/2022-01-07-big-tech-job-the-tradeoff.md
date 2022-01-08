@@ -19,7 +19,7 @@ While the sordid specifics may be of interest for a later post, I actually wante
 
 # The Thesis Pro
 ## Money; lots of it
-Big Tech jobs [pay up superbly](https://www.levels.fyi/). All of the companies in question have troves of cash, and as a metter of prestige, they try outbid each other for 
+Big Tech jobs [pay up superbly](https://www.levels.fyi/). All of the companies in question have troves of cash, and as a matter of prestige, they try outbid each other for 
 a contested candidate. A corollary is - if you want to go into the Big Tech job market, do yourself a favor and LeetCode your way far enough to get several offers at once; this will make the compensation cog wheels spin your way.
 
 Right now Big Tech is one of the only options for a reasonably capable person not born into wealth to break the cost-of-living ceiling and to be able to afford 
@@ -34,7 +34,7 @@ Working at Big Tech is today what used to be going to a great school a generatio
 
 Even a year or two of experience in Big Tech allows you to "get the lingo". Accordingly, for a huge number of things you could want to do after Big Tech, having 
 a Big Tech line in your CV would open doors, whether those doors are of more boutique technology operators, of venture capital firms or even of governments. As a 
-bonus factor, allumni networks are real and are fantastic career assets as grow, almost regardless of chosen vocation.
+bonus factor, allumni networks are real and are fantastic career assets for career growth, whether in or out of Big Tech.
 
 # The Thesis Contra
 ## Hyper-specialization
@@ -52,8 +52,8 @@ but only one of many skills required to turn aspiring professionals into good on
 in this line of work definitely quenches this flame.
 
 ## Impacted well-being
-Big Tech employs a lot of people who already a decent salary. This is a great recipe for projects not getting anywhere, especially that big organizations 
-often lack clarity about what engineering work could be good for business.
+Big Tech employs a lot of people who already have a decent salary. This is a great recipe for projects not getting anywhere, especially that big organizations 
+often have a major communications gap between people who can assess business value and the people who can figure out the engineering required for that value.
 
 Accordingly, the recipe that most organizations converged to is -- feed the pool with motivated people (often fresh out of school) and establish a 
 brutal and relentless review regime to keep them moving.

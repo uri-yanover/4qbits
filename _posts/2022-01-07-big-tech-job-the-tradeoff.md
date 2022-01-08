@@ -51,7 +51,7 @@ Although Big Tech likes to brag about super advanced technology, the truth is th
    This pattern causes very bad code quality, which causes new employees spends most of their time fighting the consequences of other people's bad choices,
    instead of learning how to make good choices of their own. 
    
-From the employee growth perspective, while learning how to "play it safe" is an important mindset, it is only a small part of what it takes to level up aspiring professionals; and for those of us who have have a passion for engineering, overindulging such work definitely quenches this passion.
+From the employee growth perspective, while learning how to "play it safe" is an important mindset, it is only a small part of what it takes to level up aspiring professionals; and for those of us who have been blessed with a passion for engineering, overindulging such work definitely quenches this passion.
 
 ## Impacted well-being
 Big Tech employs a lot of people who already have a decent salary. This is a great recipe for projects not getting anywhere, especially because big organizations 

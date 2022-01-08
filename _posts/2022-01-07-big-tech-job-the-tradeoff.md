@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Big Tech Job: The Tradeoff"
+title: "The Big Tech Job As A Tradeoff"
 date: 2022-01-07
 categories: blogging bigtech
 ---

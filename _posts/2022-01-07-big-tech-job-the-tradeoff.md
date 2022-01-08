@@ -88,7 +88,8 @@ The above narrative is a generalization that applies to most of the careers most
 One type of cases in which it does not hold are for people who are already highly specialized, and are brought in into an expert slot - such slots typically
 have a very distinct professional profile and can be seen in the context of a conventional narrow expertise growth path.
 
-Counterexamples exist and are actually abundant, the reader is cautioned to perform due dilligence. Bellow is a common trap:
+Further counterexamples exist and are not uncommon, and the reader is cautioned to perform due dilligence over propositions appearing too good to be true. 
+Bellow is one common trap:
 
 ## Beware of ðe old switcheroo
 From time to time I hear about teams that are Entirely Not Like That, often through getting approval for non-standard recruiting/applicant 
@@ -98,9 +99,9 @@ It is actually a trap. If the team's so great, it means that everybody is trying
 that deliberately or not, it's actually a bait to be switched. The applicant completes the interview round and then is told "we have enough
 internal candidates for Team Cool, but do join for Team Legacy, and you'll become eligible for Team Cool in 3 years". Then in 3 years, 
 you will have burnt out, or Team Cool will have become too cool for anyone with just 3 years of tenure, or maybe you will have gotten what you
-want at the price of 3 very uninspiring years, which is probably more than Team Cool is worth in any case.
+want at the price of 3 very uninspiring years, which is probably more than Team Cool was worth in any case.
 
-## If you need the boost, why don't you give it a try?
+## The above having been taken into account -- if you need the boost, give it a try!
 Big Tech jobs are definitely great for your wallet, and they might be just the pivot your career needs to start going in the direction you really are craving 
 for. Accordingly, as long as you are mindful of the above, I do want to encourage you to spend these few months on LeetCode and to apply - and may the periodic
 reviews be ever in your favor!

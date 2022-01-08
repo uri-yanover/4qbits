@@ -20,7 +20,11 @@ While the sordid specifics may be of interest for a later post, I actually wante
 # The Pros
 ## Money; lots of it
 Big Tech jobs [pay up superbly](https://www.levels.fyi/). All of the companies in question have troves of cash, and as a metter of prestige, they try outbid each other for 
-a contested candidate. A corollary is - if you want to go into the Big Tech job market, do yourself a favor and LeetCode your way far enough to get several offers; this will make the compensation cog wheels spin your way.
+a contested candidate. A corollary is - if you want to go into the Big Tech job market, do yourself a favor and LeetCode your way far enough to get several offers at once; this will make the compensation cog wheels spin your way.
+
+Right now Big Tech is one of the only options for a reasonably capable person not born to wealth to break the cost-of-living ceiling and to be able to afford 
+living in a place that allows a good level of education for children. This is especially salient when considering that the other trades that allow that -- 
+most importantly, law and medicine -- mean having no work-life-balance and working essentially until the death of either the body or the mind -- whatever comes first.
 
 ## Great career bost
 Working at Big Tech is today what used to be going to a great school a generation ago -- a marker of being "far enough" in the modern employment landscape to be a

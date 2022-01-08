@@ -92,5 +92,5 @@ company.
 
 ## If you need the boost, why don't you give it a try?
 Big Tech jobs are definitely great for your wallet, and they might be just the pivot  your career needs to start going in the direction you really are craving 
-for. Accordingly, as long as you are mindful of the above, I do want to encourage you to spend these few months on LeetCode and to apply - and may be periodic
+for. Accordingly, as long as you are mindful of the above, I do want to encourage you to spend these few months on LeetCode and to apply - and may the periodic
 reviews be ever in your favor!

@@ -45,7 +45,7 @@ and this breeds a culture that's technologically risk-averse; indeed, I consider
 
 Although Big Tech likes to brag about super advanced technology, the truth is that most employees are doing mostly "meh" engineering. There are two core reasons for that:
 1. Most work is application work in any case, and application work is much more about knowing and understanding a single set of APIs than anything else. Beyond a 
-   certain point, such knowledge hindreds learning new approahces or technologies, which in turn causes career drag.
+   certain point, such knowledge hindreds learning new approaches and technologies, which in turn causes career drag.
 2. Business continuity discourages dramatic changes in the code base. Indeed, the typical case is that most code is maintained incrementally. When changes happen,
    they are often made by fairly inexperienced people who are under a lot of stress to demonstrate achievements in their periodic reviews.
    This pattern causes very bad code quality, which causes new employees spends most of their time fighting the consequences of other people's bad choices,

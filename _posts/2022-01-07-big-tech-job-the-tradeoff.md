@@ -60,7 +60,7 @@ to justify not seeing my family by a miniscule bump in a KPI that my contributio
 ## No need to be a Genius
 My main message here: Big Tech Jobs mainly require the people holding them to be aggressive optimizers of business performance, which typically does not
 require genius-level intelligence. Appropriately, the Big Tech recruitment pipeline actually selects people by being able to divert several months of their
-attention to memorize the solutions for LeetCode challenges while keeping a smooth performance -- which is, in a way, surprisingly representative of the work
+attention to memorize the solutions for LeetCode challenges and to deliver them smoothly -- which is, in a way, surprisingly representative of the work
 approach required to keep that job after winning it.
 
 ## Just a job

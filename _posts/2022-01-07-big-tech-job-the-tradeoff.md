@@ -64,8 +64,9 @@ From the employees' perspective the above is just the right recipe to descend in
 convenient thing of covering the costs of a gym membership and perhaps of a moderately priced therapist; this is commendable but I much rather prefer not
 having to be depressed in the first place.
 
-For many of us, having major professional challenges could offset those bad feelings; however the hyper-specialization I mentioned above shunts self-realization. 
-In other words, for me personally it's very hard to justify not seeing my family by a miniscule bump in a KPI that my contribution would amount to.
+For many of us, having major professional challenges could offset those bad feelings; however the hyper-specialization I mentioned above shunts self-realization.
+There's literally nothing very cool to be done, and for me personallya miniscule bump in some business metric (which is what my highly specialized labor
+could bring about) would not justify missing out on my family time.
 
 # The Synthesis
 ## No need to be a Genius

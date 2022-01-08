@@ -60,8 +60,8 @@ often have a major gap in communications between people who can assess business 
 Accordingly, the recipe that most organizations converged to is -- to feed the pool with motivated people (often fresh out of school) and establish a 
 brutal and relentless review regime to keep them moving.
 
-From the employees' perspective the above is just the right recipe to descend into a spiral of burn-out, depression and anxiety. The companies only do the
-convenient thing of covering the costs of a gym membership and perhaps of a moderately priced therapist; this is commendable but I much rather prefer not
+From the employees' perspective the above is just the right recipe to descend into a spiral of burn-out, depression and anxiety. The employer then throws in
+a bone of covering the costs of a gym membership and perhaps of a moderately priced therapist; while I find this commendable, I'd much rather prefer not
 having to be depressed in the first place.
 
 For many of us, having major professional challenges could offset those bad feelings; however the hyper-specialization I mentioned above shunts self-realization.
@@ -86,9 +86,10 @@ The above narrative is a generalization that applies to most of the careers most
 Like That, often through getting approval for non-standard recruiting/applicant filtering practices. They are definitely a great way to get the pros,
 without a lot of the cons! But --
 
-It is actually a trap. If the team's so great, it means that everybody is trying to join it, and they end up being used for bait-and-switch -- meaning, 
-you complete the interview round and then hear like "you're not good enough for Team Cool, but do join for Team Legacy, and we'll see in 3 years". 
-Then in 3 years, you will have burnt out, or Team Cool would have become too cool for anyone with just 3 years of tenure, but maybe not.
+It is actually a trap. If the team's so great, it means that everybody is trying to join it, which means very few applications do, which means
+that it's a great prop to be used for bait-and-switch -- you complete the interview round and then hear like "we have enough internal candidates for
+Team Cool, but do join for Team Legacy, and you'll become eligible for Team Cool in 3 years". Then in 3 years, you will have burnt out, or Team Cool
+would have become too cool for anyone with just 3 years of tenure, or maybe you will get what you want at the price of 3 very uninspiring years.
 
 So while counterexamples exist and are actually abundant, they often do not actually apply to the choices relevant for a person deciding to join the 
 company.

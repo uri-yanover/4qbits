@@ -17,12 +17,12 @@ some guidance on what to expect.
 While the sordid specifics may be of interest for a later post, I actually wanted to make one that's entirely devoted to the "big picture".
 
 
-# The Pros
+# The Thesis Pro
 ## Money; lots of it
 Big Tech jobs [pay up superbly](https://www.levels.fyi/). All of the companies in question have troves of cash, and as a metter of prestige, they try outbid each other for 
 a contested candidate. A corollary is - if you want to go into the Big Tech job market, do yourself a favor and LeetCode your way far enough to get several offers at once; this will make the compensation cog wheels spin your way.
 
-Right now Big Tech is one of the only options for a reasonably capable person not born to wealth to break the cost-of-living ceiling and to be able to afford 
+Right now Big Tech is one of the only options for a reasonably capable person not born into wealth to break the cost-of-living ceiling and to be able to afford 
 living in a place that allows a good level of education for children. Current salary levels are high enough to allow some people to effectively retire in their 40s or 50s,
 and start a second career without a major risk of suddenly becoming poor in old age. 
 
@@ -30,17 +30,17 @@ The above is especially salient when considering that the other trades that allo
 in tech and working essentially until the death of either the body or the mind -- whatever comes first.
 
 ## Great career bost
-Working at Big Tech is today what used to be going to a great school a generation ago -- a marker of being "far enough" in the modern employment landscape to be a
-"generally useful employee" within a fairly wide spectrum.
+Working at Big Tech is today what used to be going to a great school a generation ago -- a marker of being "far enough" in the modern employment landscape to be "the right stuff" for a wide variety of purposes.
 
-Even a year or two of experience allows you to "get the lingo". Accordingly, for a huge number of things you could want to do after Big Tech, having a Big Tech line in your CV -- even as internship -- would open doors, whether those doors are of more boutique technology operators, of venture capital firms or even of governments. As a bonus factor,
-allumni networks are real and are fantastic career assets as grow, almost regardless of chosen vocation.
+Even a year or two of experience in Big Tech allows you to "get the lingo". Accordingly, for a huge number of things you could want to do after Big Tech, having 
+a Big Tech line in your CV would open doors, whether those doors are of more boutique technology operators, of venture capital firms or even of governments. As a 
+bonus factor, allumni networks are real and are fantastic career assets as grow, almost regardless of chosen vocation.
 
-# The Cons
+# The Thesis Contra
 ## Hyper-specialization
-A lot of Big Tech is about running decades-old lines of business, which means being extremely risk-averse, which means that it's better to rely on 
+A lot of Big Tech is about running decades-old lines of business, which means being extremely risk-averse, which means that they converge to relying on 
 grossly over-qualified specialists doing menial jobs around keeping the business going than to even start considering any transformative change.
-Indeed, among the executives there are very few people who would even be able to oversee such a change.
+Indeed, among the executives there are very few people who would even be able to oversee a transformative change.
 
 Although Big Tech likes to brag about super advanced technology, the truth is that most people are doing really meh engineering. You'll almost always be basing on company-
 internal infra which is almost always a few years behind of what's considered state of the art in its field; it has been most likely maintained by fairly inexperienced people
@@ -48,7 +48,8 @@ under a lot of stress to demonstrate some achievement in their periodic reviews 
 much more than learning how to make good choices of your own.
 
 Figuring out how to avoid risk as much as possible given a specific technical stack while meeting the business objectives is an important skill, 
-but only one of what turns aspiring engineers into good ones; and it definitely quenches the flame for those of us who happen to have it.
+but only one of many skills required to turn aspiring professionals into good ones; and for those of us who have been blessed with a professional flame, overindulging
+in this line of work definitely quenches this flame.
 
 ## Impacted well-being
 Big Tech employs a lot of people who already a decent salary. This is a great recipe for projects not getting anywhere, especially that big organizations 
@@ -57,13 +58,13 @@ often lack clarity about what engineering work could be good for business.
 Accordingly, the recipe that most organizations converged to is -- feed the pool with motivated people (often fresh out of school) and establish a 
 brutal and relentless review regime to keep them moving.
 
-For a lot fo people the above is just the right recipe to descend into a spiral of burn-out, depression and anxiety. The company does the one thing it can do,
-which is -- to pay for your gym and perhaps a therapist.
+For a lot fo people the above is just the right recipe to descend into a spiral of burn-out, depression and anxiety. The companies only do the convenient thing of covering
+the costs of a gym membership and perhaps of a moderately priced therapist; this is commendable but I much rather prefer not having to be depressed in the first place.
 
-The above is especially salient when considering the lack of self-realization that comes from hyper-specialization. For me personally it's very hard
-to justify not seeing my family by a miniscule bump in a KPI that my contribution would amount to.
+For many of us, having major professional challenges could offset those bad feelings; however the hyper-specialization I mentioned above shunts self-realization. 
+In other words, for me personally it's very hard to justify not seeing my family by a miniscule bump in a KPI that my contribution would amount to.
 
-# Neutral notes and Summary
+# The Synthesis
 ## No need to be a Genius
 My main message here: Big Tech Jobs mainly require the people holding them to be aggressive optimizers of business performance, which typically does not
 require genius-level intelligence. Appropriately, the Big Tech recruitment pipeline actually selects people by being able to divert several months of their

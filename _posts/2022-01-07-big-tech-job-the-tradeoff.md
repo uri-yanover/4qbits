@@ -10,7 +10,7 @@ categories: blogging bigtech
 # The Big Tech Job as a Tradeoff
 
 Overall, I spent about 3 years in semi-Big-Tech and Big-Tech, which were not very pleasurable; at least a part of that were bad choices I made.
-In hindsight; I did not reach out far enough to ask for more experienced people's opinionbs, being was the first person within a certain social circle to work at Big Tech.
+In hindsight I did not reach out far enough to ask for more experienced people's opinionbs, being was the first person within a certain social circle to work at Big Tech.
 While I cannot improve the past, I can assist my main intended audience - professionals who are making or considering their own first steps in Big Tech - whom I hope to 
 provide with some priming on what to expect.
 

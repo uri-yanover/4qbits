@@ -5,7 +5,7 @@ date: 2022-01-07
 categories: blogging bigtech
 ---
 
-**TL;DR**: Pros: a lot of money and a great CV line. Cons: hyper-specialization, lack of self-realization and a dip in well-being
+**TL;DR**: Pros: a lot of money and a great CV line. Cons: professional rot and a mental health hazard.
 
 # The Subtext of Big Tech as a Job
 

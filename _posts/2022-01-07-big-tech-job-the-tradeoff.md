@@ -39,15 +39,15 @@ bonus factor, allumni networks are real and are fantastic assets for career grow
 
 # Points against Big Tech jobs
 ## Hyper-specialization
-A lot of Big Tech is about running decades-old lines of business, which means being extremely technologically risk-averse in an extreme way. Such products
-often settle down on relying on grossly over-qualified specialists carrying out menial work to keep the business going. Such organizations are fundamentally
-incapable of even considering any transformative changes. A major reason for that is the absence of people who would even be able to oversee a transformative change
-among the leadership.
+A lot of Big Tech is about running products and lines business that are years to decades old. This practically means the price of mistakes is extremely high,
+and this breeds a culture that's extremely technologically risk-averse. One very common pattern resulting from tht is relying on grossly over-qualified 
+specialists who are very carefully coaxed into regressive jobs maintaining such products. Over time, the organization bleeds too many people to even be capable
+of considering transformative changes; this is especially true for the leadership.
 
-Although Big Tech likes to brag about super advanced technology, the truth is that most employees are doing mostly "meh" engineering. Company-
-internal infrastructure is almost always a few years behind of what's considered state of the art in its field; it has been most likely maintained by 
-fairly inexperienced people under a lot of stress to demonstrate some achievement in their periodic reviews -- all of that means that a typical employee
-spends most of their time fighting the consequences of other people's bad choices, instead of learning how to make good choices of their own.
+Although Big Tech likes to brag about super advanced technology, the truth is that most employees are doing mostly "meh" engineering. For the reason
+stated above, the technological "backbone" of most companies is almost always a few years behind of what's considered state of the art in its field; it has 
+been most likely maintained by fairly inexperienced people under a lot of stress to demonstrate some achievement in their periodic reviews -- all of that means 
+that a typical employee spends most of their time fighting the consequences of other people's bad choices, instead of learning how to make good choices of their own.
 
 While figuring out how to meet business objectives given a specific technical stack while minimizing risk is an important skill, it is only one of many
 required to turn aspiring professionals into good ones; and for those of us who have been blessed by a professional flame, overindulging

@@ -7,7 +7,7 @@ categories: blogging bigtech
 
 **TL;DR**: Pros: a lot of money and a great CV line. Cons: professional rot and a mental health hazard.
 
-# The Big Tech as a Tradeoff
+# The Big Tech Job as a Tradeoff
 
 Overall, I spent about 3 years in semi-Big-Tech and Big-Tech, which were not very pleasurable; at least a part of that is a result of me being 
 the first person within a certain social circle to work at Big Tech, which caused me to make some bad choices. 

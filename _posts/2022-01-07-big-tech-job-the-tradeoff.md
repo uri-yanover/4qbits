@@ -41,11 +41,11 @@ Indeed, among the executives there are very few people who would even be able to
 
 Although Big Tech likes to brag about super advanced technology, the truth is that most people are doing really meh engineering. You'll almost always be basing on company-
 internal infra which is almost always a few years behind of what's considered state of the art in its field; it has been most likely maintained by fairly inexperienced people
-under a lot of stress to demonstrate some achievement in their yearly reviews, which makes for an overall lost cause in terms of your growth as a specialist.
+under a lot of stress to demonstrate some achievement in their periodic reviews -- all of that means you'll be fighting the consequences of other people's bad choices
+much more than learning how to make good choices of your own.
 
-I saw very few jobs around Big Tech that really required brightness out of people, and even at that, the main brightness was figuring out how to avoid
-risk as much as possible given a specific technical stack while meeting the business objectives -- which is an important skill, but probably not one 
-that would enable the engineer to grow into other fields.
+Figuring out how to avoid risk as much as possible given a specific technical stack while meeting the business objectives is an important skill, 
+but only one of what turns aspiring engineers into good ones; and it definitely quenches the flame for those of us who happen to have it.
 
 ## Impacted well-being
 Big Tech employs a lot of people who already a decent salary. This is a great recipe for projects not getting anywhere, especially that big organizations 

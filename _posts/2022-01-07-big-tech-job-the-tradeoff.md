@@ -36,7 +36,7 @@ fit for a wide variety of purposes.
 
 Even a year or two of experience in Big Tech allows you to "learn the lingo". For a huge number of things you could want to do after Big Tech, having 
 a Big Tech line in your CV would open doors, whether those doors are of more boutique technology operators, of venture capital firms or even of governments. As a 
-bonus factor, allumni networks are real and are fantastic assets for career growth, whether in or out of Big Tech.
+bonus factor, alumni networks are real and are fantastic assets for career growth, whether in or out of Big Tech.
 
 # Points against Big Tech jobs
 ## Hyper-specialization

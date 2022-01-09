@@ -82,7 +82,7 @@ A lot of people in Big Tech can testify that their jobs caused an adverse impact
 Especially for people who are like 2 or 3 years into Big Tech, if that's where you're at -- get out. You already unlocked like 80% of the CV potential, 
 and you are literally one interview round away from jobs that are much much better for your well-being - likely outside of Big Tech.
 
-## Specific Circumstnaces Matter
+## Specific Circumstances Matter
 The above narrative is a generalization that applies to most of the careers most of the time.
 
 One type of cases in which it does not hold are for people who are already highly specialized, and are brought in into an expert slot - such slots typically

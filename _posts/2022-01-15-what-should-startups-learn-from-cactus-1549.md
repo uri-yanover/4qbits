@@ -23,7 +23,7 @@ The aircraft having been configured ("lined up") for ditching, the Captain asked
 
 The point at which this dialogue happened was the only opportunity to align on the inevitability of a ditching; it was put to good use.
 
-20 seconds later and a grand total of 208 seconds since the loss of thrust, the aircraft touched the water surface. An essentially perfect ditching ensued, which means that the plane remained afloat long enough for all passengers and crew to be rescued using watercraft. The event became known as the [Miracle on the Hudson](https://en.wikipedia.org/wiki/US_Airways_Flight_1549). The pilots - Capt. Chesley Sullenberger and First Officers Jeff Skiles were rightfully recognized as heros.
+20 seconds later and a grand total of 208 seconds since the loss of thrust, the aircraft touched the water surface. An essentially perfect ditching ensued, which means that the plane remained afloat long enough for all passengers and crew to be rescued using watercraft. The event became known as the [Miracle on the Hudson](https://en.wikipedia.org/wiki/US_Airways_Flight_1549). The pilots - Capt. Chesley Sullenberger and First Officers Jeff Skiles - were rightfully recognized as heros.
 
 # What does the above have to do with startups?
 So just to begin with the obvious: startups are way less dramatic than that; typically nobody’s life is immediately at stake.

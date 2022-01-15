@@ -17,11 +17,9 @@ The playbook began with turning on the Auxiliary Power Unity to regain electrica
 
 The "happy flow" for this type of accident, one that happens 99.99% of the time, is that at least some thrust is regained to allow an emergency landing in an airport. By taking over controls and comms, the Captain actually freed the mental space for the First Officer to go as much as possible down that path in the short time we’ve had.
 
-When you’re this low and out of thrust, things develop quickly. As a second line of defence, the Captain put himself to play the worst-case game. He chose a nearby airport to divert to, communicated that choice to the ATC, realized that such an attempt was unfeasible and accordingly made the agonizing decision of ditching in a nearby water body, and getting word of that to the cabin crew.
+When you’re this low and out of thrust, things develop quickly. As a second line of defence, the Captain put himself to play the worst-case game. He chose a nearby airport to divert to, communicated that choice to the ATC, realized that no thrust was being regained and accordingly turned around his decision to the agonizing option of ditching in a nearby water body. For that he configured ("lined up") the aircraft and informed the cabin crew.
 
-The aircraft having been configured ("lined up") for ditching, the Captain asked the First Officer if he had any ideas. The First Officer did not so the Captain told him to brace.
-
-The point at which this dialogue happened was the only opportunity to align on the inevitability of a ditching; it was put to good use.
+It was at that point that the Captain asked the First Officer if he had any ideas. The First Officer did not so the Captain told him to brace. The point at which this dialogue happened was probably the last moment to explicitly align on both the inevitability of a ditching and ensure that no major deviations existed from the ditching configuration.
 
 20 seconds later and a grand total of 208 seconds since the loss of thrust, the aircraft touched the water surface. An essentially perfect ditching ensued, which means that the plane remained afloat long enough for all passengers and crew to be rescued using watercraft. The event became known as the [Miracle on the Hudson](https://en.wikipedia.org/wiki/US_Airways_Flight_1549). The pilots - Capt. Chesley Sullenberger and First Officers Jeff Skiles - were rightfully recognized as heros.
 

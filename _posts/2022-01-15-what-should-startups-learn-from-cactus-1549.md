@@ -21,14 +21,14 @@ When you’re this low and out of thrust, things develop quickly. The Captain ch
 
 It was at that point that the Captain asked the First Officer if he had any ideas. That was the last and probably the only available moment to apply "high-level cognition" to the question of whether ditching had remained inevitable and to get another "mental scan" on the aircraft's configuration. The First Officer said he did not have any ideas, so the Captain told him to brace.
 
-20 seconds later and a grand total of 208 seconds since the loss of thrust, the aircraft touched down on water. An almost textbook-perfect ditching ensued, which means that the aircraft decelerated smoothly and remained afloat for even longer than the minimal 90 seconds it takes to evacuate. The accident became known as the [Miracle on the Hudson](https://en.wikipedia.org/wiki/US_Airways_Flight_1549). The pilots - Capt. Chesley Sullenberger and First Officers Jeff Skiles - were rightfully recognized as heros.
+20 seconds later and a grand total of 208 seconds since the loss of thrust, the aircraft touched down on water. An almost textbook-perfect ditching ensued, which means that the aircraft decelerated smoothly and remained afloat for even longer than the minimal 90 seconds it takes to evacuate. The accident became known as the [Miracle on the Hudson](https://en.wikipedia.org/wiki/US_Airways_Flight_1549). The pilots - Capt. Chesley Sullenberger and First Officer Jeff Skiles - were rightfully recognized as heros.
 
 # What does the above have to do with startups?
 So just to begin with the obvious: startups are way less dramatic than that; typically nobody’s life is immediately at stake.
 
 Yet I would not be the first to propose the analogy of startup life to an aircraft that does not (yet) have enough engine power to soar. 
 
-Cognitive load management is the skill that made the difference between the default outcome of everybody perishing and the unlikely outcome that allowed everybody to survive. While Cactus 1549’s pilots did a fantastic job of making mental room for each other, there were numerous cases of lives lost due to pilots not managing each other’s attention. Similarly, I’d personally heard of startups in which the leadership went into a loop on doing the wrong things, causing an otherwise salvageable business to fail.
+Cognitive load management is the skill that made the difference between the default outcome of everybody perishing and the unlikely outcome that allowed everybody to survive. In the successes of pilots doing a fantastic job of managing their own and each other's mental spaces during the Cactus 1549 accident and other times, there were also numerous cases of lives lost as a direct consequence of pilots failing in that specific skill. In a similar vein, I’d personally heard of more than one startup in which the leadership went into a loop on doing the wrong things, causing an otherwise salvageable business to fail.
 
 
 There are several important parallels that the Cactus 1549 story implies directly and unequivocally:

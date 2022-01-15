@@ -11,11 +11,11 @@ TL:DR: Cognitive Offloading is the behavior that makes strartups tick - or not
 
 12 years ago to the day, an Airbus 320 flying under the call-sign Cactus 1549 and carrying 150 passengers and 5 crew experienced an abrupt loss of thrust on both engines soon after take-off.
 
-The Pilot Flying (PF) at that time was the First Officer, which made the Captain the Pilot Not Flying at that instant; within the next few minutes, the crew made a number of crucial decisions; the first two of these decisions must have been drilled extensively and automatic, but beyond that the official script ended, and they played the rest by ear.
+The Pilot Flying (PF) at that time was the First Officer, which made the Captain the Pilot Not Flying at that instant; within the next few minutes, the crew made a number of crucial decisions; the first two of these decisions must have been drilled extensively and automatic, but beyond that they had to "play by ear" using several fundamental techniques they were trained on.
 
-The playbook began with turning on the Auxiliary Power Unity to regain electrical power supply and the Captain, being the more senior pilot on the Airbus, assuming controls. He thus became the Pilot Flying; in addition to that he assumed comms, which meant that the First Officer could focus on the engine restart checklist. 
+The playbook moves were: turning on the Auxiliary Power Unit to regain electrical power supply and the Captain, being the more senior pilot on the Airbus, assuming controls becoming the Pilot Flying; in addition to that he assumed comms, which meant that the First Officer could focus on the engine restart checklist. 
 
-The "happy flow" for this type of accident, one that happens 99.99% of the time, is that at least some thrust is regained to allow an emergency landing in an airport. By taking over controls and comms, the Captain actually freed the mental space for the First Officer to go as much as possible down that path in the short time they have had.
+The "happy flow" for instantaneous loss of thrust, one that happens literally 99.99% of the time is "reigniting" the engines to "squeeze out" enough thrust to reach a nearby airport. By taking over controls and comms, the Captain actually freed the mental space for the First Officer to go as much as possible down that path in the short time they had had.
 
 When you’re this low and out of thrust, things develop quickly. The Captain chose a nearby airport to divert to, communicated that choice to the ATC, but soon had the presense of mind to realize that no thrust was being regained. Avoiding the common aviation disease of "get-there-itis", the Captain put himself to play the worst-case hand and accordingly reversed his landing decision in favor of the agonizing option of ditching in a nearby water body. For that he configured ("lined up") the aircraft and informed the cabin crew.
 

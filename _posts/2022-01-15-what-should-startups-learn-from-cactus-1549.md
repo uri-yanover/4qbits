@@ -7,7 +7,8 @@ categories: blogging aviation startup
 
 TL:DR: Cognitive Offloading is the behavior that makes strartups tick - or not
 
-#The Farm Not Bought
+# The Farm Not Bought
+
 12 years ago to the day, an Airbus 320 flying under the call-sign Cactus 1549 and carrying 150 passengers and 5 crew experienced an abrupt loss of thrust on both engines soon after take-off.
 
 The Pilot Flying (PF) at that time was the First Officer, which makes the Captain at that time the Pilot Not Flying; within the next few minutes, the crew made a number of crucial decisions; the first two of these decisions must have been drilled extensively, but beyond that the official script ended, and they played the rest by ear.

@@ -19,7 +19,7 @@ The "happy flow" for this type of accident, one that happens 99.99% of the time,
 
 When you’re this low and out of thrust, things develop quickly. The Captain chose a nearby airport to divert to, communicated that choice to the ATC, realized that no thrust was being regained. As a second line of defence, the Captain put himself to play the worst-case game and accordingly reversed his landing decision to the agonizing option of ditching in a nearby water body. For that he configured ("lined up") the aircraft and informed the cabin crew.
 
-It was at that point that the Captain asked the First Officer if he had any ideas. The First Officer did not so the Captain told him to brace. That was the last and probably the only available moment to use "high-level cognition" to align on a ditching being inevitable and to ensure that the ditching configuration has been assumed correctly.
+It was at that point that the Captain asked the First Officer if he had any ideas. The First Officer did not so the Captain told him to brace. That was the last and probably the only available moment to use "high-level cognition" to align on a ditching being inevitable and to ensure that the ditching configuration had been assumed correctly.
 
 20 seconds later and a grand total of 208 seconds since the loss of thrust, the aircraft touched the water surface. An essentially textbook-perfect ditching ensued, which means that the plane remained afloat long enough for all passengers and crew to be rescued using watercraft. The event became known as the [Miracle on the Hudson](https://en.wikipedia.org/wiki/US_Airways_Flight_1549). The pilots - Capt. Chesley Sullenberger and First Officers Jeff Skiles - were rightfully recognized as heros.
 

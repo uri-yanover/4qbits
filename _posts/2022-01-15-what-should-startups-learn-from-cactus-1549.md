@@ -9,15 +9,15 @@ TL:DR: Cognitive Offloading is the behavior that makes strartups tick - or not
 
 # The Farm Not Bought
 
-12 years ago to the day, an Airbus 320 flying under the call-sign Cactus 1549 and carrying 150 passengers and 5 crew experienced an abrupt loss of thrust on both engines soon after take-off.
+13 years ago to the day, an Airbus 320 flying under the call-sign Cactus 1549 and carrying 150 passengers and 5 crew experienced an abrupt loss of thrust on both engines soon after take-off.
 
-The Pilot Flying (PF) at that time was the First Officer, which made the Captain the Pilot Not Flying at that instant; within the next few minutes, the crew made a number of crucial decisions; the first two of these decisions must have been drilled extensively and automatic, but beyond that they had to "play by ear" using several fundamental techniques they were trained on.
+The Pilot Flying at that time was the First Officer, which made the Captain the Pilot Not Flying at that instant; within the next few minutes, the crew made a number of crucial decisions; the first two of these decisions must have been drilled extensively and automatic, but beyond that they had to "play by ear" using several fundamental techniques they were trained on.
 
 The playbook moves were: turning on the Auxiliary Power Unit to regain electrical power supply and the Captain, being the more senior pilot on the Airbus, assuming controls and becoming the Pilot Flying; in addition to that he assumed comms, which meant that the First Officer could focus on the engine restart checklist. 
 
 The "happy flow" for instantaneous loss of thrust, one that happens literally 99.99% of the time is "restarting" the engines to "squeeze out" enough thrust to reach a nearby airport. Engine restarts require several critical steps. By taking over controls and comms, the Captain actually freed the mental space for the First Officer to retry the checklist as many times as possible in the short time they had had.
 
-When you’re this low and out of thrust, things develop quickly. The Captain chose a nearby airport to divert to, communicated that choice to the ATC, but soon had the presense of mind to realize that no thrust was being regained. Avoiding the common aviation disease of "get-there-itis", the Captain put himself to play the worst-case hand and accordingly reversed his landing decision in favor of the agonizing alternative of ditching in a nearby water body. For that he configured ("lined up") the aircraft and informed the cabin crew.
+When you’re this low and out of thrust, things develop quickly. The Captain chose a nearby airport to divert to, communicated that choice to the ATC, but soon had the presense of mind to realize that no thrust was being regained. Overcoming the standard bias of sticking with a choice that was no longer possible ("get-there-itis"), the Captain put himself to play the worst-case hand and accordingly reversed his landing decision in favor of the agonizing alternative of ditching in a nearby water body. For that he configured ("lined up") the aircraft and informed the cabin crew.
 
 It was at that point that the Captain asked the First Officer if he had any ideas. That was the last and probably the only available moment to apply "high-level cognition" to the question of whether ditching had remained inevitable and to get another "mental scan" on the aircraft's configuration. The First Officer said he did not have any ideas, so the Captain told him to brace.
 

@@ -4,7 +4,7 @@ title: "What it takes to be Changing the World as a Job"
 date: 2022-01-22
 categories: blogging startup
 ---
-**TL;DR**: How to sustain oneself emotionally when being a minor part of a major noble undertaking
+**TL;DR**: How to set oneself up to be a minor part of a major noble undertaking
 
 I’d been blessed to work at a place that might positively affect the lives of a lot of people in a dramatic way. This experience provided me with an opportunity to examine the role of a benign mission in today’s tech labor market.
 
@@ -13,7 +13,7 @@ The absence of meaning is a [pervasive attribute of modern workspaces](https://e
 # The False Pretense
 First and foremost, the “simple” ways of positively changing the world had been exhausted a long time ago. What remains is complex ways - such as building a commercially viable product that can grow via economic viability and benefits humanity as a side effect, or at least convincing enough to warrant private individuals’ patronage.
 
-How many people need to be involved to be making a major difference? If counting people with a measurable impact on the outcome, their number would be in the thousands range. They need to work for years to get to their goal. Thus, most individuals except the very fortunate few who started the whole deal, are accountable only for something like 1/1000th of the eventual outcome.
+How many people need to be involved to be making a major difference? If counting people with a measurable impact on the outcome, their number would be in the thousands range. They need to work for years to get to their goal. Thus, the vast majority of contributors will have contributed an order of 1/1000th of the eventual outcome.
 
 A further reservation is that as soon as there are more than a few dozen people involved, they will inevitably start having different tactical goals in mind, which typically leads to a waste of time and resources. Accordingly, a lot of people’s individual impacts will simply vanish (perhaps raising the “stake” of the others, but not in a way that can be known in foresight).
 

@@ -4,7 +4,7 @@ title: "What it takes to be Changing the World as a Job"
 date: 2022-01-22
 categories: blogging startup
 ---
-**TL;DR**: How to draw meaning in a one-thousandth slice of a wholesome achievement
+**TL;DR**: How to sustain oneself emotionally when being a minor part of a major noble undertaking
 
 I’d been blessed to work at a place that might positively affect the lives of a lot of people in a dramatic way. This experience provided me with an opportunity to examine the role of a benign mission in today’s tech labor market.
 

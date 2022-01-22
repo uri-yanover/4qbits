@@ -5,7 +5,7 @@ date: 2022-01-15
 categories: blogging aviation startup
 ---
 
-TL:DR: Cognitive Offloading is the behavior that makes strartups tick - or not
+**TL:DR**: Cognitive Offloading is the behavior that makes strartups tick - or not
 
 # The Farm Not Bought
 

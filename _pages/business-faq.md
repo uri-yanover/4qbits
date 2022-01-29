@@ -2,7 +2,7 @@
 layout: post
 title: Business FAQ
 date: 2022-01-29
-categories: recruiting
+categories: recruiting business mentoring
 ---
 **TL;DR**: I partner with owners of business to create SW that adds significantly to that business' value.
 

@@ -18,7 +18,7 @@ A: I do not, and am not going to work with people who think that.
 A: I will happily mentor anyone at any time. I love my profession, and mentorship is the cherry on top,
 
 
-> Q: I am a recruiter, can I interest you in <anything job-related>?
+> Q: I am a recruiter, can I interest you in &lt;anything job-related&gt;?
 
 A: No. See the next point.
 

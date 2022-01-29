@@ -9,14 +9,17 @@ categories: recruiting
 # FAQ
 
 Q: You code for money, right? (Ignoring everything else written here)
+
 : A: I do not, and am not going to work with people who think that.
 
 
 Q: Could you mentor me?
+
 : A: I will happily mentor anyone at any time. I love my profession, and mentorship is the cherry on top,
 
 
 Q: I am a recruiter, can I interest you in <anything job-related>?
+
 : A: No. See the next point.
 
 Q: Who are the ONLY people with whom you talk about jobs?

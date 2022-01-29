@@ -41,6 +41,6 @@ Beginning any career slice entails the following:
 To sum up: can you internalize becoming the professional and the person the new job requires you to be, for better and for worse?
 
 # Epilog
-As the guy who's going to be working with a candidate, it's very important for me to know that now instead of investing into them for a year and then having them sulk and quit!
+As the guy who's going to be working with a candidate, it's very important for me to have them face their own preferences early on instead of investing into them for a year and then have them sour and quit!
 
 As I already mentioned, a vast majority of the people are unforthcoming to themselves on these two questions, and I think that this both fuels a feeling of existential anxiety on one hand, and a pattern of missed opportunities on the other. I hope that I can motivate you to reflect upon yourself from this perspective, so you'd be able to make an active and informed decision within a constructive dialogue with yourself; such a dialogue will also give you tools to face the inevitable FOMO which you'll have when you see people who made opposite choices to yours.

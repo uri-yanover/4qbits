@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recruiter FAQ
+title: Business FAQ
 date: 2022-01-29
 categories: recruiting
 ---

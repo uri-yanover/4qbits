@@ -9,7 +9,6 @@ categories: recruiting
 # FAQ
 
 > Q: You code for money, right? (Ignoring everything else written here)
-
 > A: I do not, and am not going to work with people who think that.
 
 

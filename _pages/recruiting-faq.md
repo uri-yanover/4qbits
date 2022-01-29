@@ -8,9 +8,9 @@ categories: recruiting
 
 # FAQ
 
-Q: You code for money, right? (Ignoring everything else written here)
+> Q: You code for money, right? (Ignoring everything else written here)
 
-: A: I do not, and am not going to work with people who think that.
+> A: I do not, and am not going to work with people who think that.
 
 
 Q: Could you mentor me?

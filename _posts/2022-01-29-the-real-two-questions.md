@@ -14,7 +14,7 @@ To put it bluntly: for a fortunate person, a year of life is 2% of their time be
 
 It is especially true when it's one's first job (or the first job after a major pivot) – since a first job affects consequent positions as well, this one little step affects at least 10% of your working life, and perhaps even more!
 
-There are two basic questions that need answering:
+Without further ado, these are the two basic questions that you need to be able to answer.
 
 # Question 1: What's your general risk appetite?
 
@@ -41,6 +41,6 @@ Beginning any career slice entails the following:
 To sum up: can you internalize becoming the professional and the person the new job requires you to be, for better and for worse?
 
 # Epilog
-As the guy who's going to be working with you, it's very important for me to know that now and not after sulking for a year and quitting after major investment on my side! 
+As the guy who's going to be working with a candidate, it's very important for me to know that now instead of investing into them for a year and then having them sulk and quit!
 
-As I said a couple of times, a vast majority of the people are unforthcoming to themselves on these two questions, and I think that this both fuels a feeling of existential anxiety on one hand, and a pattern of missed opportunities on the other. I hope that I can motivate you to reflect upon yourself from this perspective, so you'd be able to make an active and informed decision within a constructive dialogue with yourself; such a dialogue will also give you tools to face the inevitable FOMO which you'll have when you see people who made opposite choices to yours.
+As I already mentioned, a vast majority of the people are unforthcoming to themselves on these two questions, and I think that this both fuels a feeling of existential anxiety on one hand, and a pattern of missed opportunities on the other. I hope that I can motivate you to reflect upon yourself from this perspective, so you'd be able to make an active and informed decision within a constructive dialogue with yourself; such a dialogue will also give you tools to face the inevitable FOMO which you'll have when you see people who made opposite choices to yours.

@@ -8,11 +8,11 @@ categories: blogging career
 
 Since I'm working for a place with the rightfully earned reputation of "saving the world", I spend an average of several hours each month talking to people who think about dropping whatever else they're doing and joining the (unironically) noble endeavor.
 
-Before the conversation becomes a recruiting one, I often go to great lengths to make sure the candidate understands one basic thing. It is to my amazement that most don't.
+Before the conversation becomes a recruiting one, I often go to great lengths to make sure the candidate understands one basic thing with the help of the two questions I'll present next. It is to my amazement that most don't.
 
-To put it bluntly: for a fortunate person, a year of life is 2% of their time between their teens and retirement age. Thus a reasonable 2.5-year stint is actually 5% of one's working lifetime.
+To put it bluntly: for a fortunate person, a year of life is 2% of their time between their teens and their retirement. Thus a typical 2.5-year stint is actually 5% of one's working lifetime.
 
-It is especially true when it's your first job (or the first job after a major pivot) – since your first job affects your consequent positions as well, this one little signature influences at least 10% of your working life.
+It is especially true when it's one's first job (or the first job after a major pivot) – since a first job affects consequent positions as well, this one little step affects at least 10% of your working life, and perhaps even more!
 
 There are two basic questions that need answering:
 
@@ -20,9 +20,9 @@ There are two basic questions that need answering:
 
 From afar, people tend to look only on upside, and then become disillusioned once they face the details/consequences. Any comparison in which you compare "foresight" and "hindsight" knowledge is going to be impossibly skewed in favor of the exciting new option.
 
-Yet when the time comes to commit to the exciting new option, a lot of people in the industry tend to be exceedingly risk-averse - to the point of never making that major change that was possible in foresight and obvious in hindsight.
+Yet when the time comes to commit to the exciting new option, a lot of people in the industry tend to the other extreme - they become exceedingly risk-averse! They never actually go ahead with that bold move that could be entirely plausible in foresight and obvious in hindsight.
 
-Don't take me wrong: there's a lot at stake! It's perfectly rational to be risk-averse in a *calculated* way. I am personally a risk-taker, but that's because I can afford it! I've had a lot of bases having been covered thoroughly earlier in my career, which allows me wiggle room. 
+Don't take me wrong: there's a lot at stake! It's perfectly rational to be risk-averse in a *calculated* way. I am personally a risk-taker, but that's because I can afford it! I've had a lot of bases covered thoroughly earlier in my career, which now gives me wiggle room. 
 
 What I ask for you is to do that calculus, as opposed to forever being reactive. Sometimes making a gutsy move is by far wiser.
 

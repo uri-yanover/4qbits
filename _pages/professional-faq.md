@@ -4,7 +4,7 @@ title: Professional FAQ
 date: 2022-01-29
 categories: recruiting business mentoring
 ---
-**TL;DR**: Making SW move from Point A to Point B, by hook or by crook.
+**TL;DR**: Taking SW teams over very uncharted terrain from Point A to Point B, by hook or by crook.
 
 # FAQ
 
@@ -14,7 +14,9 @@ A: There are 3 necessary aspects:
 
 - Outcome-orientation: A major transformation is necessary (like 0→1 or 1→100 - not 7→9/"feature factory" scenarios).
 - Leadership: There are other people whom I can lead (and who understand they need leadership). I'm very often a major individual contributor as well, but I can have a much greater specific impact when guiding a long-term effort of several people. Maximizing specific impact is by far what I want to focus on going forward.
-- Engineering muscle: the work is beyond cookie-cutter. Positive example: you need to build a product that other people are not doing, and are not sure what it means technically. Negative example: you need a CRUD API, and just want somebody to do it for you.
+- Engineering novelty: not doing cookie-cutting. 
+  - A positive example: building a new product that requires some kind of technology that's not on-the-shelf.
+  - A negative example: you know you need a CRUD API, and just lack the working hands to do it well 
 
 
 > Q: So you code for money, right? (Ignoring everything else written here)

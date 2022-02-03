@@ -1,14 +1,23 @@
 ---
 layout: post
-title: Business FAQ
+title: Proffessional FAQ
 date: 2022-01-29
 categories: recruiting business mentoring
 ---
-**TL;DR**: I partner with owners of business to create SW that adds significantly to that business' value.
+**TL;DR**: Making SW move from Point A to Point B, by hook or by crook.
 
 # FAQ
 
-> Q: You code for money, right? (Ignoring everything else written here)
+> Q: What kind of challenges do you undertake?
+
+A: There are 3 necessary aspects:
+
+- Outcome-orientation: A major transformation is necessary (like 0→1 or 1→100 - not 7→9/"feature factory" scenarios).
+- Leadership: There are other people whom I can lead. I'm always a major contributor as well, but I can have a much greater marginal impact when guiding a long-term effort of several people, and I'm a sucker for impact.
+- Engineering muscle: you don't need a cookie-cutter achievement. Positive example: you need to build a product that other people are not doing, and are not sure what it means technically. Negative example: you need a CRUD APIs.
+
+
+> Q: So you code for money, right? (Ignoring everything else written here)
 
 A: I do not, and am not going to work with people who think that.
 

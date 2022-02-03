@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proffessional FAQ
+title: Professional FAQ
 date: 2022-01-29
 categories: recruiting business mentoring
 ---

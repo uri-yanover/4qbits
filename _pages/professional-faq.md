@@ -13,7 +13,7 @@ categories: recruiting business mentoring
 A: There are 3 necessary aspects:
 
 - Outcome-orientation: A major transformation is necessary (like 0→1 or 1→100 - not 7→9/"feature factory" scenarios).
-- Leadership: There are other people whom I can lead (and who understand they need leadership). I'm very often a major individual contributor as well, but I can have a much greater specific impact when guiding a long-term effort of several people. Maximizing specific impact is by far what I want to focus on going forward.
+- Leadership: There are other people whom I can lead (and who understand they need leadership). I'm highly experienced and attentive to hands-on execution, but it takes a team to leave behind something with a lasting value; I know how to take out a team, and I know how to make them shine.
 - Engineering novelty: not doing cookie-cutting. 
   - A positive example: building a new product that requires some kind of technology that is not available for purchase
   - A negative example: you know you need a CRUD API, and just lack the working hands

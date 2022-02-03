@@ -4,7 +4,7 @@ title: Professional FAQ
 date: 2022-01-29
 categories: recruiting business mentoring
 ---
-**TL;DR**: Taking SW teams over very uncharted terrain from Point A to Point B, by hook or by crook.
+**TL;DR**: My job is to do everything necessary for a SW organization to get from Point 0 to Point Value, often over tricky terrain.
 
 # FAQ
 

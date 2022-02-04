@@ -10,7 +10,7 @@ categories: blogging career
 I was employed by FB in 2018-19 as a Senior Software Engineer. I own FB stock. The opinions and observations stated here are solely my own, and are a reflection on "ambient culture”, as opposed to a hard analysis. I have never been, and I am not now, in meaningful contact with any kind of Meta/FB leadership.
 
 # Who was McNamara and what did he do that was bad?
-Robert McNamara was the US Secretary of Defense during the period the US entered the Vietnam war. An operation-researcher-turned-senior Ford executive, McNamara championed a hard quantitative approach towards problems of policy.
+Robert McNamara was the US Secretary of Defense during the onset of overt US military involvement in the Vietnam War. An operation-researcher-turned-senior Ford executive, McNamara championed a hard quantitative approach towards problems of policy.
 
 Modern militaries are highly bureaucratic, and report on a rich family of metrics. Two central metrics around warfare are the number of enemy casualties and ratio of the enemy's losses to friendly losses. The "old school" expert advice that McNamara received was building support for the US with the local population first and foremost through peaceful means; however such policies are not associated with a simple metric that could be maximized. McNamara's instruction to his people was to focus on the easily measurable - i.e., casualty counts, and as we all know -- the outcome was tragic.
 

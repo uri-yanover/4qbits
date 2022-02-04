@@ -7,7 +7,7 @@ categories: blogging career
 **TL;DR**: A culture that obsesses over improving metrics loses the ability to disrupt.
 
 # Proper disclosure
-I was employed by FB in 2018-19 as a Senior Software Engineer. I own FB stock. The opinions and observations stated here are solely my own, and are a reflection on "ambient culture”, as opposed to a hard analysis.
+I was employed by FB in 2018-19 as a Senior Software Engineer. I own FB stock. The opinions and observations stated here are solely my own, and are a reflection on "ambient culture”, as opposed to a hard analysis. I have never been, and I am not now, in meaningful contact with any kind of Meta/FB leadership.
 
 # Who was McNamara and what did he do that was bad?
 Robert McNamara was the US Secretary of Defense during the period the US entered the Vietnam war. An operation-researcher-turned-senior Ford executive, McNamara championed a hard quantitative approach towards problems of policy.

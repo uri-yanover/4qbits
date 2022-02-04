@@ -9,7 +9,7 @@ categories: blogging career
 # Proper disclosure
 I was employed by FB in 2018-19 as a Senior Software Engineer. I own FB stock. The opinions and observations stated here are solely my own, and are a reflection on “ambient culture”, as opposed to a hard analysis.
 
-# What is the McNamara Fallacy?
+# Who was McNamara and what did he do that was bad?
 Robert McNamara was the US Secretary of Defense during the period the US entered the Vietnam war. A senior automotive executive, McNamara championed a hard quantitative approach towards problems of policy.
 
 Modern militaries are highly bureaucratic, and report on a rich family of metrics. Two central metrics around warfare are the number of enemy casualties and ratio of the enemy’s losses to friendly losses. Military leaders got McNamara’s guidance to focus on these specific two metrics, and as we all know -- the outcome was tragic.
@@ -47,6 +47,6 @@ One key principle that I see all of the time is that an organization becomes wha
 
 As a comparison, Apple has had an fundamental pillar of product design, involving top-level visionaries such as Steve Jobs and career field leaders such as [Jony Ive](https://www.theverge.com/2019/11/28/20986838/jony-ive-last-day-apple); personally I have difficulty imagining the current kind of FB/Meta leaders tuning into a similar signal. Accordingly, a change is unlikely to occur until the leadership is replaced.
 
-My diagnosis of FB/Meta as being affected with the childhood MacNamara disease also leads me to doubt the organization’s ability to deliver radical innovation in the AR/VR domain, which is the banner currently held by the leadership. Innovative products require being filled bottom-to-top with leadership of the kind that is simply absent right now.
+My diagnosis of FB/Meta as being affected with the childhood McNamara disease also leads me to doubt the organization’s ability to deliver radical innovation in the AR/VR domain, which is the banner currently held by the leadership. Innovative products require being filled bottom-to-top with leadership of the kind that is simply absent right now.
 
 When Microsoft realized that a culture change was needed, it required a lost decade under Ballmer until the right person - Satya Nadella - came along and washed out the culture that was holding the organization back; I as painful as it could be, that’s what I consider the only viable path going forward; as a shareholder, I can only hope that cultural growth would happen before it's too late.

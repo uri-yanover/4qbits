@@ -4,7 +4,7 @@ title: "The Meta/FB downturn as a case of the McNamara Disease"
 date: 2022-02-04
 categories: blogging career
 ---
-**TL;DR**: A culture that centralizes metric optimization loses the ability to disrupt.
+**TL;DR**: A culture that obsesses over improving metrics loses the ability to disrupt.
 
 # Proper disclosure
 I was employed by FB in 2018-19 as a Senior Software Engineer. I own FB stock. The opinions and observations stated here are solely my own, and are a reflection on “ambient culture”, as opposed to a hard analysis.

@@ -37,9 +37,9 @@ One important clarification to make is: a lot of the people there could lead a m
 
 A lot of people over Hacker News ([link](https://news.ycombinator.com/item?id=30186326), [link](https://news.ycombinator.com/item?id=30185214)) make the point that FB/Meta has found itself out-innovated in the video creation niche, which appears to be driving usage these days.
 
-Personally as a user of the platform -- a content creator who used FB/Meta to create multiple types of content over the years -- I must say that it became increasingly unbearable as a product. There were so many missing features: Everything possible product choice was rounded in the direction of creating immediate, fleeing engagement, which went against me being able to create a faithful representation of my life and my ideas. 
+Personally as a user of the platform -- a content creator who used FB/Meta to create multiple types of content over the years -- I must say that it became increasingly unbearable as a product. There were so many missing features: Everything possible product choice was rounded in the direction of creating immediate, fleeing engagement, which went against me being able to create a faithful representation of my life and my ideas. A further concern were the community  dynamics -- I don't think I've ever seen a profound and respectful conversation within the Facebook platform. 
 
-The shortage of community management options caused me to seek other engagement channels (such as the one you're seeing now). A final straw were the bugs - text just vanishing when I was editing it (of course, that happened as the internal review season approached! I hope that the poor soul responsible at least got a decent review). I voted with my feet, and established a blog outside of Facebook.
+What ended up being the last straw was the bugs - text just vanishing when I was editing it (of course, that happened as the internal review season approached! I hope that the poor soul responsible at least got a decent review). I voted with my feet, and established a blog outside of Facebook; one of my medium-term plans is to add a self-hosted comments section.
 
 # The Systemic Picture
 

@@ -39,7 +39,7 @@ The US career of von Braun began in New Mexico where he and his old German teams
 
 As von Braun's American fame grew, the team was given resources and moved to Hunstsville, Alabama into an organization called the Redstone arsenal. Eventually the group served as the basis for the Army Ballistic Missile Program (ABMA), where von Baun served as the technical director. 
 
-By the late 1950s, the ABMA team produced the Jupiter ballistic missile design, which was up-engineered into the Juno space-capable launcher. The ABMA team was then merged into NASA, and in 1960 von Braun was appointed as the founding Director of the Marshall Space Flight Center. It is from there that he led the development of the Saturn launcher that brought mankind to the moon in July 1969; von Braun retired a year after.
+By the late 1950s, the ABMA team produced the Jupiter ballistic missile design, which was up-engineered into the Juno space-capable launcher. The ABMA team was then merged into NASA, and in 1960 von Braun was appointed as the founding Director of the Marshall Space Flight Center. He accepted that role on the condition he would be able to develop the Saturn launcher. This was accepted; Saturn was developed and was the launch vehicle that brought mankind to the moon in July 1969; von Braun retired from government service a year after that.
 
 The first person who replaced von Braun at the Marshall Space Flight Center was a member of his German team; the next several ones were his American Redstone disciples; however by the late 1990s, that line had been broken, and the position since has been filled by career bureaucrats. 
 

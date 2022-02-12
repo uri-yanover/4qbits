@@ -49,7 +49,7 @@ As space travel was becoming less of an open-ended journey and more about playbo
 The story above teaches me several crucial intuitions:
 * Growth is much easier when you're given trust.
 * Technical prowess alone is not enough. One needs to be involved with both major roadmap decisions and with staffing - in other words, you need achievements attributable to you, and people who will stick with you.
-* It would be extremely rare that a person is given the trust they "deserve"; at best one can expect several "steps up", each building on the previous one.
+* It would be extremely rare for a person to be given the trust they "deserve"; at best one can expect several "steps up", each building on the previous one.
 * Positions of trust are volatile: they arise in dire need, and fade away.
 * Organizations tend to evolve to work around having to trust people; this is unavoidable but often comes at the cost of losing the ability to innovate. 
 

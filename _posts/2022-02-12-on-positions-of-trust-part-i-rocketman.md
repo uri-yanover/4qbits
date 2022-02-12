@@ -47,9 +47,9 @@ The first person who replaced von Braun at the Marshall Space Flight Center was 
 As space travel was becoming less of an open-ended journey and more about playbooks and contractor management, NASA stopped being a literal "moonshot" organization and became a "standard" government contractor bureaucracy. One could say that after some point the balance of trust shifted from engineers to administrators. One can correlate that with NASA stopping being the cutting-edge innovative organization it used to be in von Braun's period, and indeed losing the technological edge to the extent of beginning to rely on Russian launch capabilities; this unfortunate situation was only broken through the innovative work carried out by SpaceX, which did not enjoy NASA's support during much of its early history.
 
 The story above teaches me several crucial intuitions:
-* Growth is much easier when you're given trust.
-* Technical prowess alone is not enough. One needs to be involved with both major roadmap decisions and with staffing - in other words, you need achievements attributable to you, and people who will stick with you.
-* Having a shared vision is immensely useful for having people stick with you, even if it's not what your short term goals are all about.
+* Growth is much easier when you're trusted with a part of the top-line organizational outcomes.
+* Technical prowess alone is not enough. One needs to be involved with both major roadmap decisions and with staffing - in plain words, you need achievements attributable to you, and people who will stick with you.
+* Having a shared vision is immensely useful for having people stick with you, even if the immediate/short-term goals fall short by a lot of the long-term possibilities.
 * It would be extremely rare for a person to be given the trust they "deserve"; at best one can expect several "steps up", each building on the previous one.
 * Positions of trust are volatile: they arise in dire need, and fade away.
 * Organizations tend to evolve to work around having to trust professionals in a certain domain; this is unavoidable but often coincides with the organization losing the edge in that domain. 

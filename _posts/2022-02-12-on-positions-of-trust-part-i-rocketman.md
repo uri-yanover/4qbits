@@ -51,8 +51,8 @@ The story above teaches me several crucial intuitions:
 * Technical prowess alone is not enough. One needs to be involved with both major roadmap decisions and with staffing - in plain words, you need achievements attributable to you, and people who will stick with you.
 * Having a shared vision is immensely useful for having people stick with you, even if the immediate/short-term goals fall short by a lot of the long-term possibilities.
 * It would be extremely rare for a person to be given the trust they "deserve"; at best one can expect several "steps up", each building on the previous one.
-* Positions of trust are volatile: they arise in dire need, and fade away.
-* Organizations tend to evolve to work around having to trust professionals in a certain domain; this is unavoidable but often coincides with the organization losing the edge in that domain. 
+* Positions of trust are volatile: they tend to arise only when a need is dire, and often fade away before the need is answered in full.
+* Relegating domain experts to advisory/expert roles is unavoidable but it means that they lose trust, which could coincide with the organization losing the edge in that domain. 
 
 
 Now that we have examined a complete trajectory of a specific position of trust, I intend to write a Part II that applies our learnings to the specific trajectories of employees in the tech industry; stay tuned.

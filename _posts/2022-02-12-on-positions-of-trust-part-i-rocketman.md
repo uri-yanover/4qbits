@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Positions of Trust - Part 1: Reverse Engineering the Rocketman"
+title: "On Positions of Trust - Part I: Reverse Engineering the Rocketman"
 date: 2022-02-12
 categories: blogging career
 ---
@@ -47,9 +47,11 @@ The first person who replaced von Braun at the Marshall Space Flight Center was 
 As space travel was becoming less of an open-ended journey and more about playbooks and contractor management, NASA stopped being a literal "moonshot" organization and became a "standard" government contractor bureaucracy. One could say that after some point the balance of trust shifted from engineers to administrators. One can correlate that with NASA stopping being the cutting-edge innovative organization it used to be in von Braun's period, and indeed losing the technological edge to the extent of beginning to rely on Russian launch capabilities; this unfortunate situation was only broken through the innovative work carried out by SpaceX, which did not enjoy NASA's support during much of its early history.
 
 The story above teaches me several crucial intuitions:
-* Growth is much easier when you're given trust, especially after several rounds in which such trust is justified.
+* Growth is much easier when you're given trust.
+* Technical prowess alone is not enough. One needs to be involved with both major roadmap decisions and with staffing - in other words, you need achievements attributable to you, and people who will stick with you.
+* It would be extremely rare that a person is given the trust they "deserve"; at best one can expect several "steps up", each building on the previous one.
 * Positions of trust are volatile: they arise in dire need, and fade away.
 * Organizations tend to evolve to work around having to trust people; this is unavoidable but often comes at the cost of losing the ability to innovate. 
-* Technical prowess alone does not necessarily translate into impact. Leadership - even in a highly technical field such as rocketry - requires involvement with both major roadmap decisions and with staffing.
+
 
 Now that we have examined a complete trajectory of a specific position of trust, I intend to write a Part II that applies our learnings to the specific trajectories of employees in the tech industry; stay tuned.

@@ -41,14 +41,15 @@ As von Braun's American fame grew, the team was given resources and moved to Hun
 
 By the late 1950s, the ABMA team produced the Jupiter ballistic missile design, which was up-engineered into the Juno space-capable launcher. The ABMA team was then merged into NASA, and in 1960 von Braun was appointed as the founding Director of the Marshall Space Flight Center. It is from there that he led the development of the Saturn launcher that brought mankind to the moon in July 1969; von Braun retired a year after.
 
-The first person who replaced von Braun at the Marshall Space Flight Center was a member of his German team; the next several ones were his American Redstone disciples; however by the late 1990s, that line was broken, and the position was filled by career bureaucrats. 
+The first person who replaced von Braun at the Marshall Space Flight Center was a member of his German team; the next several ones were his American Redstone disciples; however by the late 1990s, that line had been broken, and the position since has been filled by career bureaucrats. 
 
 # Aftermath
+As space travel was becoming less of an open-ended journey and more about playbooks and contractor management, NASA stopped being a literal "moonshot" organization and became a "standard" government contractor bureaucracy. One could say that after some point the balance of trust shifted from engineers to administrators. One can correlate that with NASA stopping being the cutting-edge innovative organization it used to be in von Braun's period, and indeed losing the technological edge to the extent of beginning to rely on Russian launch capabilities; this unfortunate situation was only broken through the innovative work carried out by SpaceX, which did not enjoy NASA's support during much of its early history.
+
 The story above teaches me several crucial intuitions:
 * Growth is much easier when you're given trust, especially after several rounds in which such trust is justified.
-* Positions of trust are volatile: they arise in dire need, and fade away as organizations as the risk diminishes.
+* Positions of trust are volatile: they arise in dire need, and fade away.
+* Organizations often find ways to "work around" needing to trust people; this is unavoidable but often comes at the cost of losing the ability to innovate.
 * Technical prowess alone does not necessarily translate into impact. Leadership - even in a highly technical field such as rocketry - requires involvement with both major roadmap decisions and with staffing.
-
-As space travel was becoming less of an open-ended journey and more about playbooks and contractor management, NASA stopped being a literal "moonshot" organization and became a "standard" government contractor bureaucracy. One could say that after some point the balance of trust shifted from engineers to administrators. One can correlate that with NASA stopping being the cutting-edge innovative organization it used to be in von Braun's period, and indeed losing the technological edge to the extent of beginning to rely on Russian launch capabilities; this situation was only recently broken by the innovative work carried out by SpaceX in the last decade.
 
 Now that we have examined a complete trajectory of a specific position of trust, I intend to write a Part II that applies our learnings to the specific trajectories of employees in the tech industry; stay tuned.

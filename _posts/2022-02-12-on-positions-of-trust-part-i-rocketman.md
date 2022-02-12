@@ -49,7 +49,7 @@ As space travel was becoming less of an open-ended journey and more about playbo
 The story above teaches me several crucial intuitions:
 * Growth is much easier when you're given trust, especially after several rounds in which such trust is justified.
 * Positions of trust are volatile: they arise in dire need, and fade away.
-* Organizations often find ways to "work around" needing to trust people; this is unavoidable but often comes at the cost of losing the ability to innovate.
+* Organizations tend to evolve to work around having to trust people; this is unavoidable but often comes at the cost of losing the ability to innovate. 
 * Technical prowess alone does not necessarily translate into impact. Leadership - even in a highly technical field such as rocketry - requires involvement with both major roadmap decisions and with staffing.
 
 Now that we have examined a complete trajectory of a specific position of trust, I intend to write a Part II that applies our learnings to the specific trajectories of employees in the tech industry; stay tuned.

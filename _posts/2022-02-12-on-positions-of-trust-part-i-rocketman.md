@@ -52,7 +52,7 @@ The story above teaches me several crucial intuitions:
 * Having a shared vision is immensely useful for having people stick with you, even if it's not what your short term goals are all about.
 * It would be extremely rare for a person to be given the trust they "deserve"; at best one can expect several "steps up", each building on the previous one.
 * Positions of trust are volatile: they arise in dire need, and fade away.
-* Organizations tend to evolve to work around having to trust people; this is unavoidable but often comes at the cost of losing the ability to innovate. 
+* Organizations tend to evolve to work around having to trust people; this is unavoidable but often coincides with the organization losing the edge. 
 
 
 Now that we have examined a complete trajectory of a specific position of trust, I intend to write a Part II that applies our learnings to the specific trajectories of employees in the tech industry; stay tuned.

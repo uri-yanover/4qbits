@@ -29,8 +29,8 @@ What forces set up von Braun for success? Why could he be trusted in spite of th
   * **Why is the marginal value of the trusted person?** Major new technology fails by default. For the political leadership, the way to enable the success of the rocket program was through establishing an appropriate human apparatus. In that apparatus, von Braun had the vital role of converting engineering insights into actionable administrative decisions.
   * **The price of failure** – for the rocketry program as a whole, the price of failure was the United States' coming into a disadvantaged position relative to the Soviet Union in terms of security deterrence. Such an outcome was widely considered catastrophic.
 * "Why":
-  * **Why not?** von Braun was a recently former Nazi official. His presence was accepted solely due to rocketry being such a vital US interest that eclipsed the optics of employing him given his past.
-  * **Who else?** By the late 1940s, the US had raised a generation of qualified leaders for a nuclear program and for aircraft programs, but not for rocketry programs. So it was either von Braun or a home-grown expert; the price of "growing" an expert of sufficient magnitude is a delay of 2-5 years in reaching major goals. 
+  * **Who else can be chosen?** By the late 1940s, the US had raised a generation of qualified leaders for a nuclear program and for aircraft programs, but not for rocketry programs. So it was either von Braun or a home-grown expert; the price of "growing" an expert of sufficient magnitude is a delay of 2-5 years in reaching major goals. 
+  * **Why you? Why not you?** von Braun's ability to drive rocketry forward was salient - his Nazi past was a very bitter pill to swallow, but bygone, whereas his impact on US national interests was prospective and likely to be huge.
 
 # The Trajectory of Trust
 It's hard for me to imagine how von Braun with his past was even an option. However the need was dire, and the US did not have a cadre of leaders of similar stature.

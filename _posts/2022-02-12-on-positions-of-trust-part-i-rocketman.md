@@ -30,7 +30,7 @@ What forces set up von Braun for success? Why could he be trusted in spite of th
   * **The price of failure** – for the rocketry program as a whole, the price of failure was the United States' coming into a disadvantaged position relative to the Soviet Union in terms of security deterrence. Such an outcome was widely considered catastrophic.
 * "Why":
   * **Who else can be chosen?** By the late 1940s, the US had raised a generation of qualified leaders for a nuclear program and for aircraft programs, but not for rocketry programs. So it was either von Braun or a home-grown expert; the price of "growing" an expert of sufficient magnitude is a delay of 2-5 years in reaching major goals. 
-  * **Why you? Why not you?** von Braun's ability to drive rocketry forward was salient - his Nazi past was a very bitter pill to swallow, but bygone, whereas his impact on US national interests was prospective and likely to be huge.
+  * **Why this person? Why not?** von Braun's ability to drive rocketry forward was salient - his Nazi past was a very bitter pill to swallow, but bygone, whereas his impact on US national interests was prospective and likely to be huge.
 
 # The Trajectory of Trust
 It's hard for me to imagine how von Braun with his past was even an option. However the need was dire, and the US did not have a cadre of leaders of similar stature.

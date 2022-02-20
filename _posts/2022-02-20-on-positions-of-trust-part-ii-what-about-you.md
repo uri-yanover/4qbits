@@ -78,4 +78,4 @@ Applying this framework to corporate environments often indicates that the major
 
 Conversely, applying this framework to startups often indicates that even line employees are expected to consider the greater good of the business they're working with, a situation that's also not for everybody.
 
-Regardless of who you are and who you want to be, I wish that the framework would help you to find greater peace with yourself and the people who trust you.
+Regardless of who you are and who you want to be, I wish that the framework helps you to find greater peace with yourself and the people who trust you.

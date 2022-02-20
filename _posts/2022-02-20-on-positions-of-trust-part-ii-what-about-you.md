@@ -41,7 +41,7 @@ For both sides of a relationship, specializing in personal loyalty is a differen
 
 A standard critique of the expectations paradigm is that business and success in general does not abide by the arbitrary categories imposed by professional backgrounds; both the marketing person and the SW person have a thing or two about roadmaps, but they will often find themselves marginalized to their respective disciplines.
 
-**Agency**, or having the right questions: this is the exact dual of expectations – the point at which you're not "minding your own business", but rather trying to promote some greater goal. "Agency" sounds like a great thing to brag about, but a lot of partners are not actually willing to walk the walk when it comes to providing you with the presence of mind to provide a path, attention, resources and willingness to act on feedback. 
+**Agency**, or having the right questions: this is the exact dual of expectations – the point at which you're not "minding your own business", but rather trying to promote some greater goal. "Allowing agency" sounds like a great thing for a trust-giver to brag about, because bragging is easy, but a lot of them fail to walk the walk - that requires presence of mind to provide a path, attention, resources and willingness to act on feedback, which are hard. 
 
 Indeed, while performance of specific skills is measurable, the ability to innovate, disrupt or otherwise steer achievement is not measurable - up to the point that multiple managers suffer from the [McNamara disease]({% link _posts/2022-02-04-the-meta-fb-downturn-as-a-case-of-the-mcnamara-disease.md %}) of not even acknowledging its existence.
 

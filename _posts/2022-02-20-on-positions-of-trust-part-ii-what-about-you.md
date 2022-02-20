@@ -8,7 +8,7 @@ categories: blogging career
 
 # Your vision vs your prospects
 
-In the previous post [On Positions of Trust - Part I: Reverse Engineering the Rocketman]({% link _posts/2022-02-12-on-positions-of-trust-part-i-rocketman.md %}) I covered the paradox of Wernher von Braun, whose career seemed to lose only a beat between helping to bomb London at the service of Nazi Germany, and becoming a senior official with the US Government with the end result of the United States reaching space a few years earlier than probably could have been otherwise possible.
+In the previous post [On Positions of Trust - Part I: Reverse Engineering the Rocketman]({% link _posts/2022-02-12-on-positions-of-trust-part-i-rocketman.md %}) I covered the paradox of Wernher von Braun, whose career seemed to lose only a beat between helping to bomb London at the service of Nazi Germany, and becoming a senior official with the US Government with the end result of the United States reaching space, likely a few years earlier than could have been possible otherwise.
 
 A lot of von Braun's power was in his consummate, inspired engineering vision - a trait that's shared by a lot of people, most of whom, however, do not end up being given the resources to fulfill their various visions. I think that the key of how to convert a consummate vision into the kind of career that allows the vision to be realized is through getting into a path of trust-track positions.
 

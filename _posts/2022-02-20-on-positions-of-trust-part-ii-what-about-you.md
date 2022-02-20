@@ -28,7 +28,7 @@ Here I will provide an *ego-centric* and *upwards* angle; in other words, what a
 
 As organizations scale, the objectives of most middle managers become highly specialized, insular, near-sighted and uninspiring. If your major relationship is with one of those, you'll be trusted -  with the upkeep of their one-island empire - is that in line with your goals?
 
-**What can the trust-giver provide to enable the success of the relationship?** Most organizations exhibit major flaws in terms of processes and structure. A very frequent example is overindulgence in red-tape. The major question here is whether the trust-giver can relax enough of those constraints to enable your success?.
+**What can the trust-giver provide to enable the success of the relationship?** Most organizations exhibit major flaws in terms of processes and structure. A very frequent example is overindulgence in red-tape. The major question here is whether the trust-giver can relax enough of those constraints to enable your success?
 
 **Alignment of values**: An extremely common value for people to disagree on – should one optimize for advancing major business goals or for personal loyalty? 
 

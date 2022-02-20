@@ -70,7 +70,7 @@ On the other hand, "we trust this person because the team believes his leadershi
 
 # Summary
 
-I used to work once for an organization that had a motto of "bringing one's authentic self". What transpired is that they assumed a very different kind of a professional persona than what I considered my authentic self; in my case I was trusted to be a product/application engineer with very few technical expectations and an expectation to strap  myself into an extremely contrived set of metrics; I am a systems engineer who needs a "big picture" to succeed. [I was happy to put that organization behind me]({% link _posts/2022-01-07-big-tech-job-the-tradeoff.md %}).
+I used to work once for an organization that had a motto of "bringing one's authentic self". What transpired is that they assumed a very different kind of a professional persona than what I considered my authentic self; in my case I was trusted to be a product/application engineer with very few expectations on the technical side but a very strong expectation to strap  myself into an extremely contrived set of metrics which nobody bothered to tell me; I am a systems engineering practitioner and leader who needs a "big picture" and team mentality to succeed. [I was happy to put that organization behind me]({% link _posts/2022-01-07-big-tech-job-the-tradeoff.md %}).
 
 Asking the right questions about the trust core of professional relationships provides you with a tool to see if the relationship is going anywhere - no matter if you're a high-agency individual whose way of "spread the wings" is through attacking major problems of business and culture, or a hyper focused tinkerer who wants to be trusted with doing one thing exceedingly well.
 

@@ -74,7 +74,7 @@ I used to work once for an organization that had a motto of "bringing one's auth
 
 Asking the right questions about the trust core of professional relationships provides you with a tool to see if the relationship is going anywhere - no matter if you're a high-agency individual whose way of "spread the wings" is through attacking major problems of business and culture, or a hyper focused tinkerer who wants to be trusted with doing one thing exceedingly well.
 
-Applying this framework to corporate environments often indicates that the major trust given to a person is to do good by some underboss, and little more. There's nothing wrong with that, as long as you're accepting it - to each their own. 
+Applying this framework to corporate environments often indicates that the major trust given to a person is to do good by some underboss, and little more. There's nothing wrong with that, as long as both sides are into it - to each their own. 
 
 Conversely, applying this framework to startups often indicates that even line employees are expected to consider the greater good of the business they're working with, a situation that's also not for everybody.
 

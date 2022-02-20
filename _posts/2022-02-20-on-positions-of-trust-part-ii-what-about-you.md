@@ -60,7 +60,7 @@ Circling back, if your boss does not treat your presence as a major factor on th
 
 # *Why* you of all people?
 
-**Who else can be chosen?** If there are multiple people out for jobs who're all similar, there's a strong incentive for the organization to manage risks just by hiring several such people and pooling their work, or to be routinely replacing employees with a cheaper/higher performing candidates as soon as there's even a tiny bit of motivation to do so. Of course, there are also reasons against replacing people rapidly -- in particular the cost and the risk required to train a replacement and team spirit, for whatever that's worth.
+**Who else can be chosen?** If there are multiple people out for jobs who're all similar, there's a strong incentive for the organization to manage risks just by hiring several such people and pooling their work, or to be routinely replacing employees with cheaper/higher performing candidates as soon as there's even a tiny bit of motivation to do so. Of course, there are also reasons against replacing people rapidly -- in particular the cost and the risk required to train a replacement and team spirit, for whatever that's worth.
 
 There's inherently more trust required for people who are hard to replace; however, since such people also leave, some managers tend to address the risk of them leaving by all sorts of "bear hugs" or "gilded cages", which may also end up being deterimental for trust.
 

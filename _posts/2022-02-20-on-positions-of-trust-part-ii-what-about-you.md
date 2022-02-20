@@ -28,7 +28,7 @@ Here I will provide an *ego-centric* and *upwards* angle; in other words, what a
 
 As organizations scale, the objectives of most middle managers become highly specialized, insular, near-sighted and uninspiring. If your major relationship is with one of those, you'll be trusted -  with the upkeep of their one-island empire - is that in line with your goals?
 
-**What can the trust-giver provide to enable the success of the relationship?** Most organizations exhibit major flaws in terms of processes and structure. A very common example is overindulgence in red-tape. The major question here is whether the trust-giver can relax enough of those constraints to enable your success?
+**What can the trust-giver provide to enable the success of the relationship?** Most organizations exhibit major flaws in terms of processes and structure. A very common example is overindulgence in red-tape. Can the trust-giver can relax enough of those constraints to enable your success?
 
 **Alignment of values**: An extremely common value for people to disagree on – should one optimize for advancing major business goals or for personal loyalty? 
 
@@ -72,7 +72,7 @@ On the other hand, "we trust this person because the team believes his leadershi
 
 # Summary
 
-I used to work once for an organization that had a motto of "bringing one's authentic self". What transpired is that they assumed a very different kind of a professional persona than what I considered my authentic self; in my case I was trusted to be a product/application engineer with very few expectations on the technical side but a very strong expectation to strap  myself into an extremely contrived set of metrics which nobody bothered to tell me; I am a systems engineering practitioner and leader who needs a "big picture" and team mentality to succeed. [I was happy to put that organization behind me]({% link _posts/2022-01-07-big-tech-job-the-tradeoff.md %}).
+I used to work once for an organization that had a motto of "bringing one's authentic self". What transpired is that they assumed a very different kind of a professional persona than what I considered my authentic self; in my case I was trusted to be a product/application engineer with very few expectations on the technical side but a very strong expectation to strap myself into an extremely contrived suit of metrics which nobody bothered to walk me through; I am a systems engineering practitioner and leader who needs a "big picture" and team mentality to succeed. [I was happy to put that organization behind me]({% link _posts/2022-01-07-big-tech-job-the-tradeoff.md %}).
 
 Asking the right questions about the trust core of professional relationships provides you with a tool to see if the relationship is progressing - no matter if you're a high-agency individual whose way of "spread the wings" is through attacking major problems of business and culture, or a hyper focused tinkerer who wants to be trusted with doing one thing exceedingly well.
 

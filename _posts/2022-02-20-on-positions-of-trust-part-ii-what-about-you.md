@@ -66,7 +66,7 @@ There's inherently more trust required for people who are hard to replace; howev
 
 **Why this person?** And most importantly, **Why not?** You need to remember that there are always pertinent reasons for you not to be trusted. Trusting someone is a choice that is most often made out of  necessity. It's extremely important to articulate that necessity.
 
-For example, "we will trust this person from the outside to lead" is often heard in organizations that failed to produce a leader organically. This means that this person is considered value merely by existing, which, while tolerable, might mean that the person is not being set up that well for success.
+For example, "we will trust this person from the outside to lead" is often heard in organizations that failed to produce a leader organically. This means that this person is considered valuable merely by existing, which, while tolerable, might mean that the person is not being set up that well for success.
 
 On the other hand, "we trust this person because the team believes his leadership style" means there's one growth mechanism: interacting with the team in a mutually reinforcing way. This is an actual positive growth mechanism working in your favor.
 

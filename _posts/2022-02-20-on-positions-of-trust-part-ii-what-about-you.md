@@ -6,7 +6,7 @@ categories: blogging career
 ---
 **TL;DR**: How to know if you're having the right professional relationships? A few questions to consider.
 
-# Your vision vs your prospects
+# Your vision vs. your prospects
 
 In the previous post [On Positions of Trust - Part I: Reverse Engineering the Rocketman]({% link _posts/2022-02-12-on-positions-of-trust-part-i-rocketman.md %}) I covered the paradox of Wernher von Braun, whose career seemed to lose only a beat between helping to bomb London at the service of Nazi Germany, and becoming a senior official with the US Government with the end result of the United States reaching space, likely a few years earlier than could have been possible otherwise.
 

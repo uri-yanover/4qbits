@@ -14,7 +14,7 @@ A lot of von Braun's power was in his consummate, inspired engineering vision - 
 
 And now to the hard part: how can you know if you're on such a path? How can you direct yourself to get into one?
 
-# The relationship you're establishing
+# The relationships you're establishing
 Let us spend a few words to spell out what I'll focus on.
 
 I'd like to provide you with an analytic tool to analyze a set of assumptions. These assumptions are associated with set of *professional interpersonal relationships* arising from a certain *position/job*.
@@ -58,7 +58,7 @@ Parenting comes to mind: a lot of people pinpoint one or both of their parents a
 
 Circling back, if your boss does not treat your presence as a major factor on the books, it would be surprising if there would be a lot of trust in this situation.
 
-# "Why" you of all people?
+# *Why* you of all people?
 
 **Who else can be chosen?** If there are hundreds of available people who're all similar to you, there's a strong incentive for the organization to manage risks just by hiring several such people and pooling their work, or to be always on the lookout for replacing you with a cheaper/higher performing candidate. Is there any reason that it is not the case?
 

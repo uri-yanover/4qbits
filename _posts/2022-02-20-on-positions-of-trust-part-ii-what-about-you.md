@@ -43,7 +43,7 @@ A standard critique of the expectations paradigm is that business and success in
 
 **Agency**, or having the right questions: this is the exact dual of expectations – the point at which you're not "minding your own business", but rather trying to promote some greater goal. "Agency" sounds like a great thing to brag about, but a lot of partners are not actually willing to walk the walk when it comes to providing you with the presence of mind to provide a path, attention, resources and willingness to act on feedback. 
 
-Indeed, while performance of specific skills is measurable, the ability to innovate, disrupt or otherwise steer achievement is not measurable - up to the point that multiple managers suffer from the McNamara disease of not even acknowledging it as such.
+Indeed, while performance of specific skills is measurable, the ability to innovate, disrupt or otherwise steer achievement is not measurable - up to the point that multiple managers suffer from the [McNamara disease]({% link _posts/2022-02-04-the-meta-fb-downturn-as-a-case-of-the-mcnamara-disease.md %}) of not even acknowledging its existence.
 
 The above having been said, common wisdom indicates that agency is a highly relevant trait for accomplishment – and therefore - to the extent that one possesses agency – the right hard question to ask would be to ask if that's genuinely promoting  the relationship or just setting one or both of the sides for disappointment.
 
@@ -70,7 +70,7 @@ On the other hand, "we trust this person because the team believes his leadershi
 
 # Summary
 
-I used to work once for an organization that had a motto of "bringing one's authentic self". What transpired is that they assumed a very different kind of a professional persona than what I considered my authentic self; in my case I was trusted to be a product/application engineer with very few technical expectations and an expectation to strap  myself into an extremely contrived set of metrics; I am a systems engineer who needs a "big picture" to succeed. I was happy to put that organization behind me.
+I used to work once for an organization that had a motto of "bringing one's authentic self". What transpired is that they assumed a very different kind of a professional persona than what I considered my authentic self; in my case I was trusted to be a product/application engineer with very few technical expectations and an expectation to strap  myself into an extremely contrived set of metrics; I am a systems engineer who needs a "big picture" to succeed. [I was happy to put that organization behind me]({% link _posts/2022-01-07-big-tech-job-the-tradeoff.md %}).
 
 Asking the right questions about the trust core of professional relationships provides you with a tool to see if the relationship is going anywhere - no matter if you're a high-agency individual whose way of "spread the wings" is through attacking major problems of business and culture, or a hyper focused tinkerer who wants to be trusted with doing one thing exceedingly well.
 

@@ -30,7 +30,7 @@ As organizations scale, the objectives of most middle managers become highly spe
 
 **What can the trust-giver provide to enable the success of the relationship?** Most organizations exhibit major flaws in terms of processes and structure. A very frequent example is overindulgence in red-tape. The major question here is whether the trust-giver can relax enough of those constraints to enable your success?.
 
-**Alignment of value**: An extremely common value for people to disagree on – should one optimize for advancing major business goals or for personal loyalty? 
+**Alignment of values**: An extremely common value for people to disagree on – should one optimize for advancing major business goals or for personal loyalty? 
 
 A senior role is often defined through having direct responsibility for major business goals. However the more senior types an organization attracts, this approach tends to anarchy; the major way out would be to select for structure, which is very quickly converted into demanding loyalty and benign optics, at the expense of achievement.
 

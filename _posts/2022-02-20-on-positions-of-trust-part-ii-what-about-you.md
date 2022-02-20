@@ -60,7 +60,9 @@ Circling back, if your boss does not treat your presence as a major factor on th
 
 # *Why* you of all people?
 
-**Who else can be chosen?** If there are hundreds of available people who're all similar to you, there's a strong incentive for the organization to manage risks just by hiring several such people and pooling their work, or to be always on the lookout for replacing you with a cheaper/higher performing candidate. Is there any reason that it is not the case?
+**Who else can be chosen?** If there are multiple people out for jobs who're all similar, there's a strong incentive for the organization to manage risks just by hiring several such people and pooling their work, or to be routinely replacing employees with a cheaper/higher performing candidate as soon as there's a tiny bit of motivation to do so. Of course, there are also reasons against replacing people rapidly -- in particular optics and the cost and the risk required to train a replacement.
+
+Of course there's more trust required for people who are hard to replace; however, since such people also leave, some managers tend to address the risk of their leaving by all sorts of "bear hugs" or "gilded cages", which may also end up being deterimental for trust.
 
 **Why this person?** And most importantly, **Why not?** You need to remember that there are always pertinent reasons for you not to be trusted. Trusting someone is a choice that is most often made out of  necessity. It's extremely important to articulate that necessity.
 

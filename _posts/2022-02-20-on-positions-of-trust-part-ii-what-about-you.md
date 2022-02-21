@@ -24,24 +24,24 @@ Here I will provide an *ego-centric* and *upwards* angle; in other words, what a
 
 # *Who* is giving you trust?
 
-**What is the trust-giver accountable for?** Speaking bluntly, if it's your boss's job to do X, it's quite unlikely to do more than X, even if everybody involved thinks that's a swell idea.
+**What is the trust-giver accountable for?** Speaking bluntly, if it's your boss's job to do X, you're unlikely to get to do much more than X, even if everybody involved thinks that's a swell idea.
 
-As organizations scale, the objectives of most middle managers become highly specialized, insular, near-sighted and uninspiring. If your major relationship is with one of those, you'll be trusted -  with the upkeep of their one-island empire - is that in line with your goals?
+As organizations scale, the objectives of most middle managers become highly specialized, insular, near-sighted and uninspiring. If your major relationship is with one of those, you'll be entrusted with the upkeep of somebody's one-island empire - is that in line with your goals?
 
 **What can the trust-giver provide to enable the success of the relationship?** Most organizations exhibit major flaws in terms of processes and structure. A very common example is overindulgence in red-tape. Can the trust-giver can relax enough of those constraints to enable your success?
 
 **Alignment of values**: An extremely common value for people to disagree on – should one optimize for advancing major business goals or for personal loyalty? 
 
-A senior role is often defined through having direct responsibility for major business goals. However the more senior types an organization attracts, this approach tends to anarchy; the major way out would be to select for structure, which is very quickly converted into demanding loyalty and benign optics, at the expense of achievement.
+A senior role is often defined through having direct responsibility for major business goals. However the more senior types an organization attracts, this approach results in anarchy; the major way out would be to select for structure, which is very quickly converted into demanding loyalty and benign optics, at the expense of achievement.
 
-For both sides of a relationship, specializing in personal loyalty is a different skill set from specializing in driving business, requiring different attitudes and often even different people. What does the other side in your relationship assume? What do you assume?
+For both sides of a relationship, specializing in personal loyalty is a different skill set from specializing in driving business, requiring different attitudes and often even different people. What do the sides in your case assume?
 
 # What is presumed under *trust*?
-**Expectations**, or having the right answers: A lot of jobs are basically defined in terms of some specific skillsets. SW Engineers? Writing code. Marketing? Deciding on messaging. Management? Making roadmap decisions.
+**Expectations**, or having the right answers: A lot of jobs are basically defined in terms of some specific skillsets. SW Engineers? Writing code. Marketing? Deciding on branding. Management? Making roadmap decisions.
 
 A standard critique of the expectations paradigm is that business and success in general does not abide by the arbitrary categories imposed by professional backgrounds; both the marketing person and the SW person have a thing or two about roadmaps, but they will often find themselves marginalized to their respective disciplines.
 
-**Agency**, or having the right questions: this is the exact dual of expectations – the point at which you're not "minding your own business", but rather trying to promote some greater goal. "Allowing agency" is a great thing for a trust-giver to brag about, because talking is easy, but a lot of those fail to walk the walk - that requires presence of mind to provide a path, attention, resources and willingness to act on feedback, which are hard. 
+**Agency**, or having the right questions: this is the exact dual of expectations – the point at which you're not "minding your own business", but rather trying to promote some greater goal. "Allowing agency" is a great thing for a trust-giver to brag about, because talking is easy. However walking the walk is hard - it requires presence of mind to provide a path, attention, resources and willingness to act on feedback, which are always scarce. 
 
 Indeed, while performance of specific skills is measurable, the ability to innovate, disrupt or otherwise steer achievement is not measurable - up to the point that multiple managers suffer from the [McNamara disease]({% link _posts/2022-02-04-the-meta-fb-downturn-as-a-case-of-the-mcnamara-disease.md %}) of not even acknowledging its existence.
 
@@ -56,11 +56,11 @@ Expensive failures are obviously something most organizations aggressively hedge
 
 Parenting comes to mind: a lot of people pinpoint one or both of their parents as role models; heart-breakingly, family dysfunction often arises when parental role models are unavailable. This coincides nicely with upstanding parents typically being the most trusted people in the lives of their children.
 
-Circling back, if your boss does not treat your presence as a major factor on the books, it would be surprising if there would be a lot of trust in this situation.
+Circling back, if your boss does not treat your presence as a major factor on their books, it would be surprising if there is a lot of trust in this situation.
 
 # *Why* you of all people?
 
-**Who else can be chosen?** If there are multiple people out for jobs who're all similar, there's a strong incentive for the organization to manage risks just by hiring several such people and pooling their work, or to be routinely replacing employees with cheaper/higher performing candidates as soon as there's even a tiny bit of motivation to do so. Of course, there are also reasons against replacing people rapidly -- in particular the cost and the risk required to train a replacement and team spirit, for whatever that's worth.
+**Who else can be chosen?** If there are multiple similar people out there, a lot of organizations manage risks just by hiring several such people and pooling their work, or to be routinely replacing employees with cheaper/higher performing candidates as soon as there's even a tiny bit of motivation to do so. Of course, there are also reasons against replacing people rapidly -- in particular the cost and the risk required to train a replacement and team spirit, for whatever that's worth.
 
 There's inherently more trust required for people who are hard to replace; however, since such people also leave, some managers tend to address the risk of them leaving by all sorts of "bear hugs" or "gilded cages", which may also end up being deterimental for trust.
 

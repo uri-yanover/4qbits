@@ -17,6 +17,6 @@ Here are some important lessons that I learnt up in the last 10 or so years, and
 - The "vitamins" required for the success of the organization as a whole often come from a skillset that none of the "bros" seem to understand or value – the most obvious example is marketing, which a lot of technical types ignore into oblivion;
 - A "loud and confident" style of leadership in a competitive field causes underlings to leave in favor of competitors that allow the underlings to find their own voice.
 - Given a long-term challenge, people tend to lose track unless they are part of a principled, carefully crafted, honest and sustainable process.
-- Key people who are oblivious to culture tend to stick with like-minded peers, and what starts out as bad taste over time scales into a cesspit. 
+- Key people who are oblivious to culture tend to stick with like-minded peers, and what starts out as bad taste over time scales into toxicity. 
 
 I'd like to conclude with an idea I heard from one of the people in the "just fine" group – *changing oneself is hard, but is practical while expecting the world to change is simply not practical*. This is especially true if the expectation from the world is for it to go back in time - things never return to what they used to be. Accordingly, I wanted to wish that if you want to be a hero – may you become one, but not the hero the world wanted yesterday, but rather, the hero that the world needs today.

@@ -15,7 +15,7 @@ The focus on only a specific kind of people made me feel sore, partly because I 
 Here are some important lessons that I learnt up in the last 10 or so years, and I consider crucial for building and scaling up a technical organization in 2022:
 - People with a seemingly "weak" background can develop into crucial stakeholders – especially when they can practice humility needed to take one for the team and agency to come up with good decisions that make up for missing experience,
 - The "vitamins" required for the success of the organization as a whole often come from a skillset that none of the "bros" seem to understand or value – the most obvious example is marketing, which a lot of technical types ignore into oblivion;
-- A "loud and confident" style of leadership in a competitive field causes underlings to leave in favor of competitors that allow the underlings to find their own voice.
+- A "loud and confident" and paternalist styles of leadership cause employees in competitive fields to leave in favor of competitors which allow said employees to find their own voice.
 - Given a long-term challenge, people tend to lose track unless they are part of a principled, carefully crafted, honest and sustainable system, which is what managers should focus on.
 - Key people who are oblivious to culture tend to stick with like-minded peers; what starts out as tolerably bad taste over time scales into toxicity. 
 

@@ -10,9 +10,9 @@ Every few months I meet at some social circle with people who had been considere
 
 Most are doing just fine and are very often a pleasure to talk to! However, there's a pervasive pattern among those who don't seem to be doing as well. It's as if those specific individuals had frozen in time! They tend to see value only in people of a very specific kind – which was a certain kind of hero "tech bros" which they had around them when they shined. Even today, culture for them is only about the same categories as they knew when they first started to manage people.
 
-The focus on only a specific kind of people made me feel sore, partly because I did not feel they genionely valued my kind of people back then or now, for whatever that's worth; the cultural inflexibility made me feel somewhat concerned for their various endeavors, because what was a decent culture back then is no longer so today. Let me expand on that idea:
+The focus on only a specific kind of people made me feel sore, partly because I did not feel they genionely valued my kind of people back then or now, for whatever that's worth; the cultural inflexibility made me feel somewhat concerned for their various endeavors, because what was a decent culture back then is no longer so today. I'll try to expand on that idea.
 
-Here are some important lessons that I learnt up in the last 10 or so years, and I consider crucial for building and scaling up a modern organization:
+Here are some important lessons that I learnt up in the last 10 or so years, and I consider crucial for building and scaling up a technical organization in 2022:
 - People with a seemingly "weak" background can develop into crucial stakeholders – especially when they can practice humility needed to take one for the team and agency to come up with good decisions that make up for missing experience,
 - The "vitamins" required for the success of the organization as a whole often come from a skillset that none of the "bros" seem to understand or value – the most obvious example is marketing, which a lot of technical types ignore into oblivion;
 - A "loud and confident" style of leadership in a competitive field causes underlings to leave in favor of competitors that allow the underlings to find their own voice.

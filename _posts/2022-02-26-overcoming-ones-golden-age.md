@@ -6,9 +6,11 @@ categories: blogging career
 ---
 **TL;DR**: that "golden age" you'd had 10 years ago might be what's holding you back now
 
-Every few months I meet at some social circle with people who had been considered extremely successful in management in one of the organizations where I used to work a few years back.
+Every few months I meet at some social circle with people who had been considered extremely successful in one of the organizations where I used to work a few years back. Those are often very pleasant conversations to have. 
 
-Most are doing just fine and are very often a pleasure to talk to. However, there's a pervasive pattern among those who don't seem to be doing as well - it's as if those specific individuals had frozen in time! They tend to see value only in people of a very specific kind – which was a certain kind of hero "tech bros" which they had around them when they shined. Even today, culture for them is only about the same categories as they knew when they first started to manage people.
+Most people are doing just fine and have grown remarkably as professionals and as human beings. However, there's a considerable minority of people who don't appear to be growing - it's as if those specific - highly successful - individuals had frozen in time! Two frequent attributes of this category of people is:
+1. They see value only in people of a very specific kind – which was a certain kind of hero "tech bros" which they had around them when they shined
+2. Culture for them is only about those things that mattered when they first rose to success.
 
 The focus on only a specific kind of people made me feel sore, partly because I did not feel they genuinely saw or valued my kind of people back then or now, for whatever that's worth; the cultural inflexibility made me feel somewhat concerned for their various endeavors, because what was a decent set of values back then is no longer such today. I'll try to expand on that idea in the next paragraph.
 

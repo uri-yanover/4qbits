@@ -21,7 +21,7 @@ The business problem in question implies a great deal of incremental maintenance
 
 3. k8s is a notorious example for a similar idea: the set of ideas needed to properly specify a production IT system is so complex that it "requires a Ph.D." Accordingly, when one prepares to transition their devops to k8s, they need to accept the fact that it will become the defining skill for their DevOps team, and that it will require a significant mindshare in terms of how the team recruits people, trains them and which best practices it monitors and enforces.
 
-# What to do about choosing technical infra?
+# How to go about such choices?
 My central thesis is that the human culture is an integral part of overall organizational culture; as engineers, we need to analyze and proactively decide as holistically as we can.
 
 Choosing tools is a balance between multiple types of considerations:

@@ -30,7 +30,7 @@ Choosing tools is a balance between multiple types of considerations:
 2. Resource investment necessary for scaling - scaling parameters could be adding new functionality, increasing business volume, etc.;
 3. Quality of supplied service, in particular seen through the prism of the organizational velocity it unlocks (e.g., through superior development experience);
 4. Resources necessary to maintain outcomes "at rest" (for example: making sure the platform does not fail for business)
-5. Current and aspirational team specialization - with the understanding that adding a major new discipline comes at the expense of excellence in other disciplines, that some skill sets are considered much "better" than others in terms of career growth.
+5. Current and aspirational team specializations - with the understanding that adding a major new discipline comes at the expense of excellence in other disciplines, that some skill sets are considered much "better" than others in terms of career growth.
 
 The best we can do is to consider the relevant angles out of the above, to make an informed and proactive decision and to follow up later and see if it made sense.
 

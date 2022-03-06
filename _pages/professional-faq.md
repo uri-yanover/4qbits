@@ -12,8 +12,7 @@ In more words:
 
 **I give**: Crushing business problems which would have otherwise required 10 or 20 people.
 
-**Through**: being able to make very precise and economical choices about product, operations, selecting appropriate technologies and programming techniques, taking care of operations and business scaling.
-
+**Through**: being able to make very precise and economical choices about product, operations, selecting appropriate technologies and programming techniques, taking care of operations and business scaling and a hefty amount of fighting spirit.
 
 
 # FAQ

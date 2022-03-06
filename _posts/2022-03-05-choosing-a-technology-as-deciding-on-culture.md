@@ -20,7 +20,7 @@ Then I talked to a few folks and discovered was that acquiring and honing the sk
 
 3. Google Data Studio and Kibana are great low-code/no-code data dashboarding applications. However they both need a data ingestion and transformation process (ETL) creating a CSV data dump, or perhaps some tailored SQL or BigQuery queries to get the raw version of the data into the dashboard.
 
-  We can generalize the above two examples by saying that Low-code/No-code platforms are useful if and only if there's a mostly-non-SW team that can use them in a self-serve manner, with the SW/DevOps people working on the infrastructure to make them tick.
+   We can generalize the last two bullets by saying that Low-code/No-code platforms are useful if and only if there's a mostly-non-SW team that can use them in a self-serve manner, with the SW/DevOps people working on the infrastructure to make them tick.
 
 # How to go about such choices?
 My central thesis is that the technical culture is an integral part of overall organizational culture; as engineers, we need to analyze and proactively decide as holistically as we can.

@@ -27,7 +27,7 @@ My central thesis is that the technical culture is an integral part of overall o
 
 Choosing tools is a balance between multiple types of considerations:
 1. Up front resource investment before a solution can be validated;
-2. Resource investment necessary for scaling - scaling parameters could be adding new functionality, adding business, etc.;
+2. Resource investment necessary for scaling - scaling parameters could be adding new functionality, increasing business volume, etc.;
 3. Quality of supplied service, in particular through the prism of the organizational velocity it enables (i.e., developer experience);
 4. Resources necessary to maintain outcomes (for example: supporting an external analysts team)
 5. Current and aspirational team specialization - with the understanding that adding a major new discipline comes at the expense of excellence in other disciplines, that some skill sets are considered much "better" than others in terms of career growth.

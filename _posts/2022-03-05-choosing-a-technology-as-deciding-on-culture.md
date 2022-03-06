@@ -1,5 +1,5 @@
 ---
-layout: postd
+layout: post
 title: "Choosing a technology as a decision on The Team You're Gonna Have"
 date: 2022-03-05
 categories: blogging career

@@ -7,7 +7,7 @@ categories: blogging career
 **TL;DR**: Choosing a technology is really a statement about future organizational culture and structure.
 
 # "Should we be using that tool?"
-A few months ago I was asked if a certain team should be using a certain tool (specifically: [dbt](https://www.getdbt.com/), but that's not important for us).
+A few months ago I was asked if a certain team should be using a certain tool (specifically: [dbt](https://www.getdbt.com/), but that's not actually important for the rest of this post).
 
 I did some research, and realized that the tool in question was built for solving a certain class of business problems ("creating maintainable ETLs") for an organization that has a supply of people with a specific skill set ("business analysts who only know SQL"). The business problem in question inherently involves a great deal of incremental maintenance over time, and accordingly adopting the tool for use by the team would mean having team members specialize in that relevant skill set as well as the tool itself.
 

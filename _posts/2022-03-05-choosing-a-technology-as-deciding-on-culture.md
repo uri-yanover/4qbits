@@ -29,7 +29,7 @@ Choosing tools is a balance between multiple types of considerations:
 1. Up front resource investment before a solution can be validated;
 2. Resource investment necessary for scaling - scaling parameters could be adding new functionality, increasing business volume, etc.;
 3. Quality of supplied service, in particular through the prism of the organizational velocity it enables (i.e., developer experience);
-4. Resources necessary to maintain outcomes (for example: supporting an external analysts team)
+4. Resources necessary to maintain outcomes (for example: making sure the platform does not fail for business)
 5. Current and aspirational team specialization - with the understanding that adding a major new discipline comes at the expense of excellence in other disciplines, that some skill sets are considered much "better" than others in terms of career growth.
 
 The best we can do is to consider the relevant angles out of the above, to make an informed and proactive decision and to follow up later and see if it made sense.

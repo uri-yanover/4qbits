@@ -10,7 +10,7 @@ In more words:
 
 **When I'm given**: an ability to task a team of 2-5 reasonable  eople - whether by being their direct manager or by having a cooperating manager, and a basic degree of managerial tact (i.e., not giving my people tasks over my head)
 
-** I give**: Crushing business problems which would have otherwise required 10 or 20 people.
+**I give**: Crushing business problems which would have otherwise required 10 or 20 people.
 
 **Through**: being able to make very precise and economical choices about product, operations, selecting appropriate technologies and programming techniques, taking care of operations and business scaling.
 

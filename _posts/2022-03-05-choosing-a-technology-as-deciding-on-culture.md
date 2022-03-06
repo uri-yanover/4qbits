@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postd
 title: "Choosing a technology as a decision on The Team You're Gonna Have"
 date: 2022-03-05
 categories: blogging career
@@ -7,27 +7,28 @@ categories: blogging career
 **TL;DR**: Choosing a technology is really a statement about future organizational culture and structure.
 
 # "Should we use that tool?"
-A few months ago I was asked if an organization should be using a certain tool ([dbt](https://www.getdbt.com/), but that's not the point).
+A few months ago I was asked if a certain team should be using a certain tool (the tool was [dbt](https://www.getdbt.com/), but I don't assume you're familiar with it).
 
-I read about it a bit, and realized the following: the tool is something that allows you to solve a certain class of business problems ("creating maintainable ETLs") under the assumption that the organization in question has a supply of people with a specific skill structure ("business analysts who only know SQL"). 
+I did some reading, and realized the following: the tool in question exists to allow solving a certain class of business problems ("creating maintainable ETLs") for an organization that has a supply of people with a specific skill set ("business analysts who only know SQL"). The business problem in question inherently involves a great deal of incremental maintenance over time, and accordingly adopting the tool into the team would mean having team members specialize in that relevant skill set. 
 
-The business problem in question implies a great deal of incremental maintenance, and accordingly accepting it into the team would mean having team members specialize in the relevant skill set. What I discovered was that SQL was not something the team wanted to specialize in. Accordingly, my rcommendation was to use a different technology that did not involve a major skill shift.
+What I discovered was that acquiring and honing the skill-set in question would have been considered a career distraction for most team members. Accordingly, my recommendation was to use a different technology that capitalized on the team's existing knowledge base, perhaps at the cost of elegance or having to toil a bit more.
 
-# Several examples
-1. [testim.io](https://www.testim.io/) is a great no-code testing platform for web applications. However, for there being something to test, there needs to be a CI/CD pipeline that deploys test versions of the web app in a way that's accessible to the platform
-2. Google Data Studio and Kibana are great low-code/no-code data dashboarding applications. However they both need a data ingestion and transformation process (ETL) or perhaps some tailored SQL or BigQuery queries to get the raw version of the data into the dashboard.
+# Several further examples
+1. Kubernetes (k8s) is a great demonstration of how tech shapes a team. The mental model k8s uses to describe production IT systems is so complex that it "requires a Ph.D." Accordingly, the choie to transition DevOps to use k8s means accepting the fact that k8s will become the defining skill for the entire DevOps team, and that such a transition will require a significant mindshare in terms of how the team recruits people, trains them and which best practices it monitors and enforces.
 
-   We can generalize the above two points by saying that Low-code/No-code platforms if and only if there's a non-technical team that can use them in a self-serve manner, with the technical team providing the platforms.
+2. [testim.io](https://www.testim.io/) is a great no-code testing platform for web applications. However it implicitly assumes that either the application doesn't have CI/CD at all, or that there is a more complex CI/CD pipeline that integrates with testim.io.
 
-3. k8s is a notorious example for a similar idea: the set of ideas needed to properly specify a production IT system is so complex that it "requires a Ph.D." Accordingly, when one prepares to transition their devops to k8s, they need to accept the fact that it will become the defining skill for their DevOps team, and that it will require a significant mindshare in terms of how the team recruits people, trains them and which best practices it monitors and enforces.
+3. Google Data Studio and Kibana are great low-code/no-code data dashboarding applications. However they both need a data ingestion and transformation process (ETL) creating a CSV data dump, or perhaps some tailored SQL or BigQuery queries to get the raw version of the data into the dashboard.
+
+   We can generalize the above two points by saying that Low-code/No-code platforms are useful if and only if there's a mostly-non-SW team that can use them in a self-serve manner, with the SW/Devops team introducing the infrastructure to make them tick.
 
 # How to go about such choices?
-My central thesis is that the human culture is an integral part of overall organizational culture; as engineers, we need to analyze and proactively decide as holistically as we can.
+My central thesis is that the technical culture is an integral part of overall organizational culture; as engineers, we need to analyze and proactively decide as holistically as we can.
 
 Choosing tools is a balance between multiple types of considerations:
-1. Cost/time/implications of achieving the outcome until we can validate the solution;
-2. Cost/time/implications of scaling the outcome - scaling parameters could be adding new functionality, adding business, etc.;
-3. Quality of infrastructure, in particular of the development experience,;
+1. Up front cost/time investment before a solution can be validated;
+2. Cost/time implications to scale the outcome - scaling parameters could be adding new functionality, adding business, etc.;
+3. Quality of infrastructure, in particular of the organizational velocity it enables (i.e., developer experience);
 4. Cost/time/implications of continuously maintaining the outcome (for example: supporting an external analysts team)
 5. Current and aspirational team specialization - with the understanding that adding a major new discipline comes at the expense of professionalism in other disciplines, that some skill sets are considered much "better" than others in terms of career growth.
 

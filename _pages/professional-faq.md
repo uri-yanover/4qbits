@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Professional FAQ
-date: 2022-01-29
+date: 2022-03-06
 categories: recruiting business mentoring
 ---
 **TL;DR**: My job is to do everything necessary for a SW organization to get from Point 0 to Point Value, often over tricky terrain.

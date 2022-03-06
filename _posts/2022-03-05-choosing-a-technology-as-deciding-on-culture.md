@@ -20,7 +20,7 @@ What I discovered was that acquiring and honing the skill-set in question would 
 
 3. Google Data Studio and Kibana are great low-code/no-code data dashboarding applications. However they both need a data ingestion and transformation process (ETL) creating a CSV data dump, or perhaps some tailored SQL or BigQuery queries to get the raw version of the data into the dashboard.
 
-   We can generalize the above two points by saying that Low-code/No-code platforms are useful if and only if there's a mostly-non-SW team that can use them in a self-serve manner, with the SW/DevOps people working on the infrastructure to make them tick.
+   We can generalize the above two examples by saying that Low-code/No-code platforms are useful if and only if there's a mostly-non-SW team that can use them in a self-serve manner, with the SW/DevOps people working on the infrastructure to make them tick.
 
 # How to go about such choices?
 My central thesis is that the technical culture is an integral part of overall organizational culture; as engineers, we need to analyze and proactively decide as holistically as we can.
@@ -28,8 +28,8 @@ My central thesis is that the technical culture is an integral part of overall o
 Choosing tools is a balance between multiple types of considerations:
 1. Up front resource investment before a solution can be validated;
 2. Resource investment necessary for scaling - scaling parameters could be adding new functionality, increasing business volume, etc.;
-3. Quality of supplied service, in particular through the prism of the organizational velocity it enables (i.e., developer experience);
-4. Resources necessary to maintain outcomes (for example: making sure the platform does not fail for business)
+3. Quality of supplied service, in particular seen through the prism of the organizational velocity it unlocks (e.g., through superior development experience);
+4. Resources necessary to maintain outcomes "at rest" (for example: making sure the platform does not fail for business)
 5. Current and aspirational team specialization - with the understanding that adding a major new discipline comes at the expense of excellence in other disciplines, that some skill sets are considered much "better" than others in terms of career growth.
 
 The best we can do is to consider the relevant angles out of the above, to make an informed and proactive decision and to follow up later and see if it made sense.

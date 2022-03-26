@@ -4,7 +4,7 @@ title: "Tackling 4D Chess"
 date: 2022-03-26
 categories: blogging career tech-leadership
 ---
-**TL;DR**: How to win even when relegating to experts is impractical and talent is scarce 
+**TL;DR**: How to make good decisions when talent is scarce and expertise even scarcer?
 
 # The peril of non-expert decision making
 One of the key obstacles in a team that I've worked with was a certain "stack" of SW that handles the processing of a crucial data source - I should mention that it's not a very complex one, and definitely a very "small" one in terms of data scale.

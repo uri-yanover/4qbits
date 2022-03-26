@@ -37,7 +37,7 @@ Martin Fowler has a proposal for a specific set of policies to enable such a dyn
 *The team not fulfilling the culture*: for a team-empowering culture to work, the team needs to act coherently around the principles stated in the previous paragraph, which are definitely not for everyone. Accordingly, team members need to be selected for being able to:
 - Act out of an understanding that they are accountable for driving decisions accross the 4D space;
 - Acting in a way that allows other people to drive their own processes;
-- Acting out of an understanding that whatever choices end up being made would become a part of culture going forward.
+- Acting out of understanding that choices made at any given moment end up being a part of everyone's culture going forward.
 
 *Denying the problem and continuing to rely on formal management*: The most obvious reason for why it's a bad idea is that the decision workload involved is too high to be handled by a single manager, however capable.
 

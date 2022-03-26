@@ -22,9 +22,9 @@ The opposite of the anarchy of non-experts making decisions would be only expert
 
 Modern R&D decision-making may be described as "4D chess", where each of the following has long-lasting effects interacting with the other 3:
 
-1. Mission,
-2. Choice of platforms and their interfaces,
-3. Choice of personnel specializations and growth tracks
+1. Mission (current and forseeable);
+2. Choice of platforms and their interrelations (platforms being defined as technological choices affecting future missions);
+3. Choice of personnel specializations and growth tracks;
 4. Choice of work processes, whether formal or not, and investment into tools to support such processes.
 
 Since multiple everyday decisions need to make sense in all 4 dimensions, it is of utmost importance that all decisions are led by the specific team members in need of them; however, to avoid anarchy, social culture and processes must be set up to involve further stakeholders on an ad-hoc basis, and that such decisions are communicated and followed up upon to enable the same stakeholders to make better decisions.

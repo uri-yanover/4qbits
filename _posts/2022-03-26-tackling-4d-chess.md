@@ -17,7 +17,7 @@ It is the organization's vital interest that people making potentially game-chan
 
 Further complexity comes from the talent/personnel angle. Whereas in the past there was a decent supply of competent specialists who settled for a single niche field, this is simply no longer the case. Recruiting *anyone* is hard these days, and it is especially hard for positions in which there's no well defined challenge or growth path - in particular, having just one-of-a-kind role in an organization is a very hard sell for most candidates in terms of ability to grow.
 
-# What is 4D chess and who is playing it?
+# What is the "4D chess" and who is playing it?
 The opposite of the anarchy of non-experts making decisions would be only experts making decisions. However this approach, which I call "centralization" is impossible going forward, period. The reason for that is what I call the attention bottleneck: a modern organization employs such a diverse set of technologies and approaches that having a single decision-maker decide on many categories of these would mean (a) that a single person has to be competent in an unrealistically wide array of subjects and (b) that everybody would need to wait for that person's inputs.
 
 Modern R&D decision-making may be described as "4D chess", where each of the following has long-lasting effects interacting with the other 3:
@@ -35,9 +35,9 @@ Martin Fowler has a proposal for a specific set of policies to enable such a dyn
 *Keeping the team out of important decisions*: All decisions involving the team, its various product obligations, its metrics and so on, need to be done in the same framework, or the team will not buy into the method and will typically revert to having a bottleneck somewhere around management.
 
 *The team not fulfilling the culture*: for a team-empowering culture to work, the team needs to act coherently around the principles stated in the previous paragraph, which are definitely not for everyone. Accordingly, team members need to be selected according to the following principles:
-Acting out of an understanding that they are the ones to drive processes,
-Being able to let other people drive their own processes,
-Acting out of an understanding that whatever choices are being made, that would become a part of culture going forward,
+- Acting out of an understanding that they are the ones to drive processes;
+- Being able to let other people drive their own processes;
+- Acting out of an understanding that whatever choices are being made, that would become a part of culture going forward.
 
 *Denying the problem and continuing to rely on formal management*: The most obvious reason for why it's a bad idea is that the decision workload involved is too high to be handled by a single manager, however capable.
 

@@ -7,9 +7,9 @@ categories: blogging career tech-leadership
 **TL;DR**: How to make good decisions when talent is scarce and expertise even scarcer?
 
 # The peril of non-expert decision making
-One of the key obstacles in a team that I've worked with was a certain "stack" of SW that handles the processing of a crucial data source - I should mention that it's not a very complex one, and definitely a very "small" one in terms of data scale.
+One of the key obstacles in a team that I've worked with was a certain "stack" of SW that handles the processing of a crucial data source - I should mention that the data per se is not very complex, and definitely very "small-scale" as far as these things go.
 
-That SW stack became a festering wound not because somebody specific made a specific bad decision, but rather because several team members had made a number of incremental decisions using high-powered tools somewhat out of their competence zone, and without a holistic vision of the business; these decisions amounted to laying a hefty tax on anyone who would try to base on their work. The end result was not being able to mitigate even trivial data quality issues, which caused the team to fail to deliver on a key business need - in part, because recognizing this need required understanding the system, and that by itself was beyond most team members.
+That SW stack became a festering wound not because somebody specific made a specific bad decision, but rather because several team members had made a number of incremental decisions using high-powered tools somewhat out of their competence zone, and without a holistic vision of the business; these decisions amounted to laying a hefty tax on anyone who would try to base on their work. The end result was not being able to mitigate even trivial data quality issues, which caused the team to fail to deliver on a key business need - in part, because the system became too complicated for anyone to feel accountable for.
 
 More generally, as business grows, there's a point at which decisions made on an ad-hoc basis by non-experts become the problem - in the typical case they don't allow the right business scaling, and in the worst case they simply break and require a massive cleanup.
 

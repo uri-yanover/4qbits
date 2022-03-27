@@ -50,13 +50,13 @@ Since valid decisions cannot be made by any central authority figure in any case
 
 A system in which crucial decisions are made at the ground floor is incompatible with the common tier-0.5 ("tech lead") and tier-1 ("person who decides for you") management styles.
 
-The core attributes required from managers in this model are associated with [trusting employes with major business outcomes]({% link _posts/2022-02-20-on-positions-of-trust-part-ii-what-about-you.md %}); accordingly, a lot of these are often associated with tier≥2 management:
+The core attributes behaviors from managers in this model are inherent in [trusting employes with major business outcomes]({% link _posts/2022-02-20-on-positions-of-trust-part-ii-what-about-you.md %}); accordingly, a lot of these are have historically been considered the realm of tier≥2 management:
 - Focus on culture and team dynamics;
 - Establishment of robust and useful communication channels;
 - Deliberate and consistent delegation of technical decisions; avoiding blocking decision paths in all but extraordinary circumstances;
 - Devoting extreme attention to risks and sources of friction in team operation and to the envelope: costs, staffing, tooling/automation, tracking dependencies and so on.
 
-The above runs against one core attribute of the incumbent tier≥2 management population: it does not involve a massive headcount, which is often used as a career metric by management. It is accordingly crucial that the organizational management style centralizes the quality of outcomes and the efficacy of leadership and treats headcount as just an incidental aspect of growth.
+Focusing on high execution quality runs against one core aspect of the incumbent tier≥2 management population: quality comes at the expense of quantity - in this case, of team size, which is used as a career metric by many individuals. It is accordingly crucial that the organization sets expetations at large regarding the quality of leadership, while treating headcount as an incidental aspect of growth.
 
 # Summary
 Modern SW is defined by an abundance of shortcuts that make it possible to achieve great outcomes using a small team - provided that they act right. If they act wrong, they may just achieve the wrong outcomes or set out to a tedious track not arriving anywhere business-like. The way to keep that from happening is for the entire organization to stick by a certain decision-making culture that rejects centralization at all costs and empowers decision-making through each individual playing 4D chess.

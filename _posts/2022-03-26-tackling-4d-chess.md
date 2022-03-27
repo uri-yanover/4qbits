@@ -50,7 +50,7 @@ Since valid decisions cannot be made by any central authority figure in any case
 
 A system in which crucial decisions are made at the ground floor is incompatible with the common tier-0.5 ("tech lead") and tier-1 ("person who decides for you") management styles.
 
-The core attributes required from managers in this model are associated with [trusting employes with major business outcomes]({% link _posts/2022-02-20-on-positions-of-trust-part-ii-what-about-you.md % }); accordingly, a lot of these are often associated with tier≥2 management:
+The core attributes required from managers in this model are associated with [trusting employes with major business outcomes]({% link _posts/2022-02-20-on-positions-of-trust-part-ii-what-about-you.md %}); accordingly, a lot of these are often associated with tier≥2 management:
 - Focus on culture and team dynamics;
 - Establishment of robust and useful communication channels;
 - Deliberate and consistent delegation of technical decisions; avoiding blocking decision paths in all but extraordinary circumstances;

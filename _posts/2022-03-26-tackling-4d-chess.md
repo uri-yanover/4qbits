@@ -43,7 +43,7 @@ The constraints in the above have their own cadence, require focus and dedicatio
 *The team not buying into the culture*: for a team-empowering culture to work, the team needs to act coherently around the principles stated in the previous paragraph, which are definitely not for everyone. Accordingly, team members need to be selected for being able to:
 - Exercise personal accountability for driving decisions accross the 4D space;
 - Supporting other people driving their own processes;
-- Making everyday choices in a way that is aware of what constitues a desirable culture, and enhancing said culture.
+- Make everyday choices while considering the cultural consequences of each such choice.
 
 # 4D Chess and people management
 Since valid decisions cannot be made by any central authority figure in any case, they need to be delegated into the team - but in a highly principled way; exactly as it currently a common expectation from developers to perform quality control of the work they're carrying out, it should be a common expectation today they perform a proactive and informed design process, and as a part of that, reach out to impacted stakeholders.

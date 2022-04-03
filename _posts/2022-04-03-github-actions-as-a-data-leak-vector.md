@@ -53,6 +53,7 @@ A better option would have been for GitHub to let repository administrators spec
 - Allowing all actions
 - Allow only actions from the same organization/user
 - Allow only actions from the same organization/user, plus an allow-list
+
 Since all options except an outright disable allow usage of an arbitrary action from the current repo, their existence does little to improve security.
 
 # Summary

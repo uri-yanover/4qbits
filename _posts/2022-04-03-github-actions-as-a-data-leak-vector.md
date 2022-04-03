@@ -40,7 +40,7 @@ All it takes to execute a malicious action is:
 
 By design, these steps only require commit privileges. The only restrictions that GitHub imposes is that some people with commit rights are not allowed to commit into "important" branches, such as "master". However the steps above do not assume being in such a branch, and actions are executed regardless of branch.
 
-# GitHub is aware of the weakness in the security model
+# GitHub is aware that this is fishy - why doesn't it create better controls?
 GitHub's take on the described weakness is twofold. One one hand:
 -  the [GHA hardening documentation](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions) mentions  the possibility of credential exfiltration; accordingly it is apparent that at least the security review team at GitHub is aware of the major damage potential. (I conjecture the docs are an attempt to clear GitHub's public conscience on the matter)
 - GitHub UI tries to treat secrets as restricted to admins only. 

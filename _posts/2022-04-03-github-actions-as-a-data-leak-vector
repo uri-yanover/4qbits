@@ -67,5 +67,5 @@ Until GitHub refines the GHA security model, it is my recommendation to:**
 
 However, even in the current, flawed, model one can still use GitHub Actions securely as an indirect trigger - one could use an Action to launch an automation off-GitHub, that can perform its own set of validations in a way that GitHub currently does not allow. Such a script could for example validate that only an explicitly approved branch may be used as a basis of an artifact being listed in a trusted artifact repository.
 
-Credits
+# Credits
 I would like to thank Dr. Max Held for raising the question of GHA security and Gil Dabah for his invaluable help writing this post.

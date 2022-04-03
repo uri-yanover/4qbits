@@ -7,9 +7,9 @@ categories: blogging security systems
 **TL:DR**: The GitHub Actions (GHA) security model is broken, and in many cases may allow escalating an "ordinary developer" level of access into obtaining infrastructure credentials sufficient to inject malicious artifacts into trusted repositories
 
 # Statement of problem
-GitHub is a popular platform for storing source code. To be usable, source code is "built" into artifacts, such as ".exe" binaries for Windows, container images, packaged libraries such as JARs in Java and more. GitHub Actions (GHA) are a powerful tool used for orchestrating the testing, building and listing of such artifacts.
+GitHub is a popular platform for storing source code. To be usable, source code is "built" into artifacts, such as ".exe" binaries for Windows, container images, packaged libraries such as JARs in Java and more. GitHub Actions (GHA) are a powerful tool used for orchestrating the preparation of artifact out of the sourcre code and conducting quality control over these artifacts.
 
-The step after a typical successful build process is *repository listing*, which takes the prepared artifacts and copies them for long-term storage into an external *artifact repository*, such as Artifactory, PyPi, NPM and so on. The GHA method for authenticating to an external repository is by keeping the necessary credentials in a special piece of GHA configuration called a "secret". 
+Typically, after a build succeed, it is is *enlisted* into a repository, which means taking the prepared artifacts and copies them for long-term storage into an external *artifact repository*, such as Artifactory, PyPi, NPM and so on. The GHA method for authenticating to an external repository is by keeping the necessary credentials in a special piece of GHA configuration called a "secret". 
 
 Major damage is likely to ensure if malicious actors are able to enlist artifacts. As an example, if an artifact in question is a web service that processes payments, a malicious actor can hijack the normal flow so that it leaks payment method data.
 

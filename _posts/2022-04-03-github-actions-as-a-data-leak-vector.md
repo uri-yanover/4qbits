@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Actions as a data leak vector"
-date: 2022-03-26
+date: 2022-04-03
 categories: blogging security systems
 ---
 **TL:DR**: The GitHub Actions (GHA) security model is broken, and in many cases may allow escalating an "ordinary developer" level of access into obtaining infrastructure credentials sufficient to inject malicious artifacts into trusted repositories

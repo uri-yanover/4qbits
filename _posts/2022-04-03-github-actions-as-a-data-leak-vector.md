@@ -9,9 +9,9 @@ categories: blogging security systems
 # Statement of problem
 GitHub is a popular platform for storing source code. To be usable, source code is "built" into artifacts, such as ".exe" binaries for Windows, container images, packaged libraries such as JARs in Java and more. GitHub Actions (GHA) are a powerful tool used for orchestrating the preparation of artifact out of the sourcre code and conducting quality control over these artifacts.
 
-Typically, after a build succeed, it is is *enlisted* into a repository, which means taking the prepared artifacts and copies them for long-term storage into an external *artifact repository*, such as Artifactory, PyPi, NPM and so on. The GHA method for authenticating to an external repository is by keeping the necessary credentials in a special piece of GHA configuration called a "secret". 
+Typically, after a build succeed, it is *enlisted* into a repository, which means taking the prepared artifacts and copies them for long-term storage into an external *artifact repository*, such as Artifactory, PyPi, NPM and so on. The GHA method for authenticating to an external repository is by keeping the necessary credentials in a special piece of GHA configuration called a "secret". 
 
-Major damage is likely to ensure if malicious actors are able to enlist artifacts. As an example, if an artifact in question is a web service that processes payments, a malicious actor can hijack the normal flow so that it leaks payment method data.
+Major damage is likely to ensue if malicious actors are able to enlist artifacts. As an example, if an artifact in question is a web service that processes payments, a malicious actor can hijack the normal flow so that it leaks payment method data.
 
 While GitHub maintains the optics that only a handful of repository administrators can access secrets, I will show that in many configurations GHA secrets can in fact be extracted by any user with commit rights to a repository - which adds up to a major and often unanticipated attack surface.
 
@@ -40,7 +40,7 @@ All it takes to execute a malicious action is:
 
 By design, these steps only require commit privileges. The only restrictions that GitHub imposes is that some people with commit rights are not allowed to commit into "important" branches, such as "master". However the steps above do not assume being in such a branch, and actions are executed regardless of branch.
 
-# GitHub is aware that this is fishy - why doesn't it create better controls?
+# GitHub is aware that this is fishy - why doesn't it introduce better controls?
 GitHub's take on the described weakness is twofold. One one hand:
 -  the [GHA hardening documentation](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions) mentions  the possibility of credential exfiltration; accordingly it is apparent that at least the security review team at GitHub is aware of the major damage potential. (I conjecture the docs are an attempt to clear GitHub's public conscience on the matter)
 - GitHub UI tries to treat secrets as restricted to admins only. 

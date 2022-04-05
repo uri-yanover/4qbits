@@ -68,7 +68,7 @@ Until GitHub refines the GHA security model, it is my recommendation to:**
 
 However, even in the current, flawed, model one can still use GitHub Actions securely as an indirect trigger - one could use an Action to launch an automation off-GitHub, that can perform its own set of validations in a way that GitHub currently does not allow. Such a script could for example validate that only an explicitly approved branch may be used as a basis of an artifact being listed in a trusted artifact repository.
 
-# Post-script (added April 5th) The OIDC alternative
+# Post-scriptum: The OIDC alternative (added Apr. 5th)
 OIDC is a security architecture that allows an identity provider (in our case, GitHub), to allow for sophisticated authorization workflows in which GitHub vouches for the context in which the authentication occurs, like
 > GitHub infra: "Ahem, I'd like to get a token for the flow **merge** of branch **integration** into branch **master** initiated by user **such-and-such**" 
 
@@ -80,7 +80,7 @@ The significant upside of OIDC is that it does not trust action code for specify
 * It requires admins to build and maintain a set of fairly complex configs about how GitHub action contexts map into various kinds of permissions at the infra side,
 * Many existing off-the-shelf utilities don't support using pre-made OIDC tokens - custom code needs to be written to support this flow
 
-Overall, while OIDC sounds like the "right" solution for a highly dev-ops/sec-ops competent organization, they are a tough nut to crack for organizations who don't have these - generally scarce - resources.
+Overall, while OIDC sounds like the "right" solution for a highly dev-ops/sec-ops competent organization, it is a tough nut to crack for many organizations that don't have these resources readily available; accordingly I'd have much prefered if GitHub had accommodated for these.
 
 # Credits
 I would like to thank Max Held for raising the question of GHA security and suggesting the OIDC as a long-term viable solution, as well as Gil Dabah for his invaluable help writing this post.

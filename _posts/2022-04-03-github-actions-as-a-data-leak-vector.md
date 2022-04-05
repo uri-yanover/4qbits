@@ -70,11 +70,11 @@ However, even in the current, flawed, model one can still use GitHub Actions sec
 
 # Post-script (added April 5th) The OIDC alternative
 OIDC is a security architecture that allows an identity provider (in our case, GitHub), to allow for sophisticated authorization workflows in which GitHub vouches for the context in which the authentication occurs, like
-> GitHub: "I'd like to get a token for the flow merge **commit #1234** into branch **master** initiated by user **such-and-such**" 
+> GitHub infra: "Ahem, I'd like to get a token for the flow **merge** of branch **integration** into branch **master** initiated by user **such-and-such**" 
 
-> Cloud infra provider (AWS, GCP, Azure, ...): "Here you go, admins configured me to trust GitHub, so you can use this a short-lived token for what you need"
+> Cloud infra provider (AWS, GCP, Azure, ...): "Here you go, admins configured me to trust when GitHub asks for merges of **integration** into **master**, so you can use this a short-lived token"
 
-> GitHub: "Excellent! I'll make this token available to the user-specified actions"
+> GitHub infra: "Excellent! I'll make this token available for use only by the GitHub Actions specified for this workflow"
 
 The significant upside of OIDC is that it does not trust action code for specifying the authentication context, which is the core weakness of the approach above. The downsides are:
 * It requires admins to build and maintain a set of fairly complex configs about how GitHub action contexts map into various kinds of permissions at the infra side,

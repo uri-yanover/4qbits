@@ -68,5 +68,17 @@ Until GitHub refines the GHA security model, it is my recommendation to:**
 
 However, even in the current, flawed, model one can still use GitHub Actions securely as an indirect trigger - one could use an Action to launch an automation off-GitHub, that can perform its own set of validations in a way that GitHub currently does not allow. Such a script could for example validate that only an explicitly approved branch may be used as a basis of an artifact being listed in a trusted artifact repository.
 
+# Post-script (added April 5th) The OIDC alternative
+OIDC is a security architecture that allows an identity provider (in our case, GitHub), to allow for sophisticated authorization workflows in which GitHub vouches for the context in which the authentication occurs, like
+> GitHub: "I'd like to get a token for the flow merge **commit #1234** into branch **master** initiated by user **such-and-such**" 
+> Cloud infra provider (AWS, GCP, Azure, ...): "Here you go, admins configured me to trust GitHub, so you can use this a short-lived token for what you need"
+> GitHub: "Excellent! I'll make this token available to the user-specified actions"
+
+The significant upside of OIDC is that it does not trust action code for specifying the authentication context, which is the core weakness of the approach above. The downsides are:
+* It requires admins to build and maintain a set of fairly complex configs about how GitHub action contexts map into various kinds of permissions at the infra side,
+* Many existing off-the-shelf utilities don't support using pre-made OIDC tokens - custom code needs to be written to support this flow
+
+Overall, while OIDC sounds like the "right" solution for a highly dev-ops/sec-ops competent organization, they are a tough nut to crack for organizations who don't have these - generally scarce - resources.
+
 # Credits
-I would like to thank Max Held for raising the question of GHA security and Gil Dabah for his invaluable help writing this post.
+I would like to thank Max Held for raising the question of GHA security and suggesting the OIDC as a long-term viable solution, as well as Gil Dabah for his invaluable help writing this post.

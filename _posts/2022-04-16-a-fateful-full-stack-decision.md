@@ -33,7 +33,7 @@ However for the typical case of a small, overloaded, SW engineering team, we sho
 # Analysis
 The substantial difference between solution architectures is their "scaling curves"; all platforms require some kinds of up-front investment to get anything out all and some kind of incremental investment to support more complex features as they come along.
 
-The guiding pattern of thought when comparing these sub-options is – how much work overall is the team expected to carry out during the next year? If it's "a lot", we should minimize the overall lowest development cost per feature; if it's "one", we need to select the platform with the lowest onboarding cost. If we're unsure, we should focus on a low-cost one-off and postpone making a longer-term decision in an agreed-upon way.
+The guiding pattern of thought when comparing these sub-options is – how much work overall is the team expected to carry out during the next year? If it's "a lot", we should aim for the overall lowest development cost per feature; if it's "one", we need to select the platform with the lowest onboarding cost. If we're unsure, we should focus on a low-cost one-off and postpone making a longer-term decision in an agreed-upon way.
 
 Let's analyze the implications according to the 4 dimensions:
 1. All of the listed solutions serve the stated *Mission*, although there's a difference between a "blank-slate" application as opposed to the "opinionated" frameworks: the "blank-slate" approach allows absolute freedom at the cost of much greater complexity. This freedom is only useful if we foresee use cases that cannot be reasonably supported by the framework.

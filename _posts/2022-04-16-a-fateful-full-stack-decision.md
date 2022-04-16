@@ -16,7 +16,7 @@ In [my previous post]({% link _posts/2022-03-26-tackling-4d-chess.md %}), I pres
 Let's now examine a specific decision in that framework and see what we arrive at.
 
 # Problem statement
-A specific operation that's performed once a week requires the entry and occasional editing by a non-technical employee of a record containing about 3 layers of data nesting. Which infrastructure should be used to automate this data entry operation?
+A specific operation that's performed once a week requires the entry and occasional editing by a non-technical employee of a record containing about 3 layers of data nesting. Which SW infrastructure should be used to streamline this data entry operation?
 
 # Solution Space
 The problem calls for a user-facing "front-end" piece, a data-serving "back-end" piece and for glue to connect them together. As with most production systems, feature work, validation, bug fixes and deploy work are going to be a source of considerable operational friction.

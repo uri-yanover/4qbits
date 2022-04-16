@@ -19,7 +19,7 @@ Let's now examine a specific decision in that framework and see what we arrive a
 A specific operation that's performed once a week requires the entry and occasional editing by a non-technical employee of a record containing about 3 layers of data nesting. What should engineering use to build a tool for that?
 
 # Solution Space
-The problem calls for a user-facing "front-end" piece, a data-serving "back-end" piece and for glue to connect them together. As with most productiovn systems, feature work, validation, bug fixes and deploy work are going to be a source of considerable operational friction.
+The problem calls for a user-facing "front-end" piece, a data-serving "back-end" piece and for glue to connect them together. As with most production systems, feature work, validation, bug fixes and deploy work are going to be a source of considerable operational friction.
 
 One "best practice" approach to this problem is to cast the problem into the domain of modern web apps; they require a front-end, perhaps React-based and a back-end, for which some fashionable choices are e.g. Node JS, perhaps running on Heroku. Let's call this a "blank-slate" approach.
 

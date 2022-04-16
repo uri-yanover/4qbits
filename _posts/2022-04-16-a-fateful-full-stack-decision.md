@@ -6,7 +6,7 @@ categories: blogging leadership software
 ---
 **TL;DR**: A walkthrough of how to make the right choice of a SW stack for a project
 
-In [my previous post]({% link posts/2022-03-26-tackling-4d-chess.md %}), I presented the following four crucial dimensions of consequences of technical decision-making:
+In [my previous post]({% link _posts/2022-03-26-tackling-4d-chess.md %}), I presented the following four crucial dimensions of consequences of technical decision-making:
 
 1. Mission (current and foreseeable);
 2. Choice of platforms and their interrelations (platforms being defined as technological choices affecting more than a single mission);

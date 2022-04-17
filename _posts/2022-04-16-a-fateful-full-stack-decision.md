@@ -48,6 +48,6 @@ For the specific case of the team I was involved in, which is under a highly spo
 
 However, the above choice could come to be problematic, or even catastrophical, depending on what happens down the road. One example would be if there was suddenly a need to implement a multi-step UX flow that would exceed the very basic capabilities provided by such simple tools. 
 
-An even greater peril would be if the inevitable downsides in the chosen tools were to silently block for new impactful work - a complex but rarely used stack would become "too complex to touch", which would mean that even minor changes would become impossible, to the overall detriment of the business.
+An even greater peril would be if the inevitable downsides in the chosen tools were to silently block for new impactful work - a complex but rarely used stack would become "too complex to touch", which would cause even minor changes to become impossible, to the overall detriment of the business.
 
 Accordingly, it is crucial to revisit decisions of this kind within a few months' time and see if their fundamental assumptions still hold; at least for me, the above 4 Dimensions is a good way of going about that.

@@ -21,7 +21,7 @@ A specific operation that's performed once a week requires the entry and occasio
 # Solution Space
 The problem calls for a user-facing "front-end" piece, a data-serving "back-end" piece and for glue to connect them together. As with most production systems, feature work, validation, bug fixes and deploy work are going to be a source of considerable operational friction.
 
-One "best practice" approach to this problem is to cast the problem into the domain of modern web apps; they require a front-end, perhaps React-based and a back-end, for which some fashionable choices are e.g. Node JS, perhaps running on Heroku. Let's call this a "blank-slate" approach.
+Since the "front-end" needs to run at a non-technical employee's machine, it mostly would make sense to create a web app. The current "best practice" approach to this problem is to develop from scratch a React-based JavaScript front-end and a Node/Python backend, perhaps running on Heroku. Let's call this a "blank-slate" approach.
 
 However for the typical case of a small, overloaded, SW engineering team, we should also consider a low-code/no-code application server. Some examples are:
 - ASP.net (FE+BE "single-moving-piece")

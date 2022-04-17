@@ -23,7 +23,7 @@ The problem calls for a user-facing "front-end" piece, a data-serving "back-end"
 
 Since the "front-end" needs to run at a non-technical employee's machine, it mostly would make sense to create a web app. The current "best practice" approach to this problem is to develop from scratch a React-based JavaScript front-end and a Node/Python backend, perhaps running on Heroku. Let's call this a "blank-slate" approach.
 
-However for the typical case of a small, overloaded, SW engineering team, we should also consider a low-code/no-code application server. Some examples are:
+However for the typical case of a small, overloaded, SW engineering team, we should also consider a set of approaches that I'll collectively designate as *opinionated*. Some examples are:
 - ASP.net (FE+BE "single-moving-piece")
 - Retool for FE and Serverless (AWS Lambda or Google Cloud Functions) for BE,
 - [schema-editor](https://json-editor.github.io/json-editor/form-submission.html) FE and Serverless (AWS Lambda or Google Cloud Functions) for BE

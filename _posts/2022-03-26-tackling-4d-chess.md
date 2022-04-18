@@ -6,6 +6,9 @@ categories: blogging career tech-leadership
 ---
 **TL;DR**: How to make good decisions when talent is scarce and expertise even scarcer?
 
+# Note (added April 18th, 2022)
+A lot of people like starting with [a specific example of the 4D technical decision analysis paradidm]({% link _posts/2022-04-16-a-fateful-full-stack-decision.md %}). This post deals with the question - what kinds of culture/leadership mentality are necessary to apply this paradigm successfully.
+
 # The peril of non-expert decision making
 One of the key obstacles in a team that I've worked with was a certain "stack" of SW that handles the processing of a crucial data source - I should mention that the data per se is not very complex, and definitely very "small-scale" as far as these things go.
 
@@ -22,7 +25,7 @@ The opposite of the anarchy of non-experts making decisions would be only expert
 
 Modern R&D decision-making may be described as "4D chess", where each of the following has long-lasting effects interacting with the other 3:
 
-1. Mission (current and forseeable);
+1. Mission (current and foreseeable);
 2. Choice of platforms and their interrelations (platforms being defined as technological choices affecting more than a single mission);
 3. Choice of personnel specializations and growth tracks;
 4. Choice of work processes, whether formal or not, and investment into tools to support such processes.

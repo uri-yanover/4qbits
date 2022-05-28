@@ -25,7 +25,7 @@ To avoid just dabbling in theory, I wanted to give a specific example of what I 
 ## Not Just One Person's Problem
 A key pattern that I learnt to recognize is that if nobody is accountable for me, as a high-ability hands-on executor – then likely nobody is accountable for the success of that part of the organization at all.
 
-On the business side, such absence is indicative of there being no major drive for attaining transformative outcomes at all, which means that there's substantially no long-term need in the organization for a product/engineering team. Perhaps the team should be reorganized for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run.
+On the business side, such absence is indicative of there being no major drive for attaining transformative outcomes, which means that there's substantially no long-term justification in the organization for a product/engineering team. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run.
 
 On the human side, nobody is there to watch for other key people's backs, which means that people will notice and find their way out at their convenience regardless of anything else.
 
@@ -40,14 +40,14 @@ Any new job bears a high risk of failure to grow. Prospecting for jobs is akin t
 Optimizing for one's professional well-being means de-prioritizing other criteria. I wanted to demonstrate where I often pay a price to make room for my growth:
 
 - I cannot commit to a mission, however appealing it may be to others, if - as it frequently happens - there's no one watching out for me in it.
-- I should not specialize into a specific set of technologies - I won't be"*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the pay of a super-expert that I could have obtained going down that road.
+- I should not specialize into a specific set of technologies - I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the pay of a super-expert that I could have obtained going down that road.
 - I cannot stick with the majority of outstanding individuals I meet along the road - even if they focus on growth in the same sense that I do,  it is too likely that their growth goals would be different from mine.
-- I haven't stayed anywhere enough to enjoy postponed-carrot benefits, like the "recharge month" they give out at Facebook/Meta after 5 years or the extremely generous government retirement plan that's only available after 25 years of service.
+- I haven't stayed anywhere enough to enjoy multi-year benefits, like the "recharge month" they give out at Facebook/Meta after 5 years or the extremely generous government retirement plan that's only available after 25 years of service.
 - I haven't developed my office politics/optics skills/reputation, which is a huge impediment if I should ever have to stay in quite a lot of organizations out there.
 
 ## Wrap-up: no man is an island
 There's an untrivial assumption in the strategy proposed above: that there's at least *somebody* decent willing to invest into your professional well-being. A lot of people can't come up with even one such person!
 
-However, one thing I did notice during my own personal journey is that there are far more people whom I could team up with than the obvious choices; it's just that I tend to become aware of them too late.
+However, one thing I did notice during my own personal journey is that there are far more people whom I could team up with than the obvious choices; it's just that I tended to become aware of them too late.
 
-Along the Murphy philosophy, the search for the right people to team up with should be seen as a stream running continuously through one's life; thus it is only through continuously connecting to others one can find their place as a part of the whole. And if you agree with me that those connections are what you need for your self-realization, may you find those other people, and sooner rather than later!
+What I realized, along the lines of the Murphy philosophy, is that the search for the right people to team up with should be seen as a stream running continuously through one's life; thus it is only through continuously connecting to others one can find their place as a part of the whole. Whether for this reason or any other, I wanted to end the post by wishing that you'd find the people necessary for your growth, and sooner rather than later!

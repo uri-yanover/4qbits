@@ -9,7 +9,7 @@ categories: blogging career
 ## Core strategy
 Murphy's Law is an adage staying "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "if something needs to happen robustly, it needs to be *driven* directly, rather than left to occur as a side effect".
 
-My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career via the efficacy of my practice of building and the growth in my skill as a builder. I'd like to present my thoughts on how to drive such growth.
+My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career via the efficacy of my practice of building and the growth in my skill as a builder. I'd like to present my thoughts on how to drive such growth in a principled way.
 
 My core strategy is simple: I don't choose organizations, but rather specific people whom I see as partners, not bosses, for what I do. I only stick with people who continuously prove that they are accountable for my professional well-being. When that ceases to be the case, I leave. The End.
 

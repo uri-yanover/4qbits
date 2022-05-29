@@ -7,7 +7,7 @@ categories: blogging career
 **TL;DR**: Stick exclusively with people who can be trusted with your professional well-being.
 
 ## Core strategy
-Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "for an outcome to occur robustly, it has to be *driven* directly, rather than as a side effect".
+Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "for an outcome to occur reliably, it has to be *driven* directly, rather than as a side effect".
 
 My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. Here, I'd like to present my thoughts on how to drive personal growth in a principled manner.
 
@@ -25,9 +25,9 @@ To avoid just dabbling in theory, I wanted to provide a specific example of what
 ## Not Just One Person's Problem
 A key pattern that I learnt to recognize is that if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is actually accountable for the success of that part of the organization at all.
 
-The same observation actually holds true for most team-members, not just the highest-ability ones. Healthy teams have something in store for almost any type of a contributor. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people have noticed that nothing is really happening, they begin plotting their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away and causing necrosis elsewhere. 
+The same observation actually holds true for most team-members, and not just the highly able ones. Healthy teams have something in store for almost any type of a contributor. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people have noticed that nothing is really happening, they begin plotting their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
 
-From the business side, the absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run, and transforming into a different team type is also a goal that needs to be managed proactively -- not something to be expected in a dysfunctional setting.
+From the business side, the absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in that cases, such a major change is best done proactively and explicitly -- and not via a vanishing act.
 
 ## Capping perseverance
 By no means do I mean that jumping ship should be taken lightly. In fact I strongly believe in trying to persevere for a while before giving up. How long of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 

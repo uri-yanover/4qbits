@@ -11,37 +11,35 @@ Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". T
 
 My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. I'd like to present my thoughts on how to drive such growth in a principled manner.
 
-My core strategy is simple: I don't stich with "organizations", but rather with specific people who are consistently accountable for my professional well-being. I only select people whom I can see as partners, not bosses. give them everything I've got and more. When my well-being is no longer attended to, whether through neglect or inability, I leave. The End.
+My core strategy is simple: I try never to "work for an organization", but rather "partner with specific stakeholders". I give my partners everything I've got and more; I expect in return that they effectively act to further my well-being. If the partner proves unable to do so, whether through inability or neglect, I leave. The End.
 
 ## Example: for me personally, what does the above boil down to?
 To avoid just dabbling in theory, I wanted to give a specific example of what I expect from my partners in crime:
 
-1. Communicating, committing and adhering to a joint vision. Positive example: figuring out what new tech needs to be created over the next 9 months and splitting up the subtasks needed to making the high-value outcomes happen. Negative example: having a discussion with some bottom line, and then getting a surprised pikachu when I present the conclusions to the team.
+1. Communicating, committing and adhering to a joint vision. Positive example: figuring out what new tech needs to be addressed over the next 9 months and splitting up the subtasks needed to making the high-value outcomes happen. Negative example: having a discussion with some bottom line, and then getting a surprised pikachu when I present the conclusions to a wider team.
 
 2. Trying to figure out how to fix longer-term operational/workflow issues when I'm down in the weeds (which I'm prone to), so that I won't have to spend the bulk of my time fighting bushfires.
 
 3. Being attentive to my inputs and investing emotional labor into remediating matters that are not working well; "us" should be important.
 
 ## Not Just One Person's Problem
-A key pattern that I learnt to recognize is that if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is accountable for the success of that part of the organization at all.
+A key pattern that I learnt to recognize is that if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is actually accountable for the success of that part of the organization at all.
 
-On the business side, such absence is indicative of there being no major drive for attaining transformative outcomes, which means that there's substantially no long-term justification in the organization for building tech of the kind I excel at. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run.
+The same observation actually holds true for most team-members, not just the highest-ability ones. Healthy teams have something in store for any reasonable professional. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people notice that nothing is really happening, they begin plotting their ways out at their own chosen speeds. Only a very competent and timely salvage effort can save the team from whithering away necrotically. 
 
-On the human side, people tend to notice that nobody's really there, and will start plotting their ways out at their own chosen speeds. This applies not just to the people who first notice they're left behind, but more or less to anyone the organization would care about retaining.
-
-Either way, lack of attention to people's well-being is a pretty late-stage sign of organizational dysfunction; if it had not been addressed up until now, it's likely not to be OK.
+From the business side, absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run, and transforming into a different team type is also a goal that needs to be managed explicitly.
 
 ## Capping perseverance
 What length of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 
 
-Any new job bears a high risk of failure to grow. Prospecting for jobs is akin to building an investment portfolio: one needs to diversify and accommodate for multiple failures over the course of a career. It is likely that I'll need to have worked about 15 jobs in a 40 year career. If I stick for longer than a year at the bad places, I'll have too little for the good ones.
+Any new job bears a high risk of failure to grow. Prospecting for jobs is akin to building an investment portfolio: one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting them dominate one's career.
 
 ## The sacrifices inherent in that strategy
-Optimizing for my professional well-being means de-prioritizing other concerns. I wanted to demonstrate where I often pay a price to make room for my growth:
+Optimizing for my professional well-being means de-prioritizing other concerns. In particular, focusing only on growth positions means losing the perks given for "company loyalty". Here are some examples of prices that this strategy entails:
 
-- I cannot commit to a mission, however appealing it may be to others, if - as it frequently happens - there's no one watching out for me in it.
-- I should not specialize into a specific set of technologies - I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the pay of a super-expert that I could have obtained going down that road.
-- I cannot stick with the majority of outstanding individuals I meet along the road - even if they focus on growth in the same sense that I do,  it is too likely that their growth goals would be different from mine.
+- I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it - the typical case.
+- Since different organizations deal with different tech stacks, I do not specialize in a specific set of technologies. I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the career path of a super-expert that I could have switched to.
+- I cannot stick with the majority of outstanding peers I meet along the road - even if they focus on growth in the same sense that I do,  it is too likely that their growth goals would be different from mine.
 - I'm giving up up-front on long-term benefits, like the "recharge month" they give out at Facebook/Meta after 5 years of employment or the extremely generous government retirement plan that's only available after 25 years of service.
 - I haven't developed skills for office politics or desirable optics, which is a huge impediment if I should ever have to stay in quite a lot of organizations out there.
 

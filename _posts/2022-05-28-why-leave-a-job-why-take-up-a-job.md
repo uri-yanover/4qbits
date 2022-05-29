@@ -27,7 +27,7 @@ A key pattern that I learnt to recognize is that if nobody is accountable for me
 
 The same observation actually holds true for most team-members, not just the highest-ability ones. Healthy teams have something in store for any reasonable professional. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people notice that nothing is really happening, they begin plotting their ways out at their own chosen speeds. Only a very competent and timely salvage effort can save the team from whithering away necrotically. 
 
-From the business side, absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run, and transforming into a different team type is also a goal that needs to be managed explicitly.
+From the business side, absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run, and transforming into a different team type is also a goal that needs to be managed proactively -- not something to be expected in a dysfunctional setting.
 
 ## Capping perseverance
 What length of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 
@@ -37,7 +37,7 @@ Any new job bears a high risk of failure to grow. Prospecting for jobs is akin t
 ## The sacrifices inherent in that strategy
 Optimizing for my professional well-being means de-prioritizing other concerns. In particular, focusing only on growth positions means losing the perks given for "company loyalty", a.k.a. putting up with dysfunction affecting me. Here are some examples of prices that this strategy entails:
 
-- I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it - the typical case.
+- I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it. This alone hinders a considerable majority of opportunities I have access to.
 - Since different organizations deal with different tech stacks, I do not specialize in a specific set of technologies. I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the career path of a super-expert, which is a great strategy practiced by a lot of people out there.
 - I cannot stick with the majority of outstanding peers I meet along the road - even if they focus on growth in the same sense that I do,  it is too likely that their growth goals would be different from mine.
 - I'm giving up up-front on long-term benefits, like the "recharge month" they give out at Facebook/Meta after 5 years of employment or the extremely generous government retirement plan that's only available after 25 years of service.

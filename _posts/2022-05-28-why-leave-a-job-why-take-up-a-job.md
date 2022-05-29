@@ -7,7 +7,7 @@ categories: blogging career
 **TL;DR**: Stick exclusively with people who can be trusted with your professional well-being.
 
 ## Core strategy
-Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "for something to happen robustly, it has to be *driven* directly, rather than left to occur as a side effect".
+Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "for an outcome to occur robustly, it has to be *driven* directly, rather than as a side effect".
 
 My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. I'd like to present my thoughts on how to drive such growth in a principled manner.
 

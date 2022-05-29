@@ -13,7 +13,7 @@ My livelihood is building organizations out of people, technologies and culture.
 
 My core strategy is simple: I try never to "work for an organization", but rather "partner with specific stakeholders". I give my partners everything I've got and more; I expect in return that they effectively act to further my well-being. If the partner proves unable to do so, whether through inability or neglect, I leave. The End.
 
-## Example: for me personally, what does the above boil down to?
+## What does it take to be my partner?
 To avoid just dabbling in theory, I wanted to provide a specific example of what I expect from my partners in crime:
 
 1. Communicating, committing and adhering to a joint vision. Positive example: figuring out what new tech needs to be addressed over the next 9 months and splitting up the subtasks needed to making the high-value outcomes happen. Negative example: having a discussion with some bottom line, and then getting a surprised pikachu when I present the conclusions to a wider team.
@@ -30,7 +30,7 @@ The same observation actually holds true for most team-members, not just the hig
 From the business side, the absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run, and transforming into a different team type is also a goal that needs to be managed proactively -- not something to be expected in a dysfunctional setting.
 
 ## Capping perseverance
-What length of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 
+By no means do I mean that jumping ship should be taken lightly. In fact I strongly believe in trying to persevere for a while before giving up. How long of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 
 
 Prospecting for jobs is akin to building an investment portfolio: any single choice involves a high risk of failure to grow; one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting the downside dominate one's career.
 

@@ -35,7 +35,7 @@ What length of a bad period is "enough" to decide that I'm no longer in the righ
 Any new job bears a high risk of failure to grow. Prospecting for jobs is akin to building an investment portfolio: one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting them dominate one's career.
 
 ## The sacrifices inherent in that strategy
-Optimizing for my professional well-being means de-prioritizing other concerns. In particular, focusing only on growth positions means losing the perks given for "company loyalty". Here are some examples of prices that this strategy entails:
+Optimizing for my professional well-being means de-prioritizing other concerns. In particular, focusing only on growth positions means losing the perks given for "company loyalty", a.k.a. putting up with dysfunction affecting you. Here are some examples of prices that this strategy entails:
 
 - I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it - the typical case.
 - Since different organizations deal with different tech stacks, I do not specialize in a specific set of technologies. I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the career path of a super-expert that I could have switched to.

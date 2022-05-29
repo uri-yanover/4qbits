@@ -9,9 +9,9 @@ categories: blogging career
 ## Core strategy
 Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "for something to happen robustly, it has to be *driven* directly, rather than left to occur as a side effect".
 
-My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. I'd like to present my thoughts on how to drive such growth in a principled way.
+My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. I'd like to present my thoughts on how to drive such growth in a principled manner.
 
-My core strategy is simple: I don't choose organizations, but rather specific people whom I see as partners, not bosses. I only stick with people who are consistently accountable for my professional well-being. I give them everything I've got and more. When my well-being is no longer attended to, I leave. The End.
+My core strategy is simple: I don't stich with "organizations", but rather with specific people who are consistently accountable for my professional well-being. I only select people whom I can see as partners, not bosses. give them everything I've got and more. When my well-being is no longer attended to, whether through neglect or inability, I leave. The End.
 
 ## Example: for me personally, what does the above boil down to?
 To avoid just dabbling in theory, I wanted to give a specific example of what I expect from my partners in crime:
@@ -25,11 +25,11 @@ To avoid just dabbling in theory, I wanted to give a specific example of what I 
 ## Not Just One Person's Problem
 A key pattern that I learnt to recognize is that if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is accountable for the success of that part of the organization at all.
 
-On the business side, such absence is indicative of there being no major drive for attaining transformative outcomes, which means that there's substantially no long-term justification in the organization for a product/engineering team. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run.
+On the business side, such absence is indicative of there being no major drive for attaining transformative outcomes, which means that there's substantially no long-term justification in the organization for building tech of the kind I excel at. Perhaps there's a justification for doing something else, for example, maintenance or operations, but that'd be a totally different team in the long run.
 
-On the human side, nobody is there to watch for other key people's backs, which means that people will notice and find their way out at their convenience regardless of anything else.
+On the human side, people tend to notice that nobody's really there, and will start plotting their ways out at their own chosen speeds. This applies not just to the people who first notice they're left behind, but more or less to anyone the organization would care about retaining.
 
-Either way, lack of attention to people's well-being is a tell-tale sign that major trouble is imminent; not just for the people that noticed first that they're left behind, but rather for the team as a whole.
+Either way, lack of attention to people's well-being is a pretty late-stage sign of organizational dysfunction; if it had not been addressed up until now, it's likely not to be OK.
 
 ## Capping perseverance
 What length of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 

@@ -11,9 +11,9 @@ Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". T
 
 My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. Here, I'd like to present my thoughts on how to drive personal growth in a principled manner.
 
-My core strategy is simple: I try never to "work for an organization", but rather "partner with specific stakeholders". I give my partners everything I've got and more; I expect in return that they effectively act to further my well-being. If the partner proves unable to do so, whether through inability or neglect, I leave. The End.
+My core strategy is simple: I try never to "work for an organization", but rather "partner with specific stakeholders". I give my partners everything I've got and more; I expect in return that they have a positive impact on my professional well-being. If such an impact does not happen, whether through lack of ability or neglect, I leave. The End.
 
-## What does it take to be my partner?
+## How does one impact my professional well-being?
 To avoid just dabbling in theory, I wanted to provide a specific example of what I expect from my partners in crime:
 
 1. Communicating, committing and adhering to a joint vision. Positive example: figuring out what new tech needs to be addressed over the next 9 months and splitting up the subtasks needed to making the high-value outcomes happen. Negative example: having a discussion with some bottom line, and then getting a surprised pikachu when I present the conclusions to a wider team.
@@ -23,9 +23,9 @@ To avoid just dabbling in theory, I wanted to provide a specific example of what
 3. Being attentive to my inputs and investing emotional labor into remediating matters that are not working well; "us" should be important.
 
 ## Not Just One Person's Problem
-A key pattern that I learnt to recognize is that if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is actually accountable for the success of that part of the organization at all.
+One important thing to note is that although it's *my* professional well-being, it's never for my own sake alone -- the organization is a major beneficiary of virtually every one of the examples above. This led me to a key observation: if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is actually accountable for the success of that part of the organization at all.
 
-The same observation actually holds true for most team-members, and not just the highly able ones. Healthy teams have something in store for almost any type of a contributor. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people have noticed that nothing is really happening, they begin plotting their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
+The above holds true for more than just the high performers. Healthy teams have something in store for almost any type of a contributor. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people have noticed that nothing is really happening, they begin plotting their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
 
 From the business side, the absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in that cases, such a major change is best done proactively and explicitly -- and not via a vanishing act.
 

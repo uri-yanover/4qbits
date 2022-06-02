@@ -34,7 +34,7 @@ By no means do I mean that jumping ship should be taken lightly. In fact I stron
 
 Prospecting for jobs is akin to building an investment portfolio: any single choice involves a high risk of failure to grow; one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting the downside dominate one's career.
 
-## The sacrifices inherent in that strategy
+## What do I lose by focusing on growth?
 Optimizing for my professional well-being means de-prioritizing other concerns. In particular, focusing only on growth positions means losing the perks given for "company loyalty", a.k.a. putting up with dysfunction affecting me. Here are some examples of prices that this strategy entails:
 
 - I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it. This alone hinders a considerable majority of opportunities I have access to.

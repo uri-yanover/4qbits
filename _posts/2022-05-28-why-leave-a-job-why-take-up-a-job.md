@@ -27,10 +27,10 @@ By no means do I mean that jumping ship should be taken lightly. In fact I stron
 
 Prospecting for jobs is akin to building an investment portfolio: any single choice involves a high risk of failure to grow; one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting the downside dominate one's career.
 
-## The implications of me not being not professionally well
+## If a team member is not well, what does it say about the team?
 One important thing to note is that although my goal is optimizing *my* professional well-being, under normal circumstances the latter aligns with the good of the organization; just consider the three examples I gave above. This leads me to a key observation: if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that execution is no longer a major priority of the organization at all.
 
-This observation is true for more than just the high performers. Teams that are important for business tend to develop a style of leadership that tries to cut down on the overheads of doing useful things, and in particular develops expertise in carving out complex tasks into bits that are appropriate for all kinds of contributors. The major mode of failure for such a team would be burnout or exhaustion; if the team is managed well, it can be a nurturing professional home for most team members for many years.
+This observation is true for more than just the high performers. Teams that are important for business tend to develop a style of leadership that tries to cut down on the overheads of doing useful things, and in particular develops expertise in carving out complex tasks into bits that are appropriate for all kinds of contributors. The major mode of attrition for such a team would be burnout or exhaustion; if the team is managed well, it can be a nurturing professional home for most team members for many years.
 
 However a team in which people are leaving due to being misapplied is indicative of a failure of leadership. This is an insidious mode of failure because it arises exactly when there's nobody at the helm; by the time it gets on somebody's radar, most team members would already be on their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
 

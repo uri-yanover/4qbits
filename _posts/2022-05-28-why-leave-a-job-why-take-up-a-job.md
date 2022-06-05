@@ -37,7 +37,7 @@ However a team in which people are leaving due to being misapplied is indicative
 Coming from the higher ups' side, the lack of executive attention to a certain domain means that nothing going on in the team would dramatically effect outcomes. Perhaps the team is misaligned in any case and there could be a dramatic outcome for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in those cases, the lack of clarity about a different team being needed would mean waste and unnecessary hardship.
 
 ## The things I lose by putting bounds on perseverance
-Most organizations are dysfunctional in some way or other, and a lot of them contain damage by awarding perks in return for the loyalty in the specific sense of putting up with dysfunction. My focus on growth means losing them.
+Most organizations are dysfunctional in some way or other, and a lot of them come up with the strategy of awarding perks to employees in exchange to putting up with dysfunction. My focus on growth means losing them.
 
 - I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it. This alone hinders a considerable majority of opportunities I have access to.
 - Since different organizations deal with different tech stacks, I do not specialize in a specific set of technologies. I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the career path of a super-expert, which is a great strategy practiced by a lot of people out there.

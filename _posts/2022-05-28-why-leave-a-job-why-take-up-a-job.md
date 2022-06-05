@@ -6,14 +6,14 @@ categories: blogging career
 ---
 **TL;DR**: Stick exclusively with people who can be trusted with your professional well-being.
 
-## Core strategy
+## A strategy that focuses on personal growth
 Murphy's Law is an adage stating that "if anything *can* go wrong, it *will*". The uninitiated tend to read that as a drier variant of "life sucks". But for us engineers, the phrase means something quite different: "for an outcome to occur reliably, it has to be *driven* directly, rather than as a side effect".
 
 My livelihood is building organizations out of people, technologies and culture. Like a lot of people out there, I tend to measure my career growth via the efficacy of my practice of my art day-to-day and the improvement of my skills over the years. Here, I'd like to present my thoughts on how to drive personal growth in a principled manner.
 
-My core strategy is simple: I try never to "work for an organization", but rather "partner with specific stakeholders". I give my partners everything I've got and more; I expect in return that they have a positive impact on my professional well-being. If such an impact does not happen, whether through lack of ability or neglect, I leave. The End.
+My core strategy is simple: I try never to "work for an organization", but rather "partner with specific stakeholders". I give my partners everything I've got and more; I expect in return that they have a positive impact on my professional well-being. If such an impact does not happen, whether through lack of ability, lack of opportunities or simple neglect, I leave. The End.
 
-## How does one impact my professional well-being?
+## What can a professional partner do to further my professional well-being?
 To avoid just dabbling in theory, I wanted to provide a specific example of what I expect from my partners in crime:
 
 1. Communicating, committing and adhering to a joint vision. Positive example: figuring out what new tech needs to be addressed over the next 9 months and splitting up the subtasks needed to making the high-value outcomes happen. Negative example: having a discussion with some bottom line, and then getting a surprised pikachu when I present the conclusions to a wider team.
@@ -22,19 +22,21 @@ To avoid just dabbling in theory, I wanted to provide a specific example of what
 
 3. Being attentive to my inputs and investing emotional labor into remediating matters that are not working well; "us" should be important.
 
-## Not Just One Person's Problem
-One important thing to note is that although it's *my* professional well-being, it's never for my own sake alone -- the organization is a major beneficiary of virtually every one of the examples above. This led me to a key observation: if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that nobody is actually accountable for the success of that part of the organization at all.
-
-The above holds true for more than just the high performers. Healthy teams have something in store for almost any type of a contributor. It takes quite a bit of organizational dysfunction to even get to the point of ignoring people's being misapplied, and if that point has been reached, the damage has already been done. Once people have noticed that nothing is really happening, they begin plotting their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
-
-From the business side, the absence of a drive to deliver transformative outcomes means that the organization is not substantially interested in having that kind of deliverable. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in that cases, such a major change is best done proactively and explicitly -- and not via a vanishing act.
-
-## Capping perseverance
+## When's the right time to let go?
 By no means do I mean that jumping ship should be taken lightly. In fact I strongly believe in trying to persevere for a while before giving up. How long of a bad period is "enough" to decide that I'm no longer in the right company? My rule of thumb is a year. 
 
 Prospecting for jobs is akin to building an investment portfolio: any single choice involves a high risk of failure to grow; one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting the downside dominate one's career.
 
-## What do I lose by focusing on growth?
+## Does my own well-being align with the organization's interests?
+One important thing to note is that although my goal is optimizing *my* professional well-being, under normal circumstances the latter aligns with the good of the organization; just consider the three examples I gave above. This leads me to a key observation: if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that execution is no longer a major priority of the organization at all.
+
+This observation is true for more than just the high performers. Teams that are important for business tend to develop a style of leadership that tries to cut down on the overheads of doing useful things, and in particular develops expertise in carving out complex tasks into bits that are appropriate for all kinds of contributors. The major mode of failure for such a team would be burnout or exhaustion; if the team is managed well, it can be a nurturing professional home for most team members for many years.
+
+However a team in which people are leaving due to being misapplied is indicative of a failure of leadership. This is an insidious mode of failure because it arises exactly when there's nobody at the helm; by the time it gets on somebody's radar, most team members would already be on their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
+
+Coming from the business side, the lack of executive attention to a certain domain means that the domain does not appear to the company as something that would dramatically effect outcomes. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in those cases, the lack of clarity about a different team being needed would mean waste and unnecessary hardship.
+
+## What do I lose by not putting up with dysfunction?
 Focusing on growth by being selective regarding my professional well-being means relaxing my expectations for other things. In particular, focusing only on growth positions means losing the perks awarded for "company loyalty", a.k.a. putting up with dysfunction that affects me. Here are some examples of prices that this strategy entails:
 
 - I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it. This alone hinders a considerable majority of opportunities I have access to.

@@ -27,7 +27,7 @@ By no means do I mean that jumping ship should be taken lightly. In fact I stron
 
 Prospecting for jobs is akin to building an investment portfolio: any single choice involves a high risk of failure to grow; one needs to diversify and accommodate for multiple failures over the course of a career. Considering the fact that a "good run" is about 2 years and ends up with a bad run, giving 1 year for bad runs is about as much as possible without letting the downside dominate one's career.
 
-## Does my own well-being align with the organization's interests?
+## The implications of me not being not professionally well
 One important thing to note is that although my goal is optimizing *my* professional well-being, under normal circumstances the latter aligns with the good of the organization; just consider the three examples I gave above. This leads me to a key observation: if nobody is accountable for me, as a high-ability hands-on executor – then it is likely that execution is no longer a major priority of the organization at all.
 
 This observation is true for more than just the high performers. Teams that are important for business tend to develop a style of leadership that tries to cut down on the overheads of doing useful things, and in particular develops expertise in carving out complex tasks into bits that are appropriate for all kinds of contributors. The major mode of failure for such a team would be burnout or exhaustion; if the team is managed well, it can be a nurturing professional home for most team members for many years.
@@ -36,7 +36,7 @@ However a team in which people are leaving due to being misapplied is indicative
 
 Coming from the business side, the lack of executive attention to a certain domain means that the domain does not appear to the company as something that would dramatically effect outcomes. Perhaps there's a justification for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in those cases, the lack of clarity about a different team being needed would mean waste and unnecessary hardship.
 
-## What do I lose by not putting up with dysfunction?
+## The things I lose by prioritizing well-being over loyalty
 Focusing on growth by being selective regarding my professional well-being means relaxing my expectations for other things. In particular, focusing only on growth positions means losing the perks awarded for "company loyalty", a.k.a. putting up with dysfunction that affects me. Here are some examples of prices that this strategy entails:
 
 - I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it. This alone hinders a considerable majority of opportunities I have access to.

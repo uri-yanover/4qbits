@@ -36,10 +36,15 @@ This observation actually applies to much more than the high performers. Teams t
 
 However, a team in which people are unwell due to being misapplied, is indicative of an oragnizational failure. This is an insidious mode of failure because it arises exactly when there's nobody at the helm to mitigate, or there's someone, but they've lost their way. By the time the failure gets on higher ups' radars, most team members would already be plotting their ways out at their own chosen speeds. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
 
-Coming from the higher ups' side, the neglect of a certain domain projects a lack of belief that execution in that domain is important to outcomes at their level. It is most typical that such a belief is not explicit, but rather a consequence of a change in organizational values. Perhaps the team is misaligned in any case and there could be a dramatic outcome for a different deliverable, for example, maintenance or operations, but that'd be a totally different team in the long run. Even in those cases, the lack of clarity about a different team being needed would mean waste and unnecessary hardship.
+Coming from the higher ups' side, the neglect of a certain domain represent a lack of belief that execution in that domain is important to outcomes at their level, when compared to the other things going on at the moment. This kind of a disregard is almost never deliberate, but rather arising from ongoing shifts in values:
+- The leadership may just have had its attention diverted by crises elsewhere.
+- The execution might have been good enough for everybody to assume that it just works - until it doesn't.
+- There might still be major value in other adjacent lines of work for an evolved team, for example doing maintenance or operations.
+
+While expaining most of the situations I've observed, all of these still make up for a bad place to be in.
 
 ## The things I lose by putting bounds on perseverance
-Most organizations are dysfunctional in some way or other, and a lot of them come up with the strategy of awarding perks to employees in exchange to putting up with dysfunction. My focus on growth means losing them.
+Most organizations are dysfunctional in some way or other, and a lot of them come up with the strategy of awarding perks to employees in exchange to putting up with dysfunction. My focus on growth means losing such perks. Here are some examples:
 
 - I cannot commit to a mission, however appealing it may be to others, if there's no one watching out for me in it. This alone hinders a considerable majority of opportunities I have access to.
 - Since different organizations deal with different tech stacks, I do not specialize in a specific set of technologies. I won't be "*the* algorithmic maven" or "*the* data guy" or "*the* security guru", although I can be and am highly proficient in all of these areas. This means also giving up on the career path of a super-expert, which is a great strategy practiced by a lot of people out there.

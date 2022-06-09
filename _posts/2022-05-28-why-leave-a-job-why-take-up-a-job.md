@@ -36,12 +36,12 @@ This observation actually applies to much more than the high performers. Teams t
 
 When execution is unimportant, most team members would already be plotting their ways out at their own chosen speeds. At some point it transpires that there's nobody relevant anymore at the helm. By then, only a very competent and determined salvage effort can save the team from whithering away while causing cascading damage elsewhere in the organization. 
 
-Coming from the angle of rational management, the neglect of a certain domain represent a lack of belief that execution in that domain is important to outcomes at their level, when compared to the other things going on at the moment. This kind of a disregard is almost never deliberate; it arises from ongoing shifts in values:
+Assuming that management is rational, the neglect of a certain domain represent a lack of belief that execution in that domain is important to outcomes at their level, when compared to the other things going on at the moment. This kind of a disregard arises from ongoing shifts in values, and is almost never a deliverate choice:
 - The leadership may just have had its attention temporarily diverted by crises elsewhere.
 - The execution might have been good enough for everybody to assume that it just works - until that stops to be the case.
 - There might still be major value in other adjacent lines of work for an evolved team, for example doing maintenance or operations.
 
-While expaining most of the situations I've observed, all of these still add up into a bad organization to be a part of.
+The above serves as an explanation; while explaining many of the situations I've been a part of, all of these still amount to being a danger zone for the entire organization.
 
 ## The things I lose by putting bounds on perseverance
 Most organizations are dysfunctional in some way or other, and a lot of them come up with the strategy of awarding perks to employees in exchange to putting up with dysfunction. My focus on growth means losing such perks. Here are some examples:

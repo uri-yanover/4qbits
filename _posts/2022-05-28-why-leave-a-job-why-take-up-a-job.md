@@ -36,12 +36,12 @@ This observation actually applies to much more than the high performers. Teams t
 
 A well known property of capable employees is that they recognize not being considered important, and respond by plotting their ways out at their own chosen speeds. At some point it becomes common knowledge that there's nobody relevant anymore at the helm. By then, only a very competent and determined salvage effort can save whoever's left from whithering away while causing cascading damage elsewhere in the organization. 
 
-Assuming that management is rational, the neglect of a certain domain represent a lack of belief that execution in that domain is important to outcomes at their level, when compared to the other things going on at the moment. This kind of a disregard arises from ongoing shifts in values, and is almost never a deliverate choice:
+Assuming that management is rational, the neglect of a certain domain represent a lack of belief that execution in that domain is important to outcomes at their level, when compared to the other things going on at the moment. This kind of a disregard arises from ongoing shifts in values, and is almost never a deliverate choice. The following situations are fairly typical, in my experience.
 - The leadership may just have had its attention temporarily diverted by crises elsewhere.
 - The execution might have been good enough for everybody to assume that it just works - until that stops to be the case.
 - There might still be major value in other adjacent lines of work for an evolved team, for example doing maintenance or operations.
 
-The above serves as an explanation; while explaining many of the situations I've been a part of, all of these still amount to being a danger zone for the entire organization.
+While understandable and fairly common, all of these are noticeable organizational challenges that will become major risks if unaddressed.
 
 ## The things I lose by putting bounds on perseverance
 Most organizations are dysfunctional in some way or other, and a lot of them come up with the strategy of awarding perks to employees in exchange to putting up with dysfunction. My focus on growth means losing such perks. Here are some examples:

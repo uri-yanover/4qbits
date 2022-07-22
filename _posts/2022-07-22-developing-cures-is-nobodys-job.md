@@ -28,7 +28,7 @@ However, healthcare systems are at their core highly specialized operations busi
 
 Yes, medical school supplies individuals with more-than-sufficient knowledge, but the system will have them practice as individual contributors until they're 45, at which point most will have lost the desire to innovate.
 
-Probably the greatest exception to the above rule are MD track dropouts; the same applies to DVMs, and the rarer  DMDs. For quite a few of them, the process of finding a new vocation teaches them how to find their own choice - an absolute necessity for entrepreneurs.
+Probably the greatest exception to the above rule are MD track dropouts; the same applies to DVMs, and the rarer  DMDs. For quite a few of them, the process of finding a new vocation teaches them how to find their inner voice - a qualifying skill for entrepreneurship.
 
 A non-example is MD-PhDs. They actually do better than “regular MDs” in being exposed to advanced research techniques, but their arduous track means they need to spend most of their energy just to remain relevant as individual contributors - an intolerable source of drag for an entrepreneur.
 

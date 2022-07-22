@@ -30,7 +30,7 @@ Yes, medical school supplies individuals with more-than-sufficient knowledge, bu
 
 Probably the greatest exception to the above rule are MD track dropouts; the same applies to DVMs, and the rarer  DMDs. For quite a few of them, the process of finding a new vocation teaches them how to find their inner voice - a qualifying skill for entrepreneurship.
 
-A non-example is MD-PhDs. They actually do better than “regular MDs” in being exposed to advanced research techniques, but their arduous track means they need to spend most of their energy just to remain relevant as individual contributors - an intolerable source of drag for an entrepreneur.
+A non-example is MD-PhDs. They actually do better than “regular MDs” in being exposed to advanced research techniques, but their arduous track means they need to spend most of their energy just to remain relevant as individual contributors - a soul-crushing drag for an entrepreneur.
 
 ## People: scientists; institutions: academia
 The second category of potential leaders is scientists, who are the backbone of the world's various academic institutions. However, the entirety of the academic track incentivizes an exclusive focus on small incremental advancements attributable to a scientist's original work - this is wildly different from delivering a cure to a disease, which is a holistic problem requiring multiple collaborators, many of whom do not do anything particularly original. 

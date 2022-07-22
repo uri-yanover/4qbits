@@ -4,7 +4,7 @@ title: "Developing cures is nobody's job"
 date: 2022-07-22
 categories: pharma blogging
 ---
-**TL;DR**: Healthcare practice, research and financing have a radically risk-averse culture, which is grotesquely intolerant of business risks associated with cure development.
+**TL;DR**: Healthcare practice, research and financing are organically intolerant towards innovation - even when it's high-benefit and low-risk.
 
 ## A horrible situation
 A few years ago, one of my dear friends discovered that his child is suffering from a rare genetic disease that is likely to make the child blind within about 10 years.

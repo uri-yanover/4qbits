@@ -19,7 +19,9 @@ However, there are two interconnected problems that kill most projects of that k
 
 The rest of the post attempts to explain why that is the case.
 
-Arriving at an approved treatment for a disease is a task that requires orchestrating several dozens of participants who mostly come from a broadly similar life-science background, but are all highly specialized in one of the necessary niches - these might include drug delivery, physiologists, animal lab personnel, pathologists, medical patent lawyers, medical statisticians, clinical research coordinators, and so on. So the question becomes - who orchestrates them, and within which institutional framework.
+A project to propose and get regulatory approval for a treatment is a task that requires orchestrating several dozens of participants who mostly come from a broadly similar life-science background, but are all highly specialized in one of the necessary niches - these might include drug delivery, physiologists, animal lab personnel, pathologists, medical patent lawyers, medical statisticians, clinical research coordinators, and so on. While costs of development could run into tens of millions of US dollars, a shoestring seed budget of as little as 1 million could remove much uncertainity, especially if applied at scale.
+
+Let's go over who could orchestrate such a thing, and in what setting.
 
 ## People: MDs; institutions: Healthcare/Hospital Systems
 One obvious category of potential leaders is medical doctors, who serve as the organizational backbone of healthcare systems.

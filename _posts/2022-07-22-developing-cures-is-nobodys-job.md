@@ -32,12 +32,12 @@ Probably the greatest exception to the above rule are MD track dropouts; the sam
 
 A non-example is MD-PhDs. They actually do better than “regular MDs” in being exposed to advanced research techniques, but their arduous track means they need to spend most of their energy just to remain relevant as individual contributors - an intolerable source of drag for an entrepreneur.
 
-## Scientists in the academia
+## People: scientists; institutions: academia
 The second category of potential leaders is scientists, who are the backbone of the world's various academic institutions. However, the entirety of the academic track incentivizes an exclusive focus on small incremental advancements attributable to a scientist's original work - this is wildly different from delivering a cure to a disease, which is a holistic problem requiring multiple collaborators, many of whom do not do anything particularly original. 
 
 Moreover, it makes sense for researchers to select their research areas so that they'll get funding – which typically means, politically aligning with the senior scientists that grant them funds. However it also means that areas that for whatever reasons are out of tune with respect to the current consensus are considered hazard zones; going there is tantamount to career suicide. Since there's typically very little publication value in bringing a cure to the market, it is not worth any career minded researcher's time.
 
-## Scientists in pharma
+## People: scientists; institutions: pharma
 Most graduates leave academia, not a few due to the futility of the approach described in the previous section. The pharmaceutical industry is a natural rallying ground for academic leavers with a life science background.
 
 An outsider might be tempted to think this nails it - here are people and organizations ostensibly incentivized to improve medical treatments. However insiders know that this is by-and-large not the case.

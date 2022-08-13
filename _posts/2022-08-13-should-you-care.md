@@ -9,7 +9,7 @@ categories: career growth cynicism
 # Two conversations
 While initially sound, my work relationship with Person #1 had been failing in a way that caused us both much discomfort. As we were reflecting on it he said "you care too much"; "one should not care about their work". I think for him it was a code for, "I've twice your years in the industry, know your place". He left that job a few months later, and I left about a year after that. Person #1 and I are no longer in touch.
 
-I got to know Person #2 as a potential employer; when it came to discussing joint values, he handed me Stephen Zweig's *The Impatience of the Heart*, a book I had previously not been acquainted with, and asked me to read the first paragraph:
+I got to know Person #2, a few years older than Person #1, as a potential employer; when it came to discussing joint values, he pointed me at Stephen Zweig's *The Impatience of the Heart*, a book I had previously not been acquainted with, and asked me to read the first paragraph:
 
 > THERE ARE TWO KINDS OF PITY 
 > One, the weak and sentimental kind, which is really no more than the heart's impatience to be rid as quickly as possible of the painful emotion aroused by the sight of another's unhappiness, that pity which is not compassion, but only an instinctive desire to fortify one's own soul against the sufferings of another; and the other, the only kind that counts, the unsentimental but creative kind, which knows what it is about and is determined to hold out, in patience and forbearance, to the very limit of its strength and even beyond.

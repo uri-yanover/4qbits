@@ -24,6 +24,8 @@ Most wise men would not speak; however, one of the younger generation's generals
 - Either everybody agrees that the failure will not recur (perhaps with the exception of Brik); then there's really no use for the army as it is now, and it should doubtlessly be reduced and the budget diverted to productive fields such as education.
 - At least some people besides Brik think that the failure may recur; in that case, the person delivering the comment should probably talk to them and figure out what to believe, because the consequences of a mistake would be disastrous.
 
+I side with the second line of thought. History may not say much about the future, but it is all we've got. 
+
 # The Rhyme of Time
 The Yom Kippur war was culturally a consequence of a great cultural upheaval in many areas of Israeli public life, reaching its peak by the great military victory in the Six-Days War of June 1967.
 

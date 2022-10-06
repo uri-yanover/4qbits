@@ -18,9 +18,9 @@ I will not retell his story in detail, but it will suffice to say that by the ti
 After the war, Brik was decorated for his valor and promoted as a reservist. Several years later he re-joined the military full time, serving both in both line commander and staff roles, and rising to the rank of Major General. His last role was that of Head of Personnel Complaints, ending with 2018.
 
 # Criticism and Critique
-Since his discharge, Brik has become a vocal critic, indeed a thorn in the current army leaderhip's backside. Without going into all details, the core of his criticism is the lack of military preparedness, especially of the reserves - undoubtedly reflecting the dysfunction that Brik paid for literally with his blood.
+Since his discharge, Brik has become a vocal critic, indeed a thorn in the current army leaderhip's backside. Without going into all details, the core of his criticism is the lack of military preparedness, especially of the reserves - undoubtedly reflecting the dysfunction that Brik paid for literally with his blood. Brik's criticism is loud, though well-argumented. It is not pretty and totally out of line with top brass's typical confident nonchalance.
 
-One of the younger generation's generals commented that Brik was "stuck in 1973", a comment that may be interpreted as an assertion that the failure of 1973 is not going to recur. However, that position, while superficially plausible, implies one the following:
+Most wise men would not speak; however, one of the younger generation's generals went as much as to argue that Brik was "stuck in 1973", a comment that may be interpreted as an assertion that the failure of 1973 is not going to recur. However, that position, while superficially plausible, implies one the following:
 - Either everybody agrees that the failure will not recur (perhaps with the exception of Brik); then there's really no use for the army as it is now, and it should doubtlessly be reduced and the budget diverted to productive fields such as education.
 - At least some people besides Brik think that the failure may recur; in that case, the person delivering the comment should probably talk to them and figure out what to believe, because the consequences of a mistake would be disastrous.
 

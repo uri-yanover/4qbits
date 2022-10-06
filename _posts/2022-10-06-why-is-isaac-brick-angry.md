@@ -13,7 +13,7 @@ Everybody who reads the local press knows that Isaac Brik is angry.
 
 49 years ago, Isaac Brik was a 25-year old studying for the last undergrad year of industrial engineering at the Technion. He was also an armor reservist at the rank of Major, assigned as a company commander in the 113th Battalion, about 200 people strong at that time.
 
-I will not retell his story in detail, but it will suffice to say that by the time the war was over two and a half weeks later he was still fighting in spite of having been gravely wounded. Brik ended up being just among a handful of the 113th's October 6th lineup who had not been killed, medically evacuated or held captive by the enemy (the last group including the batallion's commanding officer). 
+I will not retell his story in detail, but it will suffice to say that by the time the war was over two and a half weeks later he was still fighting in spite of having been gravely wounded. Brik ended up being just among a handful of men on the 113th pre-war roster who had not been killed, medically evacuated or held captive by the enemy (the latter group including the batallion's commanding officer). 
 
 After the war, Brik was decorated for his valor and promoted as a reservist. Several years later he re-joined the military full time, serving both in both line commander and staff roles, and rising to the rank of Major General. His last role was that of Head of Personnel Complaints, ending with 2018.
 

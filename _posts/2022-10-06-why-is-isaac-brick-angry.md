@@ -27,4 +27,4 @@ Most wise men would not speak; however, one of the younger generation's generals
 # The Rhyme of Time
 The Yom Kippur war was culturally a consequence of a great cultural upheaval in many areas of Israeli public life, reaching its peak by the great military victory in the Six-Days War of June 1967.
 
-We're just past Yom Kippur of 2022. As the tech economy is progressing towards a down cycle after a decade of unchecked growth, it is my time to ask which of the assumptions and institutions shaped by unchecked prosperity will crumble - and what implications that may have.
+We're just past Yom Kippur of 2022. As the tech economy is progressing towards a down cycle after a decade of unchecked growth, it is my time to call on you to reflect which of the assumptions and institutions shaped by unchecked prosperity will crumble - and what implications that may have on the lives of each and every one of us.

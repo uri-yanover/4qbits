@@ -6,7 +6,7 @@ categories: downturn hero
 ---
 **TL;DR**: Optics ain't much when it comes to life and death.
 
-Today's post is devoted to the heroes who - at their trial by fire - would not stand down.
+Today's post is devoted to those who, even when tried by fire, would not stand down.
 
 # The Hero
 Everybody who reads the local press knows that Isaac Brik is angry.

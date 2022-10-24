@@ -14,7 +14,7 @@ That insight to which all present readily agreed, begs a question - why do corpo
 And indeed, let's ask in full generality – why is the Israeli tech industry so insanely valuable? Is it just some kind of a bubble? I'm no expert on bubbles, but I do know a few things about business value of technology. I would like to share some of the thoughts on this subject.
 
 # Some reasons to consider the Israeli tech to be doomed 
-None of the following is considered controversial with people who are familiar with the scene.
+Very little of the following is considered controversial by people familiar with the scene.
 
 It is widely agreed that for most major kinds of businesses, success is determined by being able to sell well in America. However Israeli businesses face a severe handicap doing that. Selling well in a country requires a leadership that's tuned into the local culture - especially for a highly nuanced and coded culture like the American one. The typical Israeli entrepreneur has simply never learnt to navigate that nuance. (As an example, just consider the email Noam Bardin publically sent when leaving Google - saying it does not parse well in American corporatese would be an understatement).
 

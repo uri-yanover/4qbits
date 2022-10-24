@@ -33,7 +33,7 @@ A very frequent and rather successful model for corporate branch offices turns o
 
 Another model, especially valuable with deep tech, is - keeping it small until the tech/business catches on, and vertically integrating into a much larger industry. Such are the stories of Gong, Vayyar and Flytrex. This attitude requires years of perseverance, or extreme luck being bought out early – one example being Alooma.
 
-A third model is to bootstrap with a geographic pivot in mind - hack together a product with a small team in Israel, win over a niche and then transfer the organization to America. This requires careful choreography and a properly calibrated set of incentives early on, but is doable as long as the head is kept level. I consider SentinnelOne as an example of this pattern.
+A third model is to bootstrap with a geographic pivot in mind - hack together a product with a small team in Israel, win over a niche and then transfer the organization to America. This requires careful choreography and a properly calibrated set of incentives early on, but is doable as long as the head is kept level. I consider Sentinel One as an example of this pattern.
 
 A fourth model, and probably the only way to genuinely "go big" while remaining mostly Israeli is to focus on the integration/solutions space - this space is heavily stigmatized in a lot of places but less so in Israel.
 

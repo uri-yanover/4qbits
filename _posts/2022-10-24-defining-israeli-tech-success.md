@@ -13,7 +13,7 @@ That insight to which all present heartily agreed, begs for the question - why d
 
 The above begs a larger question – why is the Israeli tech industry so insanely valuable? Is it just some kind of a bubble? I'm no expert on bubbles, but I do know a few things about the business value of technology. Having considered the matter for a while, I wanted to share some of my thoughts regarding what works - and what doesn't.
 
-# Why does Israeli tech work at all?
+# Here's why Israeli tech can never work
 A lot of Israeli tech industry veterans would agree with me on the following:
 
 Most major kinds of Israeli businesses face a severa handicap when selling in America. This stems from the American culture being highly nuanced, and the typical Israeli entrepreneur lacking the background to address that nuance. (As an example, just consider the email Noam Bardin publically sent when leaving Google - saying it does not parse well in American corporatese would be an understatement).

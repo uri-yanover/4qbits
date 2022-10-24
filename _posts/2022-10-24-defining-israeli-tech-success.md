@@ -9,11 +9,11 @@ categories: blogging israel tech
 # The paradox
 A veteran colleague of mine remarked a couple of days ago poignantly - "you do realize that all foreign corporations that I've seen hate the guts of their Israeli branches, don't you?"
 
-That insight to which all present heartily agreed, begs for the question - why do corporates even have branches in Israel? Selling to the tiny and difficult local market is obviously not a sufficient answer.
+That insight to which all present readily agreed, begs a question - why do corporates even have branches in Israel? Selling to the tiny and difficult local market is obviously not a sufficient answer.
 
-The above begs a larger question – why is the Israeli tech industry so insanely valuable? Is it just some kind of a bubble? I'm no expert on bubbles, but I do know a few things about the business value of technology. Having considered the matter for a while, I wanted to share some of my thoughts regarding what works - and what doesn't.
+And indeed, let's ask in full generality – why is the Israeli tech industry so insanely valuable? Is it just some kind of a bubble? I'm no expert on bubbles, but I do know a few things about business value of technology. I would like to share some of the thoughts on this subject.
 
-# Here's why Israeli tech can never succeed
+# Some reasons to consider the Israeli tech to be doomed 
 None of the following is considered controversial with people who are familiar with the scene.
 
 It is widely agreed that for most major kinds of businesses, success is determined by being able to sell well in America. However Israeli businesses face a severe handicap doing that. Selling well in a country requires a leadership that's tuned into the local culture - especially for a highly nuanced and coded culture like the American one. The typical Israeli entrepreneur has simply never learnt to navigate that nuance. (As an example, just consider the email Noam Bardin publically sent when leaving Google - saying it does not parse well in American corporatese would be an understatement).

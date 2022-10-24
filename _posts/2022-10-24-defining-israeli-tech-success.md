@@ -4,7 +4,7 @@ title: "What does success even mean for Israeli tech firms?"
 date: 2022-10-24
 categories: blogging israel tech
 ---
-**TL;DR**: Israeli tech businesses can't just turn into American corporates. Here are some gameplans for what else they can do.
+**TL;DR**: Israeli tech businesses typically don't grow into successful American corporations. Here's how they can win in a different sense of the word.
 
 # The paradox
 A veteran colleague of mine remarked a couple of days ago poignantly - "you do realize that all foreign corporations that I've seen hate the guts of their Israeli branches, don't you?"

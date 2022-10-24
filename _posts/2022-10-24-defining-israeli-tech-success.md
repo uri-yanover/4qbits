@@ -16,7 +16,7 @@ The above begs a larger question – why is the Israeli tech industry so insanel
 # Here's why Israeli tech can never work
 A lot of Israeli tech industry veterans would agree with me on the following:
 
-Most major kinds of Israeli businesses face a severa handicap when selling in America. This stems from the American culture being highly nuanced, and the typical Israeli entrepreneur lacking the background to address that nuance. (As an example, just consider the email Noam Bardin publically sent when leaving Google - saying it does not parse well in American corporatese would be an understatement).
+Most major kinds of Israeli businesses face a severa handicap when selling in America. This stems from the American culture being highly nuanced, and the typical Israeli entrepreneur never having learned to navigate that nuance. (As an example, just consider the email Noam Bardin publically sent when leaving Google - saying it does not parse well in American corporatese would be an understatement).
 
 A common response to the above is that Israelis would run the tech while the Americans focus the sales. Tough luck though. The Israeli school of leadership looks down on investment in operations, planning and communications – typically to the point of shooting themselves in the foot. Since building a long-term viable geographically diverse company requires a deliberate and potent backbone made of the above, Israeli leaderships tend to not rise for the challenge, which means they lose and fade away when the going gets harder.
 

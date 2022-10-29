@@ -9,7 +9,7 @@ categories: blogging israel tech
 # The paradox
 A veteran colleague of mine remarked a couple of days ago poignantly - "you do realize that all foreign corporations that I've seen hate the guts of their Israeli branches, don't you?"
 
-That insight to which all present readily agreed, begs a question - why do corporates even have branches in Israel? Selling to the tiny and difficult local market is obviously not a sufficient answer.
+Many of the present agreed. As for me, it sent me to a train of thoughts - is that observation only correct for the corporate-branch crowd? Why do corporates even operate in Israel? Selling to the tiny and difficult local market is obviously not a sufficient answer. And if Israeli parts of corporates are so obnoxious, how do the typically much edgier startups get any businesses? 
 
 And indeed, let's ask a more general question – why is the Israeli tech industry so insanely valuable? Is it just some kind of a bubble? I'm no expert on bubbles, but I do know a few things about business value of technology. I would like to share some of the thoughts on this subject.
 

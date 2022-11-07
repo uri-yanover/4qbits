@@ -18,7 +18,7 @@ The proclaimed goal of education is the transition from ignorance to knowledge. 
 
 Alas, it is commonly agreed that both types of skills gained in a degree are actually only very seldom directly useful for the vast majority of jobs out there. Conversely, very few tech hiring processes actually go to significant lengths to test for relevant knowledge - indeed, the common assumption is that most candidates would simply not have that. Something else must be in play.
 
-# The network hypothesis
+# The Network Hypothesis
 A somewhat frequent trope in "pro/con school" discussion is the statement that the school is a great place to meet like-minded friends who'd further your career down the road. 
 
 However, on the face of it, a candidate having a good academic network does not help an employer much.
@@ -49,7 +49,7 @@ Caveat: *loneliness is commonplace*. A lot of students report being lonely; not 
 
 Caveat: *lack of leadership skills*: there are very few experiences in a school that require somebody to lead somebody else; indeed, the closest that comes to it are thesis advisor leadership, which is more often dysfunctional than not, and administration leadership that is designed to be mostly transparent to the students.
 
-# The Epistemological enhancement Hypothesis
+# The Epistemological Enhancement Hypothesis
 One curious aspect of personal growth that happens in academia but few other places is the understanding that the meaning of "knowledge" and indeed "truth" is highly contextual to the area of study. Thus, a good "intuitive proof" (a highly sought after beast in computer science and math) is a wholly different beast from a "formal proof" (which is what gets you a good grade in an exam), and what is considered good "proof" in history necessarily differs from "proof" in economics. 
 
 This kind of intellectual maturity is highly impactful for workplace success, especially for the category that requires multi-disciplinary collaboration and simultaneous awareness of tech and business. For me it explains the success of some philosophy graduates in tech leadership positions - even without the best tools, asking the right questions is very often the edge one needs in a world preoccupied with the wrong ones.

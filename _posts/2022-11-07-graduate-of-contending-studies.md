@@ -4,7 +4,7 @@ title: "Sing of That Person, Graduate of Contending Studies"
 date: 2022-11-07
 categories: higher-education contending hiring recruiting 
 ---
-**TL;DR**: Employers' focus on academic background mostly is mostly about contending skills. 
+**TL;DR**: Employers' focus on academic background is mostly about contending skills. 
 
 About once a month or so one of the tech forums I subscribe to is rocked by a question similar to the following one:
 > I am now in my twenties, and have successfully entered the tech workforce. Should I be making a pause now to pursue higher education?

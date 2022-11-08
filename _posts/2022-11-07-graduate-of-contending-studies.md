@@ -29,7 +29,7 @@ However, on the face of it, a candidate having a good academic network does not 
 
 Also, evidently, having a large non-academic network is not considered a major factor by most employers. So overall, while I find having a school network immensely useful as an employee, I tend to dismiss its value as an employment signal.
 
-# The contending, independence and resilience hypothesis
+# The Contending, Independence and Resilience Hypothesis
 School is the first phase in the lives of most people where most of the motivation for success needs to be intrinsic. Moreover, unlike prior experiences, higher education typically takes smart people to their limits a few times, which is highly enabling of growth - though also humbling and often traumatic.
 
 Some periods, especially during undergraduate studies are like drinking from the water hose - extremely intensive in terms of needing to learn a lot of things at the same time, quickly and with some degree of quality control. Those skills are universally desirable for knowledge workers, and school serves as a signal of possessing them.
@@ -59,6 +59,8 @@ Naturally, different combinations of employers, roles and potential employees wi
 
 The Israeli job market, that I know well, has a very strong tradition of military unit graduates who team up with their former comrades, often without any formal background or specific knowledge for their new organization. It would appear that for them the network is the determining factor - however it is a much stronger, closer kind of a bond than what academia can come up with.
 
-Most recruiting processes I've observed are very actively attacking the contending/independence/resilience angle. Indeed, the common suggestions of having a GitHub, and even the preoccupation with the arbitrary riddles in LeetCode is really a way to signal that employers root for employees who can guide their own work. Moreover, in a lot of cases, when a hiring process in the industry is redundant, it is to test for things like cheating or motivation - which are exactly the caveats of this approach.
+Most recruiting processes I've observed, both in Israel and the US, are actually focused on getting signal in the contending/independence/resilience plane. Indeed, the common suggestions of having a GitHub, and even the preoccupation with the arbitrary riddles in LeetCode is really a way to signal that employers root for employees who can guide their own work. Moreover, in a lot of cases, when a hiring process in the industry is redundant, it is to test for things like cheating or motivation - which are exactly the caveats of this approach.
+
+Circling back to the original question of whether the 20-something year old should go to school -- in my opinion it reduces to the question of whether the said person can represent their contending ability to their employer in a different way than by displaying a good school certificate. Unfortunately, for a lot of folks out there there there's really no good alternative. 
 
 In any case, writing the above helped me articulate what I should be considering when I interview others and get interviewed myself; I hope this may help you as well; as always, I'd be happy to hear your thoughts on the matter. 

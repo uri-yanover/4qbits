@@ -38,7 +38,7 @@ A bit of reinforcing evidence for the CRI hypothesis is the employer attention w
 
 Caveat: *cheating*. That's an easy one - a cheater is only successful in cheating, and they make themselves hard to tell from honest students.
 
-Caveat: *not having to go off track*, a.k.a. *learned fool effect*. Most undergrad study tracks these days are highly structured, meaning that study dilemmas are either trivial or ties; this discourages proactive strategizing by the student. The end result may be an individual who has the skills to take up challenges with excellent optics but fails to take up the challenges relevant for his current circumstances.
+Caveat: *not having to go off track*, a.k.a. the *learned fool effect*. Most undergrad study tracks these days are highly structured, meaning that study dilemmas are either trivial or ties; this discourages proactive strategizing by the student. The end result may be an individual who has the skills to take up challenges with excellent optics but fails to take up the challenges relevant for his current circumstances.
 
 Caveat: *motivational burn-out*. A lot of people succeed in contending with a complex academic situation, but do so for the wrong reasons - a typical example is the typically impossible odds of getting into a tenure track position. Thus, a common failure mode of people with an impressive degree is burning out of motivation once their aspiration is discovered to be unattainable.
 

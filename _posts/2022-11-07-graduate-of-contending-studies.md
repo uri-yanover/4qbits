@@ -31,14 +31,13 @@ Also, evidently, having any kind of network is not something employers care abou
 
 # The Contending Resilience and Independence (CRI) Hypothesis
 School is the first phase in the lives of most people where most of the motivation for success needs to be intrinsic. Moreover, unlike prior experiences, higher education typically takes smart people to their limits a few times, which is highly enabling of growth - though also humbling and often traumatic.
-
-Some periods, especially during undergraduate studies are like drinking from the water hose - extremely intensive in terms of needing to learn a lot of things at the same time, quickly and with some degree of quality control. Those skills are universally desirable for knowledge workers, and school serves as a signal of possessing them.
+the LSome Feriods, especially during undergraduate studies are like drinking from the water hose - extremely intensive in terms of needing to learn a lot of things at the same time, quickly and with some degree of quality control. Those skills are universally desirable for knowledge workers, and school serves as a signal of possessing them.
 
 A bit of reinforcing evidence for the CRI hypothesis is the employer attention with schools that require hard work, regardless of the domain -- thus, for example, in Israel, the Open University is regarded quite high by employers, even when compared to colleges with a supposedly high instruction level or dedicated engineering curriculum that the Open University lacks.
 
 Caveat: *cheating*. That's an easy one - a cheater is only successful in cheating, and they make themselves hard to tell from honest students.
 
-Caveat: *not having to go off track*, a.k.a. the *learned fool effect*. Most undergrad study tracks these days are highly structured, meaning that study dilemmas are either trivial or ties; this discourages proactive strategizing by the student. The end result may be an individual who has the skills to take up challenges with excellent optics but fails to take up the challenges relevant for his current circumstances.
+Caveat: *not having to go off track*, a.k.a. *the Learned Fool effect*. Most undergrad study tracks these days are highly structured, meaning that study dilemmas are either trivial or ties; this discourages proactive strategizing by the student. The end result may be an individual who has the skills to take up challenges with excellent optics but fails to take up the challenges relevant for his current circumstances.
 
 Caveat: *motivational burn-out*. A lot of people succeed in contending with a complex academic situation, but do so for the wrong reasons - a typical example is the typically impossible odds of getting into a tenure track position. Thus, a common failure mode of people with an impressive degree is burning out of motivation once their aspiration is discovered to be unattainable.
 

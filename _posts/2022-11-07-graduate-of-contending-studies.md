@@ -27,7 +27,7 @@ However, it seems that a candidate having a lot of school friends does not benef
 
 *After an employee is recruited*, the network does not affect that employee's performance per se - and if anything, provides them an easy escape path when things go wrong.
 
-Also, evidently, having a large *non-professional* network is not something employers care about. So overall, while I find having a school network immensely useful as an employee, I tend to dismiss its value as an employment signal.
+Also, evidently, having any kind of network is not something employers care about. So overall, while I find having a school network immensely useful as an employee, I tend to dismiss its value as an employment signal.
 
 # The Contending Resilience and Independence (CRI) Hypothesis
 School is the first phase in the lives of most people where most of the motivation for success needs to be intrinsic. Moreover, unlike prior experiences, higher education typically takes smart people to their limits a few times, which is highly enabling of growth - though also humbling and often traumatic.

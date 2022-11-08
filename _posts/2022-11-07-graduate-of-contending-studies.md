@@ -13,26 +13,28 @@ Questions of this kind serve as a validation magnet for both people who have obt
 
 Is the academic bias in recruiting entirely arbitrary? While cultural settings tend to favor tradition over utility, hiring is a highly resource-consuming activity for a lot of organizations out there. Accordingly it is subject to considerable evolutionary pressure that should reshape it as time goes by. Yet it seems that the academic streak in recruitment is fairly stable - enough to stop and contemplate why.
 
-# The Gained Knowledge hypothesis
+# The Gained Knowledge Hypothesis
 The proclaimed goal of education is the transition from ignorance to knowledge. That knowledge could be intended, such as studying some theory that has practical applications, or it could arrive incidentally - such as gaining experience in reading and writing complex ideas. 
 
 Alas, it is commonly agreed that both types of skills gained in a degree are actually only very seldom directly useful for the vast majority of jobs out there. Conversely, very few tech hiring processes actually go to significant lengths to test for relevant knowledge - indeed, the common assumption is that most candidates would simply not have that. Something else must be in play.
 
-# The Network Hypothesis
+# The Academic Network Hypothesis
 A somewhat frequent trope in "pro/con school" discussion is the statement that the school is a great place to meet like-minded friends who'd further your career down the road. 
 
-However, on the face of it, a candidate having a good academic network does not help an employer much.
+However, it seems that a candidate having a lot of school friends does not benefit an employer much at all.
 
-*While in the sourcing phase*, academic networks are great for locating and accessing candidates - however that access is shared between multiple recruiters, which actually means network recruits receive more attention and thus need more investment to hire.
+*While in the recruiting phase*, academic networks are great for locating and accessing candidates - however that access is shared between multiple recruiters, which actually means network recruits receive more attention and thus need a higher investment per hire.
 
 *After an employee is recruited*, the network does not affect that employee's performance per se - and if anything, provides them an easy escape path when things go wrong.
 
-Also, evidently, having a large non-academic network is not considered a major factor by most employers. So overall, while I find having a school network immensely useful as an employee, I tend to dismiss its value as an employment signal.
+Also, evidently, having a large *non-professional* network is not something employers care about. So overall, while I find having a school network immensely useful as an employee, I tend to dismiss its value as an employment signal.
 
-# The Contending, Independence and Resilience Hypothesis
+# The Contending Resilience and Independence (CRI) Hypothesis
 School is the first phase in the lives of most people where most of the motivation for success needs to be intrinsic. Moreover, unlike prior experiences, higher education typically takes smart people to their limits a few times, which is highly enabling of growth - though also humbling and often traumatic.
 
 Some periods, especially during undergraduate studies are like drinking from the water hose - extremely intensive in terms of needing to learn a lot of things at the same time, quickly and with some degree of quality control. Those skills are universally desirable for knowledge workers, and school serves as a signal of possessing them.
+
+A bit of reinforcing evidence for the CRI hypothesis is the employer attention with schools that require hard work, regardless of the domain -- thus, for example, in Israel, the Open University is regarded quite high by employers, even when compared to colleges with a supposedly high instruction level or dedicated engineering curriculum that the Open University lacks.
 
 Caveat: *cheating*. That's an easy one - a cheater is only successful in cheating, and they make themselves hard to tell from honest students.
 
@@ -59,8 +61,8 @@ Naturally, different combinations of employers, roles and potential employees wi
 
 The Israeli job market, that I know well, has a very strong tradition of military unit graduates who team up with their former comrades, often without any formal background or specific knowledge for their new organization. It would appear that for them the network is the determining factor - however it is a much stronger, closer kind of a bond than what academia can come up with.
 
-Most recruiting processes I've observed, both in Israel and the US, are actually focused on getting signal in the contending/independence/resilience plane. Indeed, the common suggestions of having a GitHub, and even the preoccupation with the arbitrary riddles in LeetCode is really a way to signal that employers root for employees who can guide their own work. Moreover, in a lot of cases, when a hiring process in the industry is redundant, it is to test for things like cheating or motivation - which are exactly the caveats of this approach.
+Most recruiting processes I've observed, both in Israel and the US, may be seen as highly and specifically tuned to signal about contending, resilience and independence. Indeed, the common preoccupation with the arbitrary riddles in LeetCode as well as asking for candidates' GitHub is really a way to signal the preference for employees who don't get lost on their own. Moreover, in a lot of cases, when a hiring process exhibits redundancy, it is when testing for cheating and motivation - which are exactly the soft spots when hiring for CRI.
 
-Circling back to the original question of whether the 20-something year old should go to school -- in my opinion it reduces to the question of whether the said person can represent their contending ability to their employer in a different way than by displaying a good school certificate. Unfortunately, for a lot of folks out there there there's really no good alternative. 
+Circling back to the original question of whether the 20-something year old should go to school -- in my opinion it reduces to the question of whether the said person can represent their contending ability to their employer in a different way than by displaying a good school certificate. For a lot of folks out there there there's really no good alternative -- one can't just "teleport" into having overcome meaningful challenges. 
 
 In any case, writing the above helped me articulate what I should be considering when I interview others and get interviewed myself; I hope this may help you as well; as always, I'd be happy to hear your thoughts on the matter. 

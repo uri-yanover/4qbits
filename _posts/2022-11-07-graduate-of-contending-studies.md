@@ -16,7 +16,7 @@ Is the academic bias in recruiting entirely arbitrary? While cultural settings t
 # The Gained Knowledge Hypothesis
 The proclaimed goal of education is the transition from ignorance to knowledge. That knowledge could be intended, such as studying some theory that has practical applications, or it could arrive incidentally - such as gaining experience in reading and writing complex ideas. 
 
-Alas, it is commonly agreed that both types of skills gained in a degree are actually only very seldom directly useful for the vast majority of jobs out there. Conversely, very few tech hiring processes actually go to significant lengths to test for relevant knowledge - indeed, the common assumption is that most candidates would simply not have that. Something else must be in play.
+Alas, it is commonly agreed that both types of skills gained in a degree are actually only very seldom directly useful for the vast majority of jobs out there. Typically employers select employees solely based on their their tradecraft skills, very often in the form attested by being able to design small snippets of code. Tradecraft skills are typically not taught well at schools. In the rarer cases that specific knowledge is required, it is most often about some SW framework like React, which is not taught academically at all. 
 
 # The Academic Network Hypothesis
 A somewhat frequent trope in "pro/con school" discussion is the statement that the school is a great place to meet like-minded friends who'd further your career down the road. 

@@ -7,7 +7,7 @@ categories: higher-education contending hiring recruiting
 **TL;DR**: Employers' focus on academic background is mostly about contending skills. 
 
 About once a month or so one of the tech forums I subscribe to is rocked by a question similar to the following one:
-> I am now in my twenties, and have successfully entered the tech workforce. Should I be making a pause now to pursue higher education?
+> I am now in my twenties, and am confidently working in the industry. Should I be making a pause now to pursue higher education?
 
 Questions of this kind serve as a validation magnet for both people who have obtained a degree and those who haven't or couldn't; accordingly the discussion often gets personal and defensive; my personal highlight is a person whom I'd known (indeed, liked) for 15 years calling me no less than a shill for Big Higher Ed; so much for all those years, I guess. 
 
@@ -30,9 +30,11 @@ However, it seems that a candidate having a lot of school friends does not benef
 Also, evidently, having any kind of network is not something employers care about. So overall, while I find having a school network immensely useful as an employee, I tend to dismiss its value as an employment signal.
 
 # The Contending Resilience and Independence (CRI) Hypothesis
-School is the first phase in the lives of most people where most of the motivation for success needs to be intrinsic. Moreover, unlike prior experiences, higher education typically takes smart people to their limits a few times, which is highly enabling of growth - though also humbling and often traumatic. Some Feriods, especially during undergraduate studies are like drinking from the water hose - extremely intensive in terms of needing to learn a lot of things at the same time, quickly and with some degree of quality control. Those skills are universally desirable for knowledge workers, and school serves as a signal of possessing them.
+School is the first phase in the lives of most people where most of the motivation for success needs to be intrinsic. Moreover, unlike prior experiences, higher education typically takes smart people to their limits a few times, which is highly enabling of growth - though also humbling and often traumatic. Some periods, especially during undergraduate studies, are like drinking from the water hose - extremely intensive in terms of needing to learn a lot of things at the same time, quickly and with some degree of quality control. Those skills are universally desirable for knowledge workers, and school serves as a signal of possessing them.
 
-A bit of reinforcing evidence for the CRI hypothesis is the employer attention with schools that require hard work, regardless of the domain -- thus, for example, in Israel, the Open University requires a high degree of discipline for a fairly theoretical curriculum - and is highly regarded by employers. In contrast, colleges that have a high teaching level and a more practical dedicated engineering curriculum,  but require less discipline are not as highly regarded.
+A bit of reinforcing evidence for the CRI hypothesis is the employers' preference for schools that require hard work, regardless of the domain. In Israel, for example:
+* The Open University is open to anyone who can pay tuition, requires a high degree of discipline, and offers a relatively hands-off curriculum at medium pedagogical level. It is regarded as top-tier, or almost that.
+* Most colleges are open to anyone who can pay a similar tuition, do not require as much discipline, offer a hands-on curriculum at a relatively high pedagogical level. Colleges are regarded as second tier at best.
 
 Caveat: *cheating*. That's an easy one - a cheater is only successful in cheating, and they make themselves hard to tell from honest students.
 

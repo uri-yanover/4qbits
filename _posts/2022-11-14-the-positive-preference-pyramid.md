@@ -29,7 +29,7 @@ I once heard a phrase about an engineer whom I happen to know in person and cons
 Clearly, the leaders - who were organizationally senior to said engineer - were the Loyalists in this case, while he was the Visionary with respect to quite a lot of the technical culture that eventually made that organization successful for all of them. Indeed, if the leaders had tried to be the visionaries on their own, the outcome would have been worse - likely, much worse.
 
 
-# The woe of specializing in loyalty 
+# Overdosing on loyalty 
 First and foremost, we need to observe that in any given area of enterprise, there is very little middle ground between satisfying others' judgment and exercising one's own judgment. A consistent preference for following others over time will quickly lead to loss of facilities for doing well on one's own.
 
 Upton Sinclair once quipped that

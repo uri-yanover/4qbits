@@ -34,6 +34,7 @@ First and foremost, we need to observe that in any given area of enterprise, the
 
 Upton Sinclair once quipped that
 > It is difficult to get a man to understand something, when his salary depends on him not understanding it.
+
 (quote via the only remotely related but brilliant blog post [Strategic Airpower 101](https://acoup.blog/2022/10/21/collections-strategic-airpower-101). 
 
 A hardened upward loyalist's sense of self worth is driven almost exclusively by the assistance they render to their patron. However since their preoccupation means they had lost the edge for doing something useful on their own accord, the only remaining course of action is to ensure nothing negative happens. A loyalist would thus avoid confronting their patron, even if a struggle in the short run would lead to a greater good in the long run.

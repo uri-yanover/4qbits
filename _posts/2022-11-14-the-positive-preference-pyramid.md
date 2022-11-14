@@ -11,7 +11,7 @@ A few days ago, I heard a piece of gossip on my social network. It was from the 
 Most people in the industry have heard many such stories over the years, including at Twitter just last week. A trivial way to interpret this situation would be as "those middle managers are all rotten". I am not satisfied with this interpretation because there are multiple ways a person can become a middle manager, and quite a few of them try to avoid promoting "rot". Indeed, I believe that there must be a systemic cognitive phenomenon in play that is inherent in the organizational role of middle management. Without further ado, I would like to present my theory of the Positive Preference Pyramid.
 
 # The Positive Preference Pyramid
-![vision, loyalty and externalities are the three levels](2022-11-14-Positive-Preference-Pyramid.png){:class="img-responsive"}
+![vision, loyalty and externalities are the three levels](/docs/assets/images/2022-11-14-Positive-Preference-Pyramid.png){:class="img-responsive"}
 
 The pyramid is of the three possible preferences that a stakeholder can have with respect to a specific line of work. The preferences are:
 

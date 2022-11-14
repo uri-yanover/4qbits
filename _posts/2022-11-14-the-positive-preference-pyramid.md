@@ -4,7 +4,7 @@ title: "The Positive Preference Pyramid"
 date: 2022-11-14
 categories: organizations
 ---
-**TL;DR**: Loyalty is the glue holding organizations together; when let unchecked it is a deadly poison.
+**TL;DR**: Loyalty is the glue holding organizations together; when let loose, it is a deadly poison.
 
 A few days ago, I heard a piece of gossip on my social network. It was from the perspective of a C-level leader who's conducting a cost reduction plan, as a lot of people do these days. The leader asked some of his middle managers to propose and carry out the appropriate reductions within their teams. After a couple of weeks it turned out that what his underlings did was to "reduce" the one remaining employee who actually had the technical skills to alter the existing system to significantly lower operating costs. To add insult to injury, it turned out that the same employee had proposed multiple times to reduce costs in the preceding months, only to be downplayed by the same middlemen. By the time that the C-level guy has learnt of this matter, that employee has been driven out. To say the C-level was unhappy would be an understatement.
 

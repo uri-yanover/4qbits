@@ -15,9 +15,9 @@ Most people in the industry have heard many such stories over the years, includi
 
 The pyramid is of the three possible preferences that a stakeholder can have with respect to a specific line of work. The preferences are:
 
-- When people who are *driven by a vision of how things should be*, I call them Visionaries. In the example above, that's the C-level leader - he has an overall goal of reducing expenditure, but he also insists on doing it at a certain quality bar– by letting a competent specialist guide the process.
+- When people who are *driven by a vision of how things should be*, I call them Visionaries. In the example above, that's the C-level leader - he has an overall goal of reducing expenditure, but he also insists on doing it at a certain quality bar, by letting a competent specialist guide the process.
 
-- When people are *driven by loyalty*, I call that situation "being a loyalist". In the story above, these are the middle managers who executed on cost reductions. Their focus on maintening of an illusion of control to keep their boss haply eventually caused them to lose awareness of the most basic things going in their own organization.
+- When people are *driven by loyalty*, I call that situation "being a Loyalist". In the story above, these are the middle managers who executed on cost reductions. Their focus on maintening of an illusion of control to keep their boss haply eventually caused them to lose awareness of the most basic things going in their own little corner of the organization.
 
 - The remaining people are *driven by labor externalities* - that is, factors that are not directly connected to the business value of what they do. Examples of externalities are compensation or satisfaction from carrying out tasks even if of little business value. I call these the *Laborers*. In the example above, it is the one competent employee, the one who ended up being dismissed. 
 
@@ -35,20 +35,20 @@ First and foremost, we need to observe that in any given area of enterprise, the
 Upton Sinclair once quipped that
 > It is difficult to get a man to understand something, when his salary depends on him not understanding it.
 
-(quote via the only remotely related but brilliant blog post [Strategic Airpower 101](https://acoup.blog/2022/10/21/collections-strategic-airpower-101).) 
+(quote via the only remotely related but brilliant blog post [Strategic Airpower 101](https://acoup.blog/2022/10/21/collections-strategic-airpower-101)). 
 
-A hardened upward loyalist's sense of self worth is driven almost exclusively by the assistance they render to their patron. However since their preoccupation means they had lost the edge for doing something useful on their own accord, the only remaining course of action is to ensure nothing negative happens. A loyalist would thus avoid confronting their patron, even if a struggle in the short run would lead to a greater good in the long run.
+A hardened upward loyalist's sense of self worth derives almost exclusively by the assistance they render to their patron. However since their preoccupation means they had lost the edge for doing something useful on their own accord, the only remaining course of action is to ensure nothing negative happens. A loyalist would thus avoid confronting their patron, even if a struggle in the short run would lead to a greater good in the long run.
 
-When bad times come, problem-solving is the only way to make progress, whereas keeping quiet is destructive. In such circumstances, the practice of upward loyalty is a major force dragging the entire ship down.
+When bad times come, problems don't tend to solve themselves. Instead, people who are so inclined use their problem-solving to get the organization in the clear. The tendency to silo and keep quiet sabotages such work. In such circumstances, the practice of upward loyalty is a major force dragging the entire ship down.
 
 # Why do loyalists exist?
 This brings about the question – why are loyalists even needed in the first place? Several reasons come to mind.
 
 *Loyalty keeps the organization together at short term*. Assuming basing trust, alignment and competence, projects should be allowed to run on for stretches of days to weeks without second guessing in between. Loyalty, both upward and downward, is the damping mechanism to allow that.
 
-*Even when undesirable, loyalty is often good enough when not facing adversity*. Most organizations really need to keep keen on a few things only. As long as the few core needs are addressed, the remaining long tail tolerates "making do". However over long term it is often the case that "the sleep of reason produces monsters", that is, complacency gives way to unforeseen vulnerabilities.
+*Even when undesirable, loyalty is often good enough when not facing adversity*. To avoid immediate failure, most organizations really need to keep keen on only a few things only. As long as these are addressed, the remaining long tail tolerates "making do". However over long term it is often the case that "the sleep of reason produces monsters", that is, complacency gives way to unforeseen vulnerabilities.
 
-*Agreeing on vision is hard*. While some vision has to be rooted in some kind of a truth, getting that truth across requires ego, and ego causes people to clash and disagree. Most experienced leaders counteract that by establishing a culture of managing dissent and selecting their subordinates to fit that culture. Their inexperienced counterparts just bring on loyalists who simply don't disagree at all.
+*Agreeing on vision is hard*. Vision necessarily stems from shared knowledge. However, getting knowledge across requires the presence of ego on all sides, and ego causes people to clash and disagree. Most experienced leaders counteract that by establishing a culture of managing dissent and selecting their subordinates to fit that culture. Their inexperienced counterparts just bring on loyalists who simply don't disagree at all.
 
 *Sometimes there just isn't a visionary available*. Modern tech management is very operations-heavy; for a struggling visionary, a loyalist underling may be regarded as preferable to not having anyone at all.
 
@@ -56,7 +56,7 @@ This brings about the question – why are loyalists even needed in the first pl
 
 
 # Reflection on the Rao Pyramid
-The idea of a three-tiered pyramid describing organizational behavior stereotype is strongly inspired by a [shitpost](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)-turned-into-[book](https://www.amazon.com/Gervais-Principle-Complete-Office-Ribbonfarm-ebook/dp/B00F9IV64W) called "The Gervais Principle, Or The Office According to "The Office" by Venkatesh Rao. See this [review](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) by Scott Alexander. 
+The idea of a three-tiered pyramid describing organizational behavior stereotype is strongly inspired by a [shitpost](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)-turned-into-[book](https://www.amazon.com/Gervais-Principle-Complete-Office-Ribbonfarm-ebook/dp/B00F9IV64W) called *The Gervais Principle, Or The Office According to "The Office"* by Venkatesh Rao. You can skip to this [review by Scott Alexander](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) for a very intelligent reader's appraisal of Rao's main ideas. 
 
 The model I articulated here is an attempt to develop the same idea in a way that is mindful of motivational psychology, and, frankly - not as misanthropic. For example, Rao's admittedly idiosyncratic designation of three tiers are "the sociopaths, the clueless and the losers" does little to promote awareness of self or others; the hurtfulness of the labels prevented me from comfortably applying them to any of the people I'd worked with.
 

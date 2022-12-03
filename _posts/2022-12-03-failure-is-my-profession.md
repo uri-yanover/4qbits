@@ -41,7 +41,7 @@ Unfortunately instead of doing this right thing, a lot of people and organizatio
 While proper retrospection into the past is crucial to understand what needs improvement (without tearing the team apart by blame), such learning can only be meaningful when we use it to make new decisions.
 
 Assume now you are nearing a new decision point. What do you do now? I suggest conducting a short semi-formal session, perhaps even on one's own or with a few fellow stakeholders:
-1. Consider a list of potential failures informed by the learning so far,
+1. Put together a list of potential failures informed by the learnings so far,
 2. If there's at least one potential failure that is severe and impossible to mitigate, that could be a great flag to change course.
 3. Otherwise, use your domain expertise and previous learnings to propose mitigations for the potential failures.
 4. Prioritize the mitigations by their relative importance, and in a lean fashion, focus only those items that make the most sense.

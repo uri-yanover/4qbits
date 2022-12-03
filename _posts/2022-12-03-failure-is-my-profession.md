@@ -49,7 +49,7 @@ Assume now you are nearing a new decision point. What do you do now? I suggest c
 If the above process has been done properly and thoroughly and communicated concisely, the result is clarity around what to do. Few things compare to how such clarity instills confidence in the team - for it indicates their professional well being is looked after.
 
 # Wrapping up
-It is impossible to be doing anything of substance and not fail at this level or other. However, given the austere climate we're in now, a preventable failure could be one failure too many.
+It is impossible to be attempting anything of substance and not fail at this level or other. However, given the austere climate we're in now, a preventable failure could be one failure too many.
 
 For me the conversion of failures into better choices is the absolute core of my executive responsibility. Learning the ropes of how to do it in a given team is therefore a vital part of my own professional growth.
 

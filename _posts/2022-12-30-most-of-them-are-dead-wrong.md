@@ -4,7 +4,7 @@ title: "Most of them are dead wrong"
 date: 2022-12-30
 categories: history tech vision
 ---
-TL;DR: Bad times tell very poignantly those with a clue from those without.
+**TL;DR**: Bad times tell very poignantly those with a clue from those without.
 
 I saw a post the other day about an interview by a former CEO of Apple, John Sculley, who lately thinks AI is going to replace programmers. The caveat? Sculley originally came from marketing, and stopped managing much of anything in 1993. Since that time he's been an investor. This means he never even was an engineer, or in charge of modern engineers in a way that would inform him whether they could be replaced by AI. Yeah, he was a CEO, but I don't think he knows what he's talking about.
 

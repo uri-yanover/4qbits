@@ -10,7 +10,7 @@ I'm planning a long and sad blog post called "The Four Wicked Problems of the Is
 
 What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the brilliant performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s), here at the BBC Proms, and originally from Bernstein and Sondheim's *West Side Story* musical. 
 
-You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke); they are a dialogue of several young members of a gang with specialists (law enforcement, judicial, therapeutic, social-work) tasked with solving society's conflict with those young men.
+You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke); they are a dialogue of several young gang members with specialists (law enforcement, judicial, therapeutic, social-work) tasked with solving society's conflict with those young men.
 
 What happens is:
 - Each different take on the situation brings about a different narrative. The specialists contradict each other and fail to converge to a single actionable policy.

@@ -8,7 +8,7 @@ categories: pharma blogging career growth
 
 I'm planning a long and sad blog post called "The Four Wicked Problems of the Israeli Polis". However I realized that quite a few of my readers likely are not familiar with what people call a *wicked problem*, so I decided first to present a couple of interesting yet tractable cases.
 
-What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the remarkable performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s), here at the BBC Proms, and originally from Bernstein and Sondheim's *West Side Story* musical. 
+What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the brilliant performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s), here at the BBC Proms, and originally from Bernstein and Sondheim's *West Side Story* musical. 
 
 You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke); they are a dialogue of several young members of a gang with specialists (law enforcement, judicial, therapeutic, social-work) tasked with solving society's conflict with those young men.
 

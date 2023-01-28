@@ -10,7 +10,7 @@ I'm planning a long and sad blog post called "The Four Wicked Problems of the Is
 
 What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the amazing performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s) from Bernstein and Sondheim's *West Side Story*. You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke).
 
-Note the following aspects:
+Note the following:
 - Each different take on the situation brings about a different narrative. The specialists (law enforcement, judicial, therapeutic, social-work) contradict each other and fail to converge to a single actionable policy.
 - The endgame is unclear. Should the young men be "soda jerkers", because that's the best society has in store for them? How can their stigma be removed while not condoning their misdeeds?
 - The final weight of the system's failure is borne by the patrolling Officer Krupke who has very few tools to handle it beyond being a forceful brute, and perpetuating a pretty rotten state of affairs on the ground.

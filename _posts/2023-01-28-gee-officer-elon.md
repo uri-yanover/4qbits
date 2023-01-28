@@ -18,9 +18,9 @@ Note the following aspects:
 All of the above are the hallmarks of a wicked problem. I'd like to present a case why the question of Twitter is also one.
 
 - The underlying engine of Twitter's income is digital advertising, however a lot of players think that the value of this market is going to decline soon - due to a number of reasons:
-   - regulator attacks on the Google/Facebook duopoly.
-   - decline of Google and Facebook due to advertisement being long-term toxic to their business models.
+   - intrinsic decline of the advertisement market leaders - Google and Facebook - due to advertisement being long-term toxic to their platforms.
    - growing awareness of advertisement fraud and various reporting issues that undercut digital ad company valuation.
+- There's a well established pattern of politicians extorting social media companies to siphon out resources, most typically - the ability to spread malign political propaganda. This is both a direct tax on all social media companies, and indirectly devalues the entire online industry.
 - Twitter is not expected to grow to new markets.
 - Twitter's operations incrementally grew to be extremely expensive - requiring hundreds of thousands of servers and thousands of engineers. 
 - Twitter is itself under an increasing degree of regulatory scrutiny due to the politics surrounding its operations. Short-term this scrutiny requires diverting more resources to foster regulatory compliance; mid-term this implies a hefty tax on recruiting and operations, and long-term this is an existential threat.

@@ -25,8 +25,8 @@ All of the above are the hallmarks of a wicked problem. I'd like to present a ca
 - Twitter's operations incrementally grew to be extremely expensive - requiring hundreds of thousands of servers and thousands of engineers. 
 - Twitter is itself under an increasing degree of regulatory scrutiny due to the politics surrounding its operations. Short-term this scrutiny requires diverting more resources to foster regulatory compliance; mid-term this implies a hefty tax on recruiting and operations, and long-term this is an existential threat.
 
-The above represents a tangle of different forces and pressures: economical, political, social and operational. This pattern means Twitter was going down fast when it was acquired in 2022 - and indeed, if anything, I tend to interpret Musk's strategy as a cutting the Gordian knot in a very direct sense.
+The above represents a tangle of different forces and pressures: economical, political, social and operational. This pattern means Twitter was going down fast when it was acquired by Elon Musk in 2022 - and indeed, if anything, I tend to interpret Musk's strategy as a cutting the Gordian knot and try to repurpose the freed pieces of rope.
 
-In less opaque terms, Musk is trying to harvest the one thing still going for Twitter - its US user base of its fundamental app experience - and try to reinvent it as a different, likely much smaller, company, that would actually be able to survive and in our new austere age.
+In less allegorical terms, Musk is trying to harvest the one thing still going for Twitter - its US user base of its fundamental app experience - and try to reinvent it as a different, likely much smaller, company, that might be able to survive and in our new austere age.
 
 It'll take a few years to see if Musk's winning for himself. However, the unfortunate reality for a lot of Twitter employees is that they have lost already, and they need to fight, each one for themselves, for a new source of daily bread. And that's the unfortunate truth of wicked problems: when you consider burning the village because that's the only way of saving it, the benefit won't be of the inhabitants.

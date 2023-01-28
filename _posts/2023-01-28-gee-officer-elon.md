@@ -4,7 +4,7 @@ title: "Gee, Officer Elon"
 date: 2023-01-28
 categories: pharma blogging career growth
 ---
-**TL;DR**: We examine Twitter's shipwreck to illustrate tne notion of a wicked problem
+**TL;DR**: We examine Twitter's shipwreck to illustrate the notion of a wicked problem
 
 I'm planning a long and sad blog post called "The Four Wicked Problems of the Israeli Polis". However I realized that quite a few of my reads would probably not be familiar with the notion of a *wicked problem*, so I wanted to showcase that concept discussing a technological leadership problem.
 
@@ -13,7 +13,7 @@ What is a wicked problem? Instead of [repeating Wikipedia](https://en.wikipedia.
 Note the following aspects:
 - Each different take on the situation brings about a different narrative. The specialists (law enforcement, judicial, therapeutic, social-work) contradict each other and fail to converge to a single actionable policy.
 - The endgame is unclear. Should the young men be "soda jerkers", because that's the best society has in store for them? How can their stigma be removed while not condoning their misdeeds?
-- The final weight of the system's failure is borne by the patrolling Officer Krupke who has very few tools to handle it beyond being a forceful brute, and perpetuating a pretty rotten state of affars on the ground.
+- The final weight of the system's failure is borne by the patrolling Officer Krupke who has very few tools to handle it beyond being a forceful brute, and perpetuating a pretty rotten state of affairs on the ground.
 
 All of the above are the hallmarks of a wicked problem. I'd like to present a case why the question of Twitter is also one.
 

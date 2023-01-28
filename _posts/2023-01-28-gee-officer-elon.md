@@ -6,9 +6,9 @@ categories: pharma blogging career growth
 ---
 **TL;DR**: We examine Twitter's shipwreck to illustrate the notion of a wicked problem
 
-I'm planning a long and sad blog post called "The Four Wicked Problems of the Israeli Polis". However I realized that quite a few of my reads would probably not be familiar with the notion of a *wicked problem*, so I wanted to showcase that concept discussing a technological leadership problem.
+I'm planning a long and sad blog post called "The Four Wicked Problems of the Israeli Polis". However I realized that quite a few of my readers would probably not be familiar with the notion of a *wicked problem*, so I decided first to present a couple of "simple cases".
 
-What is a wicked problem? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the amazing performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s). You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke).
+What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the amazing performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s) from Bernstein and Sondheim's *West Side Story*. You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke).
 
 Note the following aspects:
 - Each different take on the situation brings about a different narrative. The specialists (law enforcement, judicial, therapeutic, social-work) contradict each other and fail to converge to a single actionable policy.

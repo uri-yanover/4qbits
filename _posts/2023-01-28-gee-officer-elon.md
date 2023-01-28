@@ -28,6 +28,6 @@ All of the above are the hallmarks of a wicked problem. I'd like to present a ca
 
 The above represents a tangle of different forces and pressures: economical, political, social, entrepreneurial and operational. At the point of Twitter's acquisition in 2022, the sum of forces was pulling the company down, and fast. Accordingly, I tend to interpret Musk's strategy as an attempt to cut the Gordian knot and repurpose the freed pieces of rope.
 
-In less allegorical terms, Musk is trying to harvest the one thing still going for Twitter - its US user base of its fundamental app experience - and try to reinvent it as a different, inevitably much smaller, company, that might be able to survive and in our new austere age.
+In less allegorical terms, Musk is trying to salvage the one thing still going for Twitter - its US user base of its fundamental app experience - and try to reinvent it as a different, inevitably much smaller, company, that might be able to survive and in our new austere age.
 
 It'll take a few years to see if Musk's winning for himself. However, the unfortunate reality for a lot of Twitter employees is that they have lost already, and they need to fight for a new source of daily bread as disparate individuals. And that for me is what's sad about wicked problems: when you consider burning the village because that's the only way of saving it, perhaps this serves some greater good, but there's nothing in it for the people about to lose their homes.

@@ -6,12 +6,14 @@ categories: pharma blogging career growth
 ---
 **TL;DR**: We examine Twitter's shipwreck to illustrate the notion of a wicked problem
 
-I'm planning a long and sad blog post called "The Four Wicked Problems of the Israeli Polis". However I realized that quite a few of my readers would probably not be familiar with the notion of a *wicked problem*, so I decided first to present a couple of "simple cases".
+I'm planning a long and sad blog post called "The Four Wicked Problems of the Israeli Polis". However I realized that quite a few of my readers likely are not familiar with what people call a *wicked problem*, so I decided first to present a couple of interesting yet tractable cases.
 
-What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the amazing performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s) from Bernstein and Sondheim's *West Side Story*. You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke).
+What makes a problem wicked? Instead of [repeating Wikipedia](https://en.wikipedia.org/wiki/Wicked_problem), let me refer you to the remarkable performance of ["Gee, Officer Krupke"](https://www.youtube.com/watch?v=L514Zv8Q4_4&t=1s), here at the BBC Proms, and originally from Bernstein and Sondheim's *West Side Story* musical. 
 
-Note the following:
-- Each different take on the situation brings about a different narrative. The specialists (law enforcement, judicial, therapeutic, social-work) contradict each other and fail to converge to a single actionable policy.
+You can find the lyrics [here](https://www.westsidestory.com/gee-officer-krupke); they are a dialogue of several young members of a gang with specialists (law enforcement, judicial, therapeutic, social-work) tasked with solving society's conflict with those young men.
+
+What happens is:
+- Each different take on the situation brings about a different narrative. The specialists contradict each other and fail to converge to a single actionable policy.
 - The endgame is unclear. Should the young men be "soda jerkers", because that's the best society has in store for them? How can their stigma be removed while not condoning their misdeeds?
 - The final weight of the system's failure is borne by the patrolling Officer Krupke who has very few tools to handle it beyond being a forceful brute, and perpetuating a pretty rotten state of affairs on the ground.
 

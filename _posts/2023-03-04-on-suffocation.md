@@ -9,9 +9,9 @@ categories: politics poetry
 
 The great Russian poet Iosif (Joseph) Brodsky wrote in the early 1970s
 > A person of second-rate times, I proudly
-Declare that thoughts I conceived most profoundly,
-Were second-rate; I hereby leave them for all generations
-As a guide to contending with suffocation
+> Declare that thoughts I conceived most profoundly,
+> Were second-rate; I hereby leave them for all generations
+> As a guide to contending with suffocation
 
 While a superficial look on the recent government-led reforms in Israel may have the appearance of some principled disagreement over the theory of government, this is not how the reform looks upfront. Indeed, it is, plainly and simply, an opportunistic grab for power; the political regime it aims to establish has no ideological distinction, but is simply a mechanism for the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.
 
@@ -46,15 +46,15 @@ One core strategem of an opportunist government is to progressively take over wa
 Consider the following dialogue, which took place between Brodsky - the poet who wrote the epigram to this blog post, and a trial judge, who was soon going to sentence him to mandatory labor due to "not being a productive member of society":
 
 > J: And what is your occupation in general?
-B: Poet, poet-translator.
-J: And who recognized you to be a poet? Who put you in the ranks of poet?
-B: No one. (Unprovoked) And who put me in the ranks of humanity?
-J: Did you study it?
-B: What?
-J: How to be a poet? Did you attempt to finish an institute of higher learning … where they prepare … teach …
-B: I did not think that it is given to one by education.
-J: By what then?
-B: I think it is ... from God.
+> B: Poet, poet-translator.
+> J: And who recognized you to be a poet? Who put you in the ranks of poet?
+> B: No one. (Unprovoked) And who put me in the ranks of humanity?
+> J: Did you study it?
+> B: What?
+> J: How to be a poet? Did you attempt to finish an institute of higher learning ... where they prepare ... teach ...
+> B: I did not think that it is given to one by education.
+> J: By what then?
+> B: I think it is ... from God.
 
 It is apparent that for the judge it was genuinely inconceivable that Brodsky could be a poet at all without being a member of some association - and of course in the Soviet system, that could only be a state-affiliated association, in which he would be expected to abide by the wishes of the incumbent generation of poets and administrators - a notion that was fundamentally incompatible with Brodsky's temperament as an artist.
 

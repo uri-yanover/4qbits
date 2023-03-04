@@ -22,14 +22,14 @@ Opportunism's earliest symptom is the government losing motivation to serve anyt
 
 During the Soviet stagnation, the economy simply froze solid in its tracks, exhausted by massive defense spending, high investment/low yield civilian projects and the progressively increasing burden of corruption and black market dynamics.
 
-With respect to lives, a great example is the Soviet involvement in Afghanistan, which quickly escalated a proxy war between the Soviet Union and the United States, continuing which was not in the Soviet interest - yet it was allowed to drag on for a decade.
+A great example of the waste of lives is the Soviet involvement in Afghanistan, which quickly escalated a proxy war between the Soviet Union and the United States, continuing which was not in the Soviet interest - yet it was allowed to drag on for a decade.
 
 The forecast for Israeli tech should be apparent here: its current assets will be used in a very short sighted way to cover governmental spending, whether directly by excessive taxation or indirectly through inflation and lack of public services. Within a startup generation (5 years), this will drive key people and resources to seek a more equitable locality.
 
 # Nepotism/Corruption as a scourge of human capital
-Since an opportunist doesn’t care about outcomes, the most advantageous choices for staffing positions are those that give something back - this boils down to choices that are either corrupt or nepotistic or both.
+Since an opportunist doesn’t care about outcomes, the most advantageous choices for staffing positions are those that involve kickbacks - the consideration could be financial, quid pro quo or familial (nepotism).
 
-In case the position in question does not accommodate a choice that favors the opportunist, it should at least do as little harm as possible. Hence, the opportunist will not dare to bring in new and promising upstarts, lest the opportunist should be eclipsed! Even compared with humanity at large, which is pretty cowardly when it comes to fresh faces, opportunist regimes are plain and simple scared of brilliant people.
+In case the position in question does not accommodate a choice that favors the opportunist, it should at least do as little harm as possible. Hence, the opportunist will not dare to bring in new and promising upstarts, lest the opportunist should be eclipsed! Even compared with humanity at large, which is pretty cowardly when it comes to fresh faces, opportunist regimes are plain and simple scared of new people coming on, no matter how brilliant.
 
 Remarkably hundreds of thousands of people from the Soviet Union who led lives not matching their respective talents, went on to immigrate and win new places for themselves in new countries. There they had a chance to demonstrate their brilliance, breaking through the bonds imposed by immigration and smashing their own individual glass ceilings; such was the story of my own family. Yet, millions of other brilliant people likely could not or did not immigrate, and remained in a society that wasted their talent and indeed their very lives.
 

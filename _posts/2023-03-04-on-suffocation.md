@@ -43,7 +43,7 @@ A necessary aspect of opportunist governance is an adoption of a specific messag
 
 One core strategem of an opportunist government is to progressively take over ways to signal merit. 
 
-Consider the following dialogue, which took place between Brodsky - the poet who wrote the epigram to this blog post, and a trial judge, who was soon going to sentence him to mandatory labor due to "not being a productive member of society":
+Consider the following dialogue, which took place between Brodsky - the poet who wrote the epigram to this blog post, and a trial judge, who was soon going to sentence him to forced labor due to "not being a productive member of society":
 
 > J: And what is your occupation in general?  
 > B: Poet, poet-translator.  

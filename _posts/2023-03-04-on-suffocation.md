@@ -27,7 +27,7 @@ With respect to lives, a great example is the Soviet involvement in Afghanistan,
 The forecast for Israeli tech should be apparent here: its current assets will be used in a very short sighted way to cover governmental spending, whether directly by excessive taxation or indirectly through inflation and lack of public services. Within a startup generation (5 years), this will drive key people and resources to seek a more equitable locality.
 
 # Nepotism/Corruption as a scourge of human capital
-Since an opportunist doesn’t care about outcomes, the most advantageous choices for staffing positions are those that give something back to the nepotist - this boils down to choices that are either corrupt or nepotistic or both.
+Since an opportunist doesn’t care about outcomes, the most advantageous choices for staffing positions are those that give something back - this boils down to choices that are either corrupt or nepotistic or both.
 
 In case the position in question does not accommodate a choice that favors the opportunist, it should at least do as little harm as possible. Hence, the opportunist will not dare to bring in new and promising upstarts, lest the opportunist should be eclipsed! Even compared with humanity at large, which is pretty cowardly when it comes to fresh faces, opportunist regimes are plain and simple scared of brilliant people.
 

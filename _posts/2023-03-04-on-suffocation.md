@@ -7,7 +7,7 @@ categories: politics poetry
 
 **TL;DR**: Opportunism will undermine the society's very structure until it breaks down; bad times are coming.
 
-In appearance, a superficial look on the recent government-led reforms in Israel may have the appearance of some principled disagreement over the theory of government. In essense that's an opportunistic grab for power; the political regime it aims to establish has no ideological distinction, but is simply a mechanism for the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.
+A superficial look on the recent government-led reforms in Israel may leave the impression of some principled disagreement over the theory of government. However, in essense, the move is an opportunistic grab for power; the mechanism it aims to install is little more than the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.
 
 I’d like to use the opportunity to present some learnings from the Soviet society, which entered a period of unbridled governmental opportunism in 1965-1985; right at its end, the period was labeled as "stagnation" ("zastoy", застой). It is of that that the great Russian poet Iosif (Joseph) Brodsky wrote in the early 1970s
 > A person of second-rate times, I proudly  

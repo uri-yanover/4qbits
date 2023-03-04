@@ -18,7 +18,7 @@ I’d like to use the opportunity to present some learnings from the Soviet soci
 (Partial translation: Uri Yanover)
 
 # Economics: waste at multiple levels
-Opportunism's earliest symptom is the government losing motivation to serve anything but niche interests. Inherently what follows is the waste of public goods (such as the budget), followed by a waste of productivity, a waste of good will and cohesion and over time - a waste lives.
+Opportunism's earliest symptom is the government losing motivation to serve anything but niche interests. Inherently what follows is the waste of public goods (such as the budget), followed by a waste of productivity, a waste of good will and cohesion and over time - a waste of lives.
 
 During the Soviet stagnation, the economy simply froze solid in its tracks, exhausted by massive defense spending, high investment/low yield civilian projects and the progressively growing burden of corruption and black market dynamics.
 

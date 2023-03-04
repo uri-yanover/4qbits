@@ -15,7 +15,7 @@ As a guide to contending with suffocation
 
 While a superficial look on the recent government-led reforms in Israel may have the appearance of some principled disagreement over the theory of government, this is not how the reform looks upfront. Indeed, it is, plainly and simply, an opportunistic grab for power; the political regime it aims to establish has no ideological distinction, but is simply a mechanism for the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.
 
-I’d like to use the opportunity to present some learnings from the Soviet society, which entered a similar power dynamic in 1965-1985; right at its end, the period was labeled as “stagnation” (“zastoy”, застой). 
+I’d like to use the opportunity to present some learnings from the Soviet society, which entered a similar power dynamic in 1965-1985; right at its end, the period was labeled as "stagnation" ("zastoy", застой). 
 
 # Economics: waste at multiple levels
 Opportunism's earliest symptom is the government losing motivation to serve anything but niche interests. Inherently what follows is the waste of public goods (such as the budget), followed by a waste of productivity, a waste of good will and cohesion and over time - a waste lives.
@@ -43,7 +43,7 @@ A necessary aspect of opportunist governance is an adoption of a specific messag
 
 One core strategem of an opportunist government is to progressively take over ways to signal merit. 
 
-Consider the following dialogue, which took place between Brodsky - the poet who wrote the epigram to this blog post, and a trial judge, who was soon going to sentence him to mandatory labor due to “not being a productive member of society”:
+Consider the following dialogue, which took place between Brodsky - the poet who wrote the epigram to this blog post, and a trial judge, who was soon going to sentence him to mandatory labor due to "not being a productive member of society":
 
 > J: And what is your occupation in general?
 B: Poet, poet-translator.
@@ -54,7 +54,7 @@ B: What?
 J: How to be a poet? Did you attempt to finish an institute of higher learning … where they prepare … teach …
 B: I did not think that it is given to one by education.
 J: By what then?
-B: I think it is … from God.
+B: I think it is ... from God.
 
 It is apparent that for the judge it was genuinely inconceivable that Brodsky could be a poet at all without being a member of some association - and of course in the Soviet system, that could only be a state-affiliated association, in which he would be expected to abide by the wishes of the incumbent generation of poets and administrators - a notion that was fundamentally incompatible with Brodsky's temperament as an artist.
 

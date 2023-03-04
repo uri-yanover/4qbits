@@ -33,7 +33,7 @@ In case the position in question does not accommodate a choice that favors the o
 
 Remarkably hundreds of thousands of people from the Soviet Union who led lives not matching their respective talents, went on to immigrate and win new places for themselves in new countries. There they had a chance to demonstrate their brilliance, breaking through the bonds imposed by immigration and smashing their own individual glass ceilings; such was the story of my own family. Yet, millions of other brilliant people likely could not or did not immigrate, and remained in a society that wasted their talent and indeed their very lives.
 
-Capable people notice that an opportunistic regime shunts their growth all too quickly -- hence Brodksy's suffocation. If given even an iota of an opportunity, they will run.
+Capable people notice that an opportunistic regime shunts their growth all too quickly; in Brodsky's words, they feel suffocated. Given even an iota of an opportunity, they will run, the more talent - the quicker.
 
 Such is going to be the fate of capable Israelis - Israel is already a major exporter of talent for academia and art; doubtlessly this will also be the case for the talent-rich local industry.
 

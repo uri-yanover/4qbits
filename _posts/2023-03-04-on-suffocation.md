@@ -35,7 +35,9 @@ Remarkably hundreds of thousands of people from the Soviet Union who led lives n
 
 Capable people notice that an opportunistic regime shunts their growth all too quickly; in Brodsky's words, they feel suffocated. Given even an iota of an opportunity, they will run, the more talent - the quicker.
 
-Such is going to be the fate of capable Israelis - Israel is already a major exporter of talent for academia and art; doubtlessly this will also be the case for the talent-rich local industry.
+The practice of patronage and quid pro quo protectionism has always been present in Israeli public life. After a few good decades, with the weakening of public order, that practice is going to come back with vengeance. The heart of Israeli tech companies is small businesses. They are highly susceptible to regulatory changes, public relation disasters, even minor brushes with the law. Even mild and well-considered changes can hurt them; raging rug-pulls such as the one going on now, are murderous.
+
+On a personal level, Israel is already a major exporter of talent for academia and art; doubtlessly this will also be the case for the talent-rich local tech industry.
 
 # Normalizing the stench 
 A necessary aspect of opportunist governance is an adoption of a specific messaging to delay the government's inevitable fall from popularity
@@ -58,7 +60,7 @@ Consider the following dialogue, which took place between Brodsky - the poet who
 
 It is apparent that for the judge it was genuinely inconceivable that Brodsky could be a poet at all without being a member of some association - and of course in the Soviet system, that could only be a state-affiliated association, in which he would be expected to abide by the wishes of the incumbent generation of poets and administrators - a notion that was fundamentally incompatible with Brodsky's temperament as an artist.
 
-The practice of patronage and quid pro quo protectionism has always been present in Israeli public life. After a few good decades, with the weakening of public order, that practice is going to come back with vengeance. The heart of Israeli tech companies is small businesses. They are highly susceptible to regulatory changes, public relation disasters, even minor brushes with the law. Even mild and well-considered changes can hurt them; raging rug-pulls such as the one going on now, are murderous.
+Opportunistic regimes select for people who are numb towards rot. Tech, on the other hand, requires the opposite: people who are aggressively fighting rot to make their business a success. While it is possible for small pockets of excellence to remain in the midst of overwhelming depravity, they will find an increasingly hard time growing; without being able to grow they will cease being a viable target for investment and eventually cease adding up to an industry. 
 
 # Long-term ideological setup for oppression
 While a lot of Westerners have the mental image of the Soviet Union as a society of Communist zombies, this is simply not the case. As anywhere else on the globe, Soviet political operators tended to follow their own personal interests.

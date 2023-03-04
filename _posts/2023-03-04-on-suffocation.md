@@ -72,8 +72,7 @@ Consider the following dialogue, which took place between Brodsky - the poet who
 
 It is apparent that for the judge it was genuinely inconceivable that Brodsky could be a poet at all without being a member of some association - and of course in the Soviet system, that could only be a state-affiliated association, in which he would be expected to abide by the wishes of the incumbent generation of poets and administrators - a notion that was fundamentally incompatible with Brodsky's temperament as an artist.
 
-The practice of patronage and quid pro quo protectionism has always been present in Israeli piblic life. After a few good decades, with the weakening of public order, that practice is going to come back with vengeance - and of course tech companies, which are highly vulnerable to even the subtlest interference, will be the first to suffer
-
+The practice of patronage and quid pro quo protectionism has always been present in Israeli piblic life. After a few good decades, with the weakening of public order, that practice is going to come back with vengeance. The heart of Israeli tech companies is small businesses. They are highly susceptible to regulatory changes, public relation disasters, even minor brushes with the law. Even mild and well-considered changes can hurt them; raging rug-pulls such as the one going on now, are murderous.
 
 # Ideology as a long-term infrastructure for oppression
 While a lot of Westerners have the mental image of the Soviet Union as a society of Communist zombies, this is simply not the case. As anywhere else on the globe, Soviet political operators tended to follow their own personal interests.
@@ -85,6 +84,4 @@ In the Soviet Union, communism was used as a pretext to justify the state's vari
 Likewise, an opportunistic Israeli government will concoct an ideology for preserving itself in power; since the most salient threat to preserving that power is the old elites, these are going to be delegitimized and oppressed. Since a lot of the Israeli tech is culturally closer to the old elites (academia, industry, finance), undoubtedly they will suffer the blow. Doubtlessly it will be cynical and doubtlessly it will hurt a lot of people, doubtlessly unnecessarily.
 
 # Summary
-None of what happens in Israel is particularly new to Israel, and neither was what happened in the Soviet Union. 
-
-In the progress of a neglected bacterial or fungal infections, there's a stage in which the pathogen makes it into the bloodstream. Soon thereafter comes a point at which antibiotics can no longer avail, especially if the organism's immune system is already weakened. How far along we are with regard to that, I can't say; I wish all involved best of luck.
+None of what happens in Israel is particularly new to Israel, and neither was what happened in the Soviet Union. However there's a point in which a damaged building will crumble beyond repair; and with all of the water leaks and intermittent fires, real and imaginary, we are around that point. Whether we've past it already, only time will tell; in the meanwhile I wish all involved best of luck.

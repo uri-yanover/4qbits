@@ -9,8 +9,11 @@ categories: politics poetry
 
 The great Russian poet Iosif (Joseph) Brodsky wrote in the early 1970s
 > A person of second-rate times, I proudly
+ 
 > Declare that thoughts I conceived most profoundly,
+
 > Were second-rate; I hereby leave them for all generations
+
 > As a guide to contending with suffocation
 
 While a superficial look on the recent government-led reforms in Israel may have the appearance of some principled disagreement over the theory of government, this is not how the reform looks upfront. Indeed, it is, plainly and simply, an opportunistic grab for power; the political regime it aims to establish has no ideological distinction, but is simply a mechanism for the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.

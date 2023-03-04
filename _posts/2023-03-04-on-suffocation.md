@@ -7,7 +7,9 @@ categories: politics poetry
 
 **TL;DR**: Opportunism is a pathogen that will eat through every good bit it touches; bad times are imminent
 
-The great Russian poet Iosif (Joseph) Brodsky wrote in the early 1970s
+While a superficial look on the recent government-led reforms in Israel may have the appearance of some principled disagreement over the theory of government, this is not how the reform looks upfront. Indeed, it is, plainly and simply, an opportunistic grab for power; the political regime it aims to establish has no ideological distinction, but is simply a mechanism for the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.
+
+I’d like to use the opportunity to present some learnings from the Soviet society, which entered a similar power dynamic in 1965-1985; right at its end, the period was labeled as "stagnation" ("zastoy", застой). It is of that that the great Russian poet Iosif (Joseph) Brodsky wrote in the early 1970s
 > A person of second-rate times, I proudly
 >
 > Declare that thoughts I conceived most profoundly,
@@ -16,11 +18,7 @@ The great Russian poet Iosif (Joseph) Brodsky wrote in the early 1970s
 >
 > As a guide to contending with suffocation
 
-(My own translation)
-
-While a superficial look on the recent government-led reforms in Israel may have the appearance of some principled disagreement over the theory of government, this is not how the reform looks upfront. Indeed, it is, plainly and simply, an opportunistic grab for power; the political regime it aims to establish has no ideological distinction, but is simply a mechanism for the individual survival of a certain milieu of political operators and their patrons, some of whom are not even residents of Israel.
-
-I’d like to use the opportunity to present some learnings from the Soviet society, which entered a similar power dynamic in 1965-1985; right at its end, the period was labeled as "stagnation" ("zastoy", застой). 
+(Translation mine)
 
 # Economics: waste at multiple levels
 Opportunism's earliest symptom is the government losing motivation to serve anything but niche interests. Inherently what follows is the waste of public goods (such as the budget), followed by a waste of productivity, a waste of good will and cohesion and over time - a waste lives.

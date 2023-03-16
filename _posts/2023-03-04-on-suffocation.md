@@ -70,7 +70,7 @@ Similar to corporate "company value" sets, state ideologies do not aim to provid
 In the Soviet Union, communism was used as a pretext to justify the state's various obsessions and to smother discontent regarding the populace's awful living conditions. The notion of ill-willing foreign bourgeois elites was a convenient pretext for both the brutality of the regime and its hypertrophied imperialistic tendencies. But in truth it was all a concealment mechanism for the regime's inability to steer itself to safety.
 
 Since the old elites form by far the greatest political threat to the government, the government will need a pseudo-moral mechanism to delegitimize and oppress them
-Hence, an opportunistic Israeli government will concoct an ideology for preserving itself in power with the elites framed an Adversary. Quite a lot of the Israeli tech will get hurt because it has a massive representation of the old elites (arriving from academia, industry and finance). As with any type of opression, the onslaught will be cynical, wanton and cruel.
+Hence, an opportunistic Israeli government will concoct an ideology for preserving itself in power with the elites framed as an Adversary. Quite a lot of the Israeli tech will get hurt because it has a massive representation of the old elites (arriving from academia, industry and finance). As with any type of opression, the onslaught will be cynical, wanton and cruel.
 
 # Summary
 It's funny how reading some sources, for example the Russian Wikipedia, one is tempted to assume that the Stagnation was "not as bad as it sounds", perhaps a little step backward for an otherwise functional society. However what transpired right after it ended lends to a much darker view.

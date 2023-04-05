@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The Freedom of Creation"
+title: "The Market of Floatsam"
 date: 2023-04-05
 categories: art blogging growth
 ---
-**TL;DR**: Some learings from hearing great artists about their art
+**TL;DR**: The history of songs is a great example for how to search for our own voices.
 
 In the last couple of months, I'd been listening to Israel Broadcasting Authority's podcast called ["One Song"](https://www.kan.org.il/podcast/program.aspx/?progid=3). The subject is always the people behind an Israeli song that ended up being popular - the authors, the performers, the producers, the inspirations and so on. If possible, an interview is conducted or excerpted; if not, as is often the case with hits from 40 or 50 years back, prominent experts are brought in to fill in. 
 
@@ -15,11 +15,10 @@ One very frequent trope in the podcast is that songs are born out of a gag; such
 
 More generally, it appears that the creative birth of a majority of great songs required a touch of serendipity; people going out a tiny bit out of their regular trajectories, in a way that happens to most of us on a daily basis, but then - leading the creators in question somewhere else. However, it is very often the case that the spark of inspiration happens years before it has a chance to ignite anything. The skilled authors exhibit a pattern of being able to box that spark. Leah Goldberg's wrote about that explicitly:
 
-> And then you laughed so hard when I intoned, 
-> That I'll approach the heavens' rosy sweetness, 
-> And pick it up, and fold it lest it slips us, 
-> And store it midst the pages of my tome 
-
+> And then you laughed so hard when I intoned,  
+> That I'll approach the heavens' rosy sweetness,  
+> And pick it up, and fold it lest it slips us,  
+> And store it midst the pages of my tome
 
 # Perspiration and congregation
 While boxing the spark is a skill in itself, it appears that most of the songs discussed only took root after somebody (who could be the original author or another person, e.g. Shlomo Yidov composing *And there Was Between Us Just the Shining*) came to a conjunction of two circumstances:

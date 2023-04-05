@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Floatsam Peddlers"
+title: "Flotsam Peddlers"
 date: 2023-04-05
 categories: art blogging growth
 ---

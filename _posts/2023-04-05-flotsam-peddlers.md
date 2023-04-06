@@ -6,7 +6,7 @@ categories: art blogging growth
 ---
 **TL;DR**: How should we search for our own voice? Some ideas regarding inspiration, iteration and feedback.
 
-In the last couple of months I'd been attentively listening to Israel Broadcasting Authority's podcast called [*One Song*](https://www.kan.org.il/podcast/program.aspx/?progid=3). The subject is always the people behind an Israeli song that ended up being popular - the authors, the performers, the producers, the human inspirations and anyone else (curiously, with some interesting stories inside that category). Where possible, an interview is conducted or excerpted; if there are no longer enough interviewees and interviews to work with, prominent experts are brought in to fill in. 
+In the last couple of months I'd been attentively listening to Israel Broadcasting Authority's podcast called [*One Song*](https://www.kan.org.il/podcast/program.aspx/?progid=3). The subject is always the people behind an Israeli song that ended up being popular - the authors, the performers, the producers, the inspirations - indeed, anyone affected by the song except the general public. Where possible, an interview is conducted or excerpted; if there are no longer enough interviewees and interviews to work with, prominent experts are brought in to fill in. 
 
 After tuning into more than 20 episodes, I think I've arrived at some observations which are worth sharing.
 

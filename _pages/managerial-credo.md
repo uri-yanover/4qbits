@@ -5,7 +5,7 @@ date: 2024-08-04
 categories: business leadership
 ---
 
-- The foundation of any relationship, business and otherwise, is assuming ability (competence) and good intent ("doing one's best in the circumstances"). This is especially important for your peers and subordinates. Giving out both positive and negative feedback is a mandatory part of our job, but it should always occur deliberately and while building on that foundation.
+- The foundation of any relationship, business and otherwise, is assuming ability (competence) and good intent ("doing one's best in the circumstances"). This is especially important for your peers and subordinates. Giving out both positive and negative feedback is a mandatory part of our job, which should always be deliberate and in particular deliberately build on the foundation of assuming ability and good indent.
 
 1. My role as a manager's role is threefold: (i) To build an organization, (ii) To enact control over the routine, and (iii) To impactfully mitigate emergencies.
 

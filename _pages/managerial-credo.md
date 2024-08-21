@@ -11,7 +11,7 @@ categories: business leadership
 - For everyone in the organization, regardless of their role, the working assumption needs to be that their positive feedback and outlook is what keeps the people around them afloat and relevant.
 
 # Responsibilities
-1. My role as a manager's role is threefold: (i) To build an organization, (ii) To enact control over the routine, and (iii) To impactfully mitigate emergencies.
+1. My role as a manager is threefold: (i) To build an organization, (ii) To enact control over the routine, and (iii) To impactfully mitigate emergencies.
 
 2. When I build an organization, I'm responsible for the existence of the apparatus around each subordinate, and the subordinates are responsible for running that apparatus. The subordinates and I will join forces in designing and improving the apparatus, but the overall responsibility is mine; likewise, the subordinates and I will join forces in running the apparatus but the overall responsibility is theirs.
 

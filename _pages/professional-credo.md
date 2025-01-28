@@ -1,11 +1,11 @@
 My credo is composed of three parts:
 
-1. Making impact
-2. Team/Togetherness/Conspiracy
-3. Growth trajectories for people
+Making impact ↔ Team/Togetherness/Conspiracy ↔ Growth trajectories for people
 
 # Making Impact
+In a commercial organization impact means - having an explicit story on how my work brings money into the organization (or at least allows it to save money).
 
 # Team/Togetherness/Conspiracy
+T
 
 # Growth trajectories 
